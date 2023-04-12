@@ -6,7 +6,8 @@ O diagrama apresentado na Figura X mostra o fluxo de interação do usuário pel
 
 
 <CENTER>
-Figura
+<img src='img/telas/Fluxo1.png'>
+Figura X – Fluxo 1
 </CENTER>
 
 
@@ -16,9 +17,8 @@ Conforme os fluxos de telas do projeto, apresentado no item anterior, as telas d
 * Cabeçalho - Local onde ficam o logotipo do sistema e menu de acessibilidade (menu sanduíche);
 * Conteúdo - Apresenta o conteúdo da tela acessada
 
-<img src='img/interface/Estrutura_Padrao.png'>
-
 <CENTER>
+<img src='img/telas/Estrutura.png'>
 Figura X – Estrutura padrão do sistema
 </CENTER>
 
@@ -37,7 +37,8 @@ Ao se preencher os campos CPF e Senha, e clicando o botão “Entrar”, o siste
 Caso o atalho “Esqueci minha Senha” seja acionada, o sistema irá ser redirecionado para a tela de recuperação de senha.
 
 <CENTER>
-<img src='img/interface/Tela_Inicial.png'>
+<img src='img/telas/Tela_Inicial.png'>
+Figura X – Tela Inicial
 </CENTER>
 
 
@@ -55,9 +56,9 @@ Ao se preencher o campo com o CPF da conta a ter sua senha recuperada, caso o CP
 Caso seja clicado no atalho “Voltar”, o sistema retornará para a tela inicial de autenticação.
 
 <CENTER>
-<img src='img/interface/Tela_Recuperacao_Senha.png'>
+<img src='img/telas/Tela_Recuperacao_Senha.png'>
+Figura X – Tela Recuperacao de Senha
 </CENTER>
-
 
 ### Tela – Listagem de pessoas
 
@@ -78,9 +79,9 @@ Clicando-se no botão “Adicionar”, o sistema irá apresentar a tela de inser
 Clicando-se no menu sanduíche, o sistema irá apresentar a tela de menu.
 
 <CENTER>
-<img src='img/interface/Tela_Listagem_Pessoas.png'>
+<img src='img/telas/Tela_Listagem_Pessoas.png'>
+Figura X – Tela de listagem de pessoas
 </CENTER>
-
 
 ### Tela – Inserir uma nova pessoa
 
@@ -97,6 +98,7 @@ Clicando-se no botão “Salvar”, o sistema irá inserir as novas informaçõe
 
 <CENTER>
 <img src='img/interface/Tela_Inserir_Pessoas.png'>
+Figura X - Tela de inserção de pessoas
 </CENTER>
 
 
@@ -141,10 +143,7 @@ Clicando-se no botão “Excluir”, o sistema irá apresentar uma pergunta. Cas
 
 <CENTER>
 <img src='img/interface/Tela_Editar_Pessoas.png'>
-</CENTER>
-
-<CENTER>
-Figura X – Tela para inserção de uma nova pessoa
+Figura X - Tela de edição de uma pessoa já cadastrada
 </CENTER>
 
 ### Tela – Menu de Opções
