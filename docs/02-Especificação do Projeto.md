@@ -7,11 +7,15 @@ Agora serão apresentadas no quadro a seguir as personas levantadas durante o pr
 
 Quadro 1 – Personas
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
+<table>
+  <tr>
+    <td>One</td>
+    <td>Two</td>
+  </tr>
+  <tr>
+    <td colspan="2">Three</td>
+  </tr>
+</table>
 
 Alessandra
 
