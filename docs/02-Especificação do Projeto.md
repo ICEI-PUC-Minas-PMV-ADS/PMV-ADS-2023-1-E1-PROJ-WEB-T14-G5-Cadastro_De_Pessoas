@@ -131,7 +131,23 @@ Fonte: Elaborado pelos autores com dados extraídos das entrevistas
 
 As seguintes histórias dos usuários foram registradas pelo entendimento do dia a dia das personas identificadas para o projeto.
 
-[QUADRO_HISTORIAS]
+			
+| Pessoa | gostaria de | para |
+---
+| Alessandra | Poder separar quem é fornecedor de cliente | Poder mandar uma mala direta para os fornecedores
+---
+| Alessandra | Poder classificar os bons dos maus fornecedores | Poder dar prioridade de compra aos bons fornecedores
+---
+| Raquel | Poder cadastrar todos os seus clientes | Poder ter um banco de candidatos em um único lugar
+---
+| Linthéa | Poder informar se já entrevistou um candidato da lista | Poder saber se precisa ligar e não ligar novamente
+---
+| Linthéa | Saber a última vez que ligou para o contato | Manter um histórico constante de atendimentos, sem que ele fique esquecido
+---
+| Marília | Saber quem faz aniversário nesse mês | Enviar felicitações da clínica de psicologia
+---
+| Marília | Classificar com marcadores específicas cada paciente | Agrupar pessoas com mesma psicopatia para terapia em grupo
+
 
 ## 2.3 Requisitos do Projeto
 
