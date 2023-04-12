@@ -7,18 +7,10 @@ Agora serão apresentadas no quadro a seguir as personas levantadas durante o pr
 
 Quadro 1 – Personas
 
-| [FOTOALE] | | ALESSANDRA |
+| [FOTOALE] | . | ALESSANDRA |
 ---
-| Idade: 39 
-Ocupação: Empresária de empresa de festas
-|
-Aplicativos:
-    • Instagram
-    • Facebook
-| |
----
-| | ||
----
+| Idade: 39 \nOcupação: Empresária de empresa de festas | Aplicativos:\n    • Instagram    • Facebook | |
+
 
 Alessandra
 
