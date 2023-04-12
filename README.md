@@ -1,4 +1,4 @@
-# Cadastro de Pesoas
+# Cadastro de Pessoas
 
 ` Análise e Desenvolvimento de Sistemas `
 
