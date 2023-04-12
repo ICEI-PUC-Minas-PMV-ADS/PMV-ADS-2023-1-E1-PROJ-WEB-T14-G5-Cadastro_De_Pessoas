@@ -13,87 +13,117 @@ Quadro 1 – Personas
 		<TD colspan='2'>ALESSANDRA</TD>
 	</TR>
 	<TR>
-		<TD></TD>
-		<TD>IDADE</TD>
-		<TD>Aplicativos</TD>
+		<TD>Idade: 39<BR>
+Ocupação: Empresária de empresa de festas</TD>
+		<TD>Aplicativos:<BR>
+• Instagram<BR>
+• Facebook
+</TD>
 	</TR>
 	<TR>
-		<TD>Motivações</TD>
-		<TD>Frustrações</TD>
-		<TD>Hobbies</TD>
+		<TD>Motivações<BR>
+    • Quer organizar seus clientes e fornecedores</TD>
+		<TD>Frustrações<BR>
+    • Os sistemas atuais mantém os cadastros separados, tendo que cadastrar duas vezes a mesma pessoa em abas diferentes.</TD>
+		<TD>Hobbies, História<BR>
+    • Fotografia<BR>
+    • Decoração<BR>
+    • Mãe de gêmeos</TD>
 	</TR>
 	
 </TABLE>
 
-Alessandra
 
-Idade: 39
-Ocupação: Empresária de empresa de festas
-Aplicativos:
-    • Instagram
-    • Facebook
-Motivações
-    • Quer organizar seus clientes e fornecedores
-Frustrações
-    • Os sistemas atuais mantém os cadastros separados, tendo que cadastrar duas vezes a mesma pessoa em abas diferentes.
-Hobbies, História
-    • Fotografia
-    • Decoração
-    • Mãe de gêmeos
-
-
-Raquel
-
-Idade: 54
-Ocupação: Empresária na área de RH
-Aplicativos:
-    • Instagram
-    • Facebook
-Motivações
-    • Quer organizar seus candidatos
-    • Quer quantificar o número de processos seletivos realizados.
-Frustrações
+			
+<TABLE>
+	<TR>
+		<TD rowspan='2'>[FOTO]</TD>
+		<TD colspan='2'>RAQUEL</TD>
+	</TR>
+	<TR>
+		<TD>Idade: 54<BR>
+Ocupação: Empresária na área de RH</TD>
+		<TD>Aplicativos:<BR>
+    • Instagram<BR>
+    • Facebook<BR></TD>
+	</TR>
+	<TR>
+		<TD>Motivações<BR>
+    • Quer organizar seus candidatos<BR>
+    • Quer quantificar o número de processos seletivos</TD>
+		<TD>Frustrações<BR>
     • Os sistemas atuais são engessados e caros
-Hobbies, História
-    • Leitura
-    • Música
-    • Especialista em RH
+</TD>
+		<TD>Hobbies, História<BR>
+    • Leitura<BR>
+    • Música<BR>
+    • Especialista em RH</TD>
+	</TR>
+	
+</TABLE>
 
 
 
-Linthéa
 
-Idade: 28
-Ocupação: Funcionária em empresa de RH
-Aplicativos:
-    • Instagram
-    • Youtube
-Motivações
-    • Quer agilidade no trabalho
-    • Precisa de um tempo hábil de resposta aos clientes
-Frustrações
+
+
+<TABLE>
+	<TR>
+		<TD rowspan='2'>[FOTO]</TD>
+		<TD colspan='2'>Linthéa</TD>
+	</TR>
+	<TR>
+		<TD>Idade: 28<BR>
+Ocupação: Funcionária em empresa de RH</TD>
+		<TD>Aplicativos:<BR>
+    • Instagram<BR>
+    • Youtube<BR>
+</TD>
+	</TR>
+	<TR>
+		<TD>Motivações<BR>
+    • Quer agilidade no trabalho<BR>
+    • Precisa de um tempo hábil de resposta aos clientes</TD>
+		<TD>Frustrações<BR>
     • Um volume muito grande de seleções, vinculadas a documentos e planilhas
-Hobbies, História
-    • Eventos Evangélicos
+</TD>
+		<TD>Hobbies, História<BR>
+    • Eventos Evangélicos<BR>
     • Graduada em Psicologia
+</TD>
+	</TR>
+	
+</TABLE>
+			
 
-
-Marília
-
-Idade: 56
-Ocupação: Psicoterapeuta
-Aplicativos:
-    • Duolingo
-    • Youtube
-Motivações
-    • Precisa agrupar os pacientes
-    • Precisa melhorar o fluxo de pacientes, agrupando os da mesma psicopatia.
-Frustrações
-    • Não tem tempo de mexer em cadastros complexos, tendo que anotar em agenda de papel.
-Hobbies, História
-    • Cozinhar
-    • Graduada em Psicologia
-    • Mãe de 2 filhos
+<TABLE>
+	<TR>
+		<TD rowspan='2'>[FOTO]</TD>
+		<TD colspan='2'>Marília</TD>
+	</TR>
+	<TR>
+		<TD>Idade: 56<BR>
+Ocupação: Psicoterapeuta</TD>
+		<TD>Aplicativos:<BR>
+    • Duolingo<BR>
+    • Youtube</TD>
+	</TR>
+	<TR>
+		<TD>Motivações:<BR>
+    • Precisa agrupar os pacientes<BR>
+    • Precisa melhorar o fluxo de pacientes, agrupando os da mesma psicopatia.<BR>
+</TD>
+		<TD>Frustrações:<BR>
+    • Não tem tempo de mexer em cadastros complexos, tendo que anotar em agenda de papel.</TD>
+		<TD>Hobbies, História<BR>
+    • Cozinhar<BR>
+    • Graduada em Psicologia</TD>
+	</TR>
+	
+</TABLE>			
+			
+			
+			
 Fonte: Elaborado pelos autores com dados extraídos das entrevistas
 
 
