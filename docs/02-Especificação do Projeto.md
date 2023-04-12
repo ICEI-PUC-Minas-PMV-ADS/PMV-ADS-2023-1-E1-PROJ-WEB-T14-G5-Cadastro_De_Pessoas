@@ -7,15 +7,23 @@ Agora serão apresentadas no quadro a seguir as personas levantadas durante o pr
 
 Quadro 1 – Personas
 
-<table>
-  <tr>
-    <td>One</td>
-    <td>Two</td>
-  </tr>
-  <tr>
-    <td colspan="2">Three</td>
-  </tr>
-</table>
+<TABLE>
+	<TR>
+		<TD rowspan='2'>[FOTO]</TD>
+		<TD colspan='2'>ALESSANDRA</TD>
+	</TR>
+	<TR>
+		<TD></TD>
+		<TD>IDADE</TD>
+		<TD>Aplicativos</TD>
+	</TR>
+	<TR>
+		<TD>Motivações</TD>
+		<TD>Frustrações</TD>
+		<TD>Hobbies</TD>
+	</TR>
+	
+</TABLE>
 
 Alessandra
 
