@@ -26,3 +26,7 @@ Uma pesquisa realizada em março de 2023 com pessoas físicas e jurídicas indic
 * Permitir a categorização e agrupamento dos contatos;
 * Possibilitar a filtragem e ordenação dos contatos, assim como definição de tempo de vida atendendo a Lei Geral de Proteção de Dados.
 
+## Público-alvo
+
+Em uma análise inicial, pôde-se determinar que uma ferramenta deste porte pode ser aproveitada por todos os tipos de pessoas, que já tem uma rede de contatos estabelecida ou que está sempre incluindo novos membros em suas necessidades de rede de contatos. Mas pela entrevista aprofundada com os entrevistados mostrou que empresas estão entre as maiores interessadas, principalmente pela necessidade de um grupo ativo de contatos necessários para seus negócios. 
+
