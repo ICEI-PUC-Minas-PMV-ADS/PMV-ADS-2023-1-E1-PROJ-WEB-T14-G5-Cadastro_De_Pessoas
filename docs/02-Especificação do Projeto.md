@@ -155,14 +155,57 @@ A definição do escopo funcional do projeto ocorre mediante a descrição dos r
 
 A tabela a seguir apresenta os requisitos funcionais do projeto e sua prioridade.
 
-[TABELA]
+| Código | Descrição | Prioridade |
+| --- | --- | --- |
+| RF-1 | O sistema deverá cadastrar pessoas físicas ou jurídicas, contendo todos os dados como nome completo, CPF ou CNPJ, telefones e endereço. | Alta |
+| RF-2 | O sistema deverá cadastrar categorias para serem vinculadas às pessoas, podendo uma pessoa estar vinculada a mais de uma categoria. | Alta |
+| RF-3 | O sistema deverá registrar o histórico de contatos realizados com as pessoas, informando por qual meio (e-mail, telefone, etc). | Baixa |
+| RF-4 | O sistema deverá permitir ao usuário filtrar pessoas por filtros | Alta |
+| RF-5 | O sistema deverá permitir a exportação da listagem para o Excel | Baixa | 
+| RF-6 | O sistema deverá permitir criar campos adicionais no cadastro de pessoas. | Baixa |
+| RF-7 | O sistema deverá permitir enviar mala direta para os grupos de pessoas selecionados. | Baixa |
+| RF-8 | O sistema deverá ser responsivo, podendo ser utilizado em celular ou computador. | Alto |
+| RF-9 | O sistema deverá ter a interface mais simples, para uso em computadores ou celulares antigos. | Baixo |
+
 
 
 ### 2.3.2 Requisitos Não Funcionais
 A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
 
+| Código | Descrição |
+| --- | --- | 
+| RNF-1 | O sistema deverá permitir trabalhar de forma offline no celular. | 
+| RNF-2 | O sistema deverá permitir que se cadastre um milhão de pessoas. | 
+| RNF-3 | Garantir boas práticas de desenvolvimento evitando um SQL Injection. |
+| RNF-4 | O sistema não poderá funcionar sem acesso autorizado. |
+| RNF-5 | O sistema deverá estar em conformidade com a Lei Geral de Proteção de Dados. |
+| RNF-6 | O banco de dados deverá estar situado em um servidor Linux não compartilhado. |
+| RNF-7 | O banco de dados deverá estar em um HD SSD para melhor desempenho. |
+
+
 ### 2.3.3 Requisitos de negócios
 A tabela a seguir apresenta os requisitos de negócios que o projeto deverá atender.
 
+| Código | Descrição | Prioridade |
+| --- | --- | --- | 
+| RN-01 | Apenas os usuários administrativos podem criar campos genéricos. | Alta |
+| RN-02 | Os campos adicionais criados pelos usuários não podem ter os nomes repetidos. | Baixa |
+| RN-03 | Não se pode cadastrar mais de uma pessoa com o mesmo nome completo repetidamente. | Média |
+| RN-04 | O sistema deve bloquear o IP do usuário que tentar entrar com login e senha errados por mais de 3 vezes. | Baixa |
+| RN-05 | O nome da pessoa deve ser obrigatório. | Alta |
+| RN-06 | O sistema deve possuir um histórico de alterações. | Média |
+| RN-07 | Todos os CPFs e CNPJs das pessoas cadastradas devem ser validados.| Alta |
+| RN-08 | Cada pessoa deverá ter um código incremental único. | Alta | 
+| RN-09 | Cada usuário deverá ser uma pessoa pré-cadastrada no sistema.| Alta | 
+	
+
 ### 2.3.4 Restrições 
 As questões que limitam a execução do projeto são apresentadas na tabela a seguir.
+			
+| Código | Descrição | Prioridade |
+| --- | --- | --- |
+| RE-01 | A etapa inicial do projeto deverá cumprir o prazo de 31/03/2023. | Alta | 
+| RE-02 | O sistema deverá ser desenvolvido utilizando-se linguagens de programação que não requeiram licença de software paga. | Baixa |
+| RE-03 | O programa não pode ultrapassar 50 MB. | Média |
+| RE-04 | O sistema não poderá utilizar trechos de programas já existentes. | Alta |
+
