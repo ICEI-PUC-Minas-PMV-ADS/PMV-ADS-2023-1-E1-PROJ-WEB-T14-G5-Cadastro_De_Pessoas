@@ -218,13 +218,16 @@ Ao se clicar no botão “Excluir”, o sistema irá, após confirmação, exclu
 
 ### Usuários
 #### Tela - Listagem de usuários
+A tela de listagem de usuários consiste no cabeçalho padrão contendo o menu sanduíche além dos seguintes elementos:
+* Título “USUÁRIOS :: LISTAGEM”
+* Campo de texto para busca de informações
+* Uma grade com as informações conforme a busca realizada.
+* Botão “Adicionar”.
+
+Ao se clicar no botão “Adicionar”, o sistema irá apresentar a tela de inserção de um novo usuário.
+
 #### Tela - Inserir um novo usuários
 #### Tela - Editar um usuário existente
-
-### Categorias
-#### Tela - Listagem de categorias
-#### Tela - Inserir uma nova categoria
-#### Tela - Editar uma categoria existente
 
 ### Campos genéricos
 #### Tela - Listagem de campos genéricos
