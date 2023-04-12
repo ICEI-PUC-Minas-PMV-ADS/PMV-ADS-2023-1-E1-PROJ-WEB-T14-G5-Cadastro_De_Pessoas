@@ -6,19 +6,18 @@
 
 `Grupo 02 - 2023/1`
 
-O objetivo geral do site é desenvolver ....
-
 ## Integrantes
 
 * Andrey Bibiano Jardim
+* Bárbara Gabriela Evangelista Paixão
+* Evellyn Andrade Alves da Silva
 * Leonardo Santos
-* Leonardo Ferreira
-* Bárbara
-* Evellyn
+* Leonardo Ferreira dos Santos
+* Thiago Muniz Severino dos Santos
 
 ## Orientador
 
-* Carlos Alberto Marques Pietrobon
+* Prof. Dr. Carlos Alberto Marques Pietrobon
 
 ## Instruções de utilização
 
@@ -44,7 +43,7 @@ O objetivo geral do site é desenvolver ....
 
 # Código
 
-<li><a href="src/README.md"> Código Fonte</a></li>
+<li><a href="src/README.md">Código Fonte</a></li>
 
 # Apresentação
 
