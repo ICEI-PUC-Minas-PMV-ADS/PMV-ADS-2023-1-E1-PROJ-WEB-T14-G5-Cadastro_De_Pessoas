@@ -56,7 +56,28 @@ Caso seja clicado no atalho “Voltar”, o sistema retornará para a tela inici
 <CENTER><img src='img/telas/Tela_Recuperacao_Senha.png'></CENTER>
 <CENTER>Figura X – Tela Recuperacao de Senha</CENTER>
 
-### Tela – Listagem de pessoas
+
+### Tela – Menu de Opções
+
+A tela de menu de opções apresentará o cabeçalho sem o menu sanduíche (que aponta para este mesma tela), juntamente com os seguintes elementos:
+
+* Título “MENU DE OPÇÕES”;
+* Botão “Categorias”;
+* Botão “Pessoas”;
+* Botão “Campos Genéricos”;
+* Botão “Usuários”
+* Botão “Sair”.
+
+Clicando-se no botão “Categorias”, o sistema será redirecionado para a listagem de categorias. O mesmo comportamento se repete nos botões “Pessoas”, “Campos genéricos”, “Usuários”. A única exceção é o botão “Sair”, que finaliza a sessão e o sistema retorna para a tela de autenticação.
+
+<CENTER>
+<img src='img/interface/Tela_Menu_Sanduiche.png'>
+Figura X - Tela de opções
+</CENTER>
+
+### Pessoas
+
+#### Tela - Listagem de pessoas
 
 A tela de listagem de pessoas consiste no cabeçalho padrão contendo o menu sanduíche. Este menu irá aparecer em todas as telas, exceto nas telas de recuperação de senha e tela de entrada do sistema. Esta tela apresenta os seguintes elementos:
 * Cabeçalho com o menu sanduíche
@@ -79,7 +100,8 @@ Clicando-se no menu sanduíche, o sistema irá apresentar a tela de menu.
 Figura X – Tela de listagem de pessoas
 </CENTER>
 
-### Tela – Inserir uma nova pessoa
+
+#### Tela - Inserir uma nova pessoa
 
 A tela de edição de uma pessoa existente consiste no cabeçalho padrão contendo o menu sanduíche e os seguintes elementos:
 * Título “INSERIR UMA NOVA PESSOA”;
@@ -99,7 +121,7 @@ Figura X - Tela de inserção de pessoas
 
 
 
-### Tela – Edição de uma pessoa existente
+#### Tela - Edição de uma pessoa existente
 
 A tela de edição de uma pessoa existente consiste no cabeçalho padrão contendo o menu sanduíche e os seguintes elementos:
 
@@ -141,21 +163,10 @@ Clicando-se no botão “Excluir”, o sistema irá apresentar uma pergunta. Cas
 Figura X - Tela de edição de uma pessoa já cadastrada
 </CENTER>
 
-### Tela – Menu de Opções
 
-A tela de menu de opções apresentará o cabeçalho sem o menu sanduíche (que aponta para este mesma tela), juntamente com os seguintes elementos:
+### Categorias
 
-* Título “MENU DE OPÇÕES”;
-* Botão “Categorias”;
-* Botão “Pessoas”;
-* Botão “Campos Genéricos”;
-* Botão “Usuários”
-* Botão “Sair”.
-
-Clicando-se no botão “Categorias”, o sistema será redirecionado para a listagem de categorias. O mesmo comportamento se repete nos botões “Pessoas”, “Campos genéricos”, “Usuários”. A única exceção é o botão “Sair”, que finaliza a sessão e o sistema retorna para a tela de autenticação.
-
-
-### Tela – Listagem de Categorias
+#### Tela - Listagem de Categorias
 
 A tela de listagem de categorias consiste no cabeçalho padrão contendo o menu sanduíche além dos seguintes elementos:
 * Título “CATEGORIAS :: LISTAGEM”
@@ -166,7 +177,7 @@ A tela de listagem de categorias consiste no cabeçalho padrão contendo o menu 
 Ao se clicar no botão “Adicionar”, o sistema irá apresentar a tela de inserção de uma nova categoria.
 
 
-### Tela – Inserir uma nova categoria
+#### Tela - Inserir uma nova categoria
 
 A tela de inserção de uma nova categoria a consiste no cabeçalho padrão contendo o menu sanduíche além dos seguintes elementos:
 
@@ -185,7 +196,7 @@ Ao se clicar no botão “Salvar”, o sistema irá gravar a nova categoria no b
 
 Ao se clicar no botão “Voltar para listagem”, o sistema irá voltar para a listagem de categorias sem salvar os dados preenchidos.
 
-### Tela – Editar uma categoria existente
+#### Tela – Editar uma categoria existente
 
 A tela de edição de uma categoria já existente consiste no cabeçalho padrão contendo o menu sanduíche além dos seguintes elementos:
 
@@ -204,3 +215,18 @@ O campo código será automático e preenchido após salvar.
 Ao se clicar no botão “Salvar”, o sistema irá atualizar categoria no banco de dados e exibir a mensagem de confirmação.
 Ao se clicar no botão “Voltar para listagem”, o sistema irá voltar para a listagem de categorias sem salvar os dados preenchidos.
 Ao se clicar no botão “Excluir”, o sistema irá, após confirmação, excluir esta categoria do banco de dados.
+
+### Usuários
+#### Tela - Listagem de usuários
+#### Tela - Inserir um novo usuários
+#### Tela - Editar um usuário existente
+
+### Categorias
+#### Tela - Listagem de categorias
+#### Tela - Inserir uma nova categoria
+#### Tela - Editar uma categoria existente
+
+### Campos genéricos
+#### Tela - Listagem de campos genéricos
+#### Tela - Inserir um novo campo genérico
+#### Tela - Editar uma campo genérico existente
