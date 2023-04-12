@@ -36,8 +36,8 @@ Ao se preencher os campos CPF e Senha, e clicando o botão “Entrar”, o siste
 
 Caso o atalho “Esqueci minha Senha” seja acionada, o sistema irá ser redirecionado para a tela de recuperação de senha.
 
-<CENTER><img src='img/telas/Tela_Inicial.png'></CENTER>
-<CENTER>Figura X – Tela Inicial</CENTER>
+<img src='img/telas/Tela_Inicial.png' style='text-align:center'>
+Figura X – Tela Inicial
 
 
 ### Tela – Recuperação de Senha
