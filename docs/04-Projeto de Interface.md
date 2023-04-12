@@ -36,10 +36,8 @@ Ao se preencher os campos CPF e Senha, e clicando o botão “Entrar”, o siste
 
 Caso o atalho “Esqueci minha Senha” seja acionada, o sistema irá ser redirecionado para a tela de recuperação de senha.
 
-<CENTER>
-<img src='img/telas/Tela_Inicial.png'>
-Figura X – Tela Inicial
-</CENTER>
+<CENTER><img src='img/telas/Tela_Inicial.png'></CENTER>
+<CENTER>Figura X – Tela Inicial</CENTER>
 
 
 ### Tela – Recuperação de Senha
@@ -55,10 +53,8 @@ Ao se preencher o campo com o CPF da conta a ter sua senha recuperada, caso o CP
 
 Caso seja clicado no atalho “Voltar”, o sistema retornará para a tela inicial de autenticação.
 
-<CENTER>
-<img src='img/telas/Tela_Recuperacao_Senha.png'>
-Figura X – Tela Recuperacao de Senha
-</CENTER>
+<CENTER><img src='img/telas/Tela_Recuperacao_Senha.png'></CENTER>
+<CENTER>Figura X – Tela Recuperacao de Senha</CENTER>
 
 ### Tela – Listagem de pessoas
 
@@ -189,7 +185,7 @@ Ao se clicar no botão “Salvar”, o sistema irá gravar a nova categoria no b
 
 Ao se clicar no botão “Voltar para listagem”, o sistema irá voltar para a listagem de categorias sem salvar os dados preenchidos.
 
-### - Tela – Editar uma categoria existente
+### Tela – Editar uma categoria existente
 
 A tela de edição de uma categoria já existente consiste no cabeçalho padrão contendo o menu sanduíche além dos seguintes elementos:
 
