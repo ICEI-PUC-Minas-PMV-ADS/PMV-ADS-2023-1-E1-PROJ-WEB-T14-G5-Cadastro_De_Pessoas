@@ -2,7 +2,13 @@
 Dentre as preocupações para a montagem da interface do sistema, estamos estabelecendo foco em questões como agilidade, acessibilidade e usabilidade. Desta forma, o projeto tem uma identidade visual padronizada em todas as telas que são projetadas para funcionamento em desktops e dispositivos móveis.
 
 ## 4.1 Fluxo do Usuário
-O diagrama apresentado na Figura X mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o ambiente MarvelApp do projeto
+O diagrama apresentado na Figura X mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o ambiente MarvelApp do projeto no endereço https://marvelapp.com/prototype/6ad1204/screen/91220260.
+
+
+<CENTER>
+Figura
+</CENTER>
+
 
 ## 4.2 Wireframes
 Conforme os fluxos de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes...
@@ -12,8 +18,9 @@ Conforme os fluxos de telas do projeto, apresentado no item anterior, as telas d
 
 <img src='img/interface/Estrutura_Padrao.png'>
 
+<CENTER>
 Figura X – Estrutura padrão do sistema
-
+</CENTER>
 
 ### Tela – Inicial
 
@@ -29,7 +36,9 @@ Ao se preencher os campos CPF e Senha, e clicando o botão “Entrar”, o siste
 
 Caso o atalho “Esqueci minha Senha” seja acionada, o sistema irá ser redirecionado para a tela de recuperação de senha.
 
+<CENTER>
 <img src='img/interface/Tela_Inicial.png'>
+</CENTER>
 
 
 ### Tela – Recuperação de Senha
@@ -45,9 +54,9 @@ Ao se preencher o campo com o CPF da conta a ter sua senha recuperada, caso o CP
 
 Caso seja clicado no atalho “Voltar”, o sistema retornará para a tela inicial de autenticação.
 
-
+<CENTER>
 <img src='img/interface/Tela_Recuperacao_Senha.png'>
-
+</CENTER>
 
 
 ### Tela – Listagem de pessoas
@@ -68,8 +77,9 @@ Alterando-se o conteúdo da busca, automaticamente a grade é atualizada com os 
 Clicando-se no botão “Adicionar”, o sistema irá apresentar a tela de inserção de pessoas.
 Clicando-se no menu sanduíche, o sistema irá apresentar a tela de menu.
 
+<CENTER>
 <img src='img/interface/Tela_Listagem_Pessoas.png'>
-
+</CENTER>
 
 
 ### Tela – Inserir uma nova pessoa
@@ -85,12 +95,9 @@ A tela de edição de uma pessoa existente consiste no cabeçalho padrão conten
 Clicando-se no botão “Voltar para Lista”, o sistema irá ser direcionado para a listagem de pessoas já cadastradas.
 Clicando-se no botão “Salvar”, o sistema irá inserir as novas informações no banco de dados e exibir a mensagem de confirmação.
 
+<CENTER>
 <img src='img/interface/Tela_Inserir_Pessoas.png'>
-
-
-
-
-
+</CENTER>
 
 
 
@@ -132,9 +139,13 @@ Clicando-se no botão “Lista”, o sistema irá voltar para a tela de listagem
 Clicando-se no botão “Salvar”, o sistema irá salvar os dados digitados da pessoa no banco de dados e apresentar a tela de confirmação de salvamento das informações.
 Clicando-se no botão “Excluir”, o sistema irá apresentar uma pergunta. Caso seja confirmada, o registro referente a esta pessoa será excluído.
 
+<CENTER>
 <img src='img/interface/Tela_Editar_Pessoas.png'>
-Figura X – Tela para inserção de uma nova pessoa
+</CENTER>
 
+<CENTER>
+Figura X – Tela para inserção de uma nova pessoa
+</CENTER>
 
 ### Tela – Menu de Opções
 
