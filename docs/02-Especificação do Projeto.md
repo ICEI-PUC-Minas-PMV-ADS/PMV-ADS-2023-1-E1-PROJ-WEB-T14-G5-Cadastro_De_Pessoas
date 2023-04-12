@@ -131,7 +131,7 @@ Fonte: Elaborado pelos autores com dados extraídos das entrevistas
 
 As seguintes histórias dos usuários foram registradas pelo entendimento do dia a dia das personas identificadas para o projeto.
 
-			
+
 | Pessoa | gostaria de | para |
 | --- | --- | --- |
 | Alessandra | Poder separar quem é fornecedor de cliente | Poder mandar uma mala direta para os fornecedores |
