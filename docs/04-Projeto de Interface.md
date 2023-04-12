@@ -202,7 +202,5 @@ A tela de edição de uma categoria já existente consiste no cabeçalho padrão
 O campo código será automático e preenchido após salvar.
 
 Ao se clicar no botão “Salvar”, o sistema irá atualizar categoria no banco de dados e exibir a mensagem de confirmação.
-
 Ao se clicar no botão “Voltar para listagem”, o sistema irá voltar para a listagem de categorias sem salvar os dados preenchidos.
-
 Ao se clicar no botão “Excluir”, o sistema irá, após confirmação, excluir esta categoria do banco de dados.
