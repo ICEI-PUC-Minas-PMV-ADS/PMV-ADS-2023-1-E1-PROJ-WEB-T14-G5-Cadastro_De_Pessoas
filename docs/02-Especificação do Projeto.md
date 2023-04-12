@@ -9,7 +9,7 @@ Quadro 1 – Personas
 
 <TABLE>
 	<TR>
-		<TD rowspan='2'><img src='img/personas/Alessandra.png'></TD>
+		<TD rowspan='2'><img src='img/personas/Alessandra.png' style='height: 100px'></TD>
 		<TD colspan='2'>ALESSANDRA</TD>
 	</TR>
 	<TR>
@@ -37,7 +37,7 @@ Ocupação: Empresária de empresa de festas</TD>
 			
 <TABLE>
 	<TR>
-		<TD rowspan='2'><img src='img/personas/Raquel.png'></TD>
+		<TD rowspan='2'><img src='img/personas/Raquel.png'  style='height: 100px'></TD>
 		<TD colspan='2'>RAQUEL</TD>
 	</TR>
 	<TR>
@@ -69,7 +69,7 @@ Ocupação: Empresária na área de RH</TD>
 
 <TABLE>
 	<TR>
-		<TD rowspan='2'><img src='img/personas/Linthea.png'></TD>
+		<TD rowspan='2'><img src='img/personas/Linthea.png'  style='height: 100px'></TD>
 		<TD colspan='2'>Linthéa</TD>
 	</TR>
 	<TR>
@@ -98,7 +98,7 @@ Ocupação: Funcionária em empresa de RH</TD>
 
 <TABLE>
 	<TR>
-		<TD rowspan='2'><img src='img/personas/Marilia.png'></TD>
+		<TD rowspan='2'><img src='img/personas/Marilia.png'  style='height: 100px'></TD>
 		<TD colspan='2'>Marília</TD>
 	</TR>
 	<TR>
