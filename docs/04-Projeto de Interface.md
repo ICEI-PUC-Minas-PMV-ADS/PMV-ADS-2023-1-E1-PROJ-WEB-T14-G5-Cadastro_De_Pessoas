@@ -46,10 +46,10 @@ Figura X – Tela Inicial
 
 A tela de recuperação de senha consiste no cabeçalho padrão (sem o menu sanduíche), e no contenedor de conteúdo contendo os seguintes elementos:
 
-    • Título “RECUPERAÇÃO DE SENHA”;
-    • Campo para preenchimento do CPF da conta a ser recuperada;
-    • Botão “Recuperar Senha”;
-    • Atalho “Voltar”.
+* Título “RECUPERAÇÃO DE SENHA”;
+* Campo para preenchimento do CPF da conta a ser recuperada;
+* Botão “Recuperar Senha”;
+* Atalho “Voltar”.
 
 Ao se preencher o campo com o CPF da conta a ter sua senha recuperada, caso o CPF esteja corretamente cadastrado no cadastro de usuários, o sistema irá enviar um link para recuperação da senha.
 
@@ -63,16 +63,16 @@ Figura X – Tela Recuperacao de Senha
 ### Tela – Listagem de pessoas
 
 A tela de listagem de pessoas consiste no cabeçalho padrão contendo o menu sanduíche. Este menu irá aparecer em todas as telas, exceto nas telas de recuperação de senha e tela de entrada do sistema. Esta tela apresenta os seguintes elementos:
-    • Cabeçalho com o menu sanduíche
-    • Título “PESSOAS :: LISTAGEM”
-    • Campo de texto para busca de informações
-    • Uma grade com as informaçõe conforme a busca realizada.
-    • Botão “Adicionar”.
+* Cabeçalho com o menu sanduíche
+* Título “PESSOAS :: LISTAGEM”
+* Campo de texto para busca de informações
+* Uma grade com as informaçõe conforme a busca realizada.
+* Botão “Adicionar”.
 
 
 Cada linha da grade de busca irá apresentar os seguintes elementos:
-    • Dados da pessoa (detalhar?)
-    • Botão de edição
+* Dados da pessoa (detalhar?)
+* Botão de edição
 
 Alterando-se o conteúdo da busca, automaticamente a grade é atualizada com os dados da busca.
 Clicando-se no botão “Adicionar”, o sistema irá apresentar a tela de inserção de pessoas.
@@ -86,12 +86,12 @@ Figura X – Tela de listagem de pessoas
 ### Tela – Inserir uma nova pessoa
 
 A tela de edição de uma pessoa existente consiste no cabeçalho padrão contendo o menu sanduíche e os seguintes elementos:
-    • Título “INSERIR UMA NOVA PESSOA”;
-    • Grupo “Endereço”
-        ◦ Tipo de logradouro  (Rua, Avenida, Travessa...)
-        ◦ Logradouro
-    • Botão “Voltar para Lista”
-    • Botão “Salvar”.
+* Título “INSERIR UMA NOVA PESSOA”;
+* Grupo “Endereço”
+    * Tipo de logradouro  (Rua, Avenida, Travessa...)
+    * Logradouro
+* Botão “Voltar para Lista”
+* Botão “Salvar”.
 
 Clicando-se no botão “Voltar para Lista”, o sistema irá ser direcionado para a listagem de pessoas já cadastradas.
 Clicando-se no botão “Salvar”, o sistema irá inserir as novas informações no banco de dados e exibir a mensagem de confirmação.
@@ -107,35 +107,34 @@ Figura X - Tela de inserção de pessoas
 
 A tela de edição de uma pessoa existente consiste no cabeçalho padrão contendo o menu sanduíche e os seguintes elementos:
 
-    • Título “PESSOAS :: EDITAR UMA PESSOA EXISTENTE”;
-    • Grupo “Dados Principais” contendo: 
-        ◦ Código?
-        ◦ CPF/CNPJ
-        ◦ Nome / Razão Social
-        ◦ Apelido
-        ◦ Categoria.
+* Título “PESSOAS :: EDITAR UMA PESSOA EXISTENTE”;
+* Grupo “Dados Principais” contendo: 
+    * Código?
+    * CPF/CNPJ
+    * Nome / Razão Social
+    * Apelido
+    * Categoria
 
-    • Grupo “Contatos”
-        ◦ Telefone
-        ◦ E-mail
+* Grupo “Contatos”
+    * Telefone
+    * E-mail
 
-    • Grupo “Endereço”
-        ◦ Tipo de logradouro  (Rua, Avenida, Travessa...)
-        ◦ Logradouro
-        ◦ Número
-        ◦ Complemento
-        ◦ Bairro
-        ◦ Cidade
-        ◦ Estado
-        ◦ CEP
+* Grupo “Endereço”
+    * Tipo de logradouro  (Rua, Avenida, Travessa...)
+    * Logradouro
+    * Número
+    * Complemento
+    * Bairro
+    * Cidade
+    * Estado
+    * CEP
 
-    • Grupo “Campos Genéricos” 
-        ◦ Irá apresentar os campos criados na funcionalidade “Campos Genéricos”
+* Grupo “Campos Genéricos” 
+    * Irá apresentar os campos criados na funcionalidade “Campos Genéricos”
 
-    • Botão “Voltar para Lista”
-    • Botão “Salvar”
-    • Botão “Excluir”
-
+* Botão “Voltar para Lista”
+* Botão “Salvar”
+* Botão “Excluir”
 
 Clicando-se no botão “Lista”, o sistema irá voltar para a tela de listagem de pessoas.
 Clicando-se no botão “Salvar”, o sistema irá salvar os dados digitados da pessoa no banco de dados e apresentar a tela de confirmação de salvamento das informações.
@@ -150,12 +149,12 @@ Figura X - Tela de edição de uma pessoa já cadastrada
 
 A tela de menu de opções apresentará o cabeçalho sem o menu sanduíche (que aponta para este mesma tela), juntamente com os seguintes elementos:
 
-    • Título “MENU DE OPÇÕES”;
-    • Botão “Categorias”;
-    • Botão “Pessoas”;
-    • Botão “Campos Genéricos”;
-    • Botão “Usuários”
-    • Botão “Sair”.
+* Título “MENU DE OPÇÕES”;
+* Botão “Categorias”;
+* Botão “Pessoas”;
+* Botão “Campos Genéricos”;
+* Botão “Usuários”
+* Botão “Sair”.
 
 Clicando-se no botão “Categorias”, o sistema será redirecionado para a listagem de categorias. O mesmo comportamento se repete nos botões “Pessoas”, “Campos genéricos”, “Usuários”. A única exceção é o botão “Sair”, que finaliza a sessão e o sistema retorna para a tela de autenticação.
 
@@ -163,10 +162,10 @@ Clicando-se no botão “Categorias”, o sistema será redirecionado para a lis
 ### Tela – Listagem de Categorias
 
 A tela de listagem de categorias consiste no cabeçalho padrão contendo o menu sanduíche além dos seguintes elementos:
-    • Título “CATEGORIAS :: LISTAGEM”
-    • Campo de texto para busca de informações
-    • Uma grade com as informações conforme a busca realizada.
-    • Botão “Adicionar”.
+* Título “CATEGORIAS :: LISTAGEM”
+* Campo de texto para busca de informações
+* Uma grade com as informações conforme a busca realizada.
+* Botão “Adicionar”.
 
 Ao se clicar no botão “Adicionar”, o sistema irá apresentar a tela de inserção de uma nova categoria.
 
@@ -175,13 +174,13 @@ Ao se clicar no botão “Adicionar”, o sistema irá apresentar a tela de inse
 
 A tela de inserção de uma nova categoria a consiste no cabeçalho padrão contendo o menu sanduíche além dos seguintes elementos:
 
-    • Título “CATEGORIAS :: INSERIR UMA NOVA CATEGORIA”
-    • Grupo “Dados Principais” com os seguintes campos:
-        ◦ Código
-        ◦ Descrição
+* Título “CATEGORIAS :: INSERIR UMA NOVA CATEGORIA”
+* Grupo “Dados Principais” com os seguintes campos:
+    * Código
+    * Descrição
 
-    • Botão “Voltar para lista”;
-    • Botão “Salvar”.
+* Botão “Voltar para lista”;
+* Botão “Salvar”.
 
 
 O campo código será automático e preenchido após salvar.
@@ -194,14 +193,14 @@ Ao se clicar no botão “Voltar para listagem”, o sistema irá voltar para a 
 
 A tela de edição de uma categoria já existente consiste no cabeçalho padrão contendo o menu sanduíche além dos seguintes elementos:
 
-    • Título “CATEGORIAS :: EDITAR UMA CATEGORIA EXISTENTE”
-    • Grupo “Dados Principais” com os seguintes campos:
-        ◦ Código
-        ◦ Descrição
+* Título “CATEGORIAS :: EDITAR UMA CATEGORIA EXISTENTE”
+* Grupo “Dados Principais” com os seguintes campos:
+    * Código
+    * Descrição
 
-    • Botão “Voltar para lista”;
-    • Botão “Salvar”;
-    • Botão “Excluir”.
+* Botão “Voltar para lista”;
+* Botão “Salvar”;
+* Botão “Excluir”.
 
 
 O campo código será automático e preenchido após salvar.
