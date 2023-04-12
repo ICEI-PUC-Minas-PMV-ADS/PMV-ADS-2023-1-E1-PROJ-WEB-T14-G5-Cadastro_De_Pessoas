@@ -5,7 +5,78 @@ A equipe identificou os desafios e requisitos para o projeto por meio de uma abo
 ## 2.1 Personas
 Agora serão apresentadas no quadro a seguir as personas levantadas durante o processo de entendimento do problema.
 
-[QUADRO_PERSONAS]
+Quadro 1 – Personas
+
+Alessandra
+
+Idade: 39
+Ocupação: Empresária de empresa de festas
+Aplicativos:
+    • Instagram
+    • Facebook
+Motivações
+    • Quer organizar seus clientes e fornecedores
+Frustrações
+    • Os sistemas atuais mantém os cadastros separados, tendo que cadastrar duas vezes a mesma pessoa em abas diferentes.
+Hobbies, História
+    • Fotografia
+    • Decoração
+    • Mãe de gêmeos
+
+
+Raquel
+
+Idade: 54
+Ocupação: Empresária na área de RH
+Aplicativos:
+    • Instagram
+    • Facebook
+Motivações
+    • Quer organizar seus candidatos
+    • Quer quantificar o número de processos seletivos realizados.
+Frustrações
+    • Os sistemas atuais são engessados e caros
+Hobbies, História
+    • Leitura
+    • Música
+    • Especialista em RH
+
+
+
+Linthéa
+
+Idade: 28
+Ocupação: Funcionária em empresa de RH
+Aplicativos:
+    • Instagram
+    • Youtube
+Motivações
+    • Quer agilidade no trabalho
+    • Precisa de um tempo hábil de resposta aos clientes
+Frustrações
+    • Um volume muito grande de seleções, vinculadas a documentos e planilhas
+Hobbies, História
+    • Eventos Evangélicos
+    • Graduada em Psicologia
+
+
+Marília
+
+Idade: 56
+Ocupação: Psicoterapeuta
+Aplicativos:
+    • Duolingo
+    • Youtube
+Motivações
+    • Precisa agrupar os pacientes
+    • Precisa melhorar o fluxo de pacientes, agrupando os da mesma psicopatia.
+Frustrações
+    • Não tem tempo de mexer em cadastros complexos, tendo que anotar em agenda de papel.
+Hobbies, História
+    • Cozinhar
+    • Graduada em Psicologia
+    • Mãe de 2 filhos
+Fonte: Elaborado pelos autores com dados extraídos das entrevistas
 
 
 ## 2.2 História de Usuários
