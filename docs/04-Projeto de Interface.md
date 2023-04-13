@@ -256,10 +256,13 @@ Ao clicar no botão “Adicionar”, o sistema irá apresentar a tela de inserç
 
 A tela de inserir novos usuários consiste no cabeçalho padrão contendo o menu sanduíche e os seguintes elementos:
 
-* Título “INSERIR UMA NOVA PESSOA”;
-* Grupo “Endereço” 
-   * Tipo de Logradouro (Rua, Avenida, Travessa...)
-   * Logradouro
+* Título “USUÁRIO :: CRIAR UM NOVO USUÁRIO”;
+* Grupo “Dados Principais” 
+   * CPF
+   * Nome
+   * E-mail
+   * Senha
+   * Campo de confirmação de senha
 * Botão “Voltar para Lista”
 * Botão “Salvar”.
 
@@ -272,18 +275,13 @@ Figura X - Tela de Inserção de Pessoas
 
 A tela de editar usuários existentes consiste no cabeçalho padrão contendo o menu sanduíche e os seguintes elementos:
 
-* Grupo "Dados Principais"
-   * CPF/CNPJ
-   * Nome/Razão Social
-* Grupo "Contatos" 
-   * Telefone
+* Título “USUÁRIO :: EDITAR UM USUÁRIO EXISTENTE”;
+* Grupo “Dados Principais” 
+   * CPF
+   * Nome
    * E-mail
-* Grupo "Endereço"
-   * Bairro 
-   * Cidade
-   * Estado
-   * CEP
-* Grupo "Campos Genéricos" 
+   * Senha
+   * Campo de confirmação de senha
 * Botão "Voltar para Lista"
 * Botão "Salvar" 
 * Botão "Excluir"
