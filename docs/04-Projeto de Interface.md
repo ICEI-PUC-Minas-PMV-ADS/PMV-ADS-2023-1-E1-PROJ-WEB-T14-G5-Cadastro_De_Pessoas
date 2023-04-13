@@ -17,10 +17,10 @@ Conforme os fluxos de telas do projeto, apresentado no item anterior, as telas d
 * Cabeçalho - Local onde ficam o logotipo do sistema e menu de acessibilidade (menu sanduíche);
 * Conteúdo - Apresenta o conteúdo da tela acessada
 
-<CENTER>
-<img src='img/telas/Estrutura.png'>
+<p align='center'>
+<img src='img/telas/Estrutura.png'><BR>
 Figura X – Estrutura padrão do sistema
-</CENTER>
+</p>
 
 ### Tela – Inicial
 
