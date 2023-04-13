@@ -241,7 +241,8 @@ Figura X - Tela de listagem de campos genérico
 #### Tela - Inserir um novo campo genérico
 
 A tela de adição possibilita a inclusão de novos campos genéricos no cadastro de pessoas.
-<img src='img/telas/tela-campo-generico-inserir.png'>
+
+<img src='img/telas/tela-campo-generico-inserir.png'>            
 Figura X - Tela de inserir ucdm novo campo genérico
 
 #### Tela - Editar um campo genérico existente
