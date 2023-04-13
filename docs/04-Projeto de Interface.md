@@ -17,10 +17,10 @@ Conforme os fluxos de telas do projeto, apresentado no item anterior, as telas d
 * Cabeçalho - Local onde ficam o logotipo do sistema e menu de acessibilidade (menu sanduíche);
 * Conteúdo - Apresenta o conteúdo da tela acessada
 
-<CENTER>
-<img src='img/telas/Estrutura.png'>
+<p align='center'>
+<img src='img/telas/Estrutura.png'><BR>
 Figura X – Estrutura padrão do sistema
-</CENTER>
+</p>
 
 ### Tela – Inicial
 
@@ -218,6 +218,7 @@ Ao se clicar no botão “Excluir”, o sistema irá, após confirmação, exclu
 
 ### Usuários
 #### Tela - Listagem de usuários
+
 A tela de listagem de usuários consiste no cabeçalho padrão contendo o menu sanduíche além dos seguintes elementos:
 * Título “USUÁRIOS :: LISTAGEM”
 * Campo de texto para busca de informações
@@ -227,7 +228,41 @@ A tela de listagem de usuários consiste no cabeçalho padrão contendo o menu s
 Ao clicar no botão “Adicionar”, o sistema irá apresentar a tela de inserção de um novo usuário.
 
 #### Tela - Inserir um novo usuários
+
+A tela de inserir novos usuários consiste no cabeçalho padrão contendo o menu sanduíche e os seguintes elementos:
+
+* Título “INSERIR UMA NOVA PESSOA”;
+* Grupo “Endereço” 
+   * Tipo de Logradouro (Rua, Avenida, Travessa...)
+   * Logradouro
+* Botão “Voltar para Lista”
+* Botão “Salvar”.
+
+<img src='img/telas/tela-inserir-uma-nova-pessoa.png'>
+Figura X - Tela de Inserção de Pessoas
+
 #### Tela - Editar um usuário existente
+
+A tela de editar usuários existentes consiste no cabeçalho padrão contendo o menu sanduíche e os seguintes elementos:
+
+* Grupo "Dados Principais"
+   * CPF/CNPJ
+   * Nome/Razão Social
+* Grupo "Contatos" 
+   * Telefone
+   * E-mail
+* Grupo "Endereço"
+   * Bairro 
+   * Cidade
+   * Estado
+   * CEP
+* Grupo "Campos Genéricos" 
+* Botão "Voltar para Lista"
+* Botão "Salvar" 
+* Botão "Excluir"
+
+<img src='img/telas/tela-editar-uma-pessoa-existente.png'>
+Figura X - Tela de edição de uma pessoa já cadastrada
 
 ### Campos genéricos
 
@@ -243,9 +278,13 @@ Figura X - Tela de listagem de campos genérico
 #### Tela - Inserir um novo campo genérico
 
 A tela de adição possibilita a inclusão de novos campos genéricos no cadastro de pessoas.
+<<<<<<< HEAD
 
 <img src='img/telas/tela-campo-generico-inserir.png'>  
 
+=======
+<img src='img/telas/tela-campo-generico-inserir.png'>
+>>>>>>> cfcd028254f2199773776a12ae3c0039d04b011e
 Figura X - Tela de inserir um novo campo genérico
 
 #### Tela - Editar um campo genérico existente
