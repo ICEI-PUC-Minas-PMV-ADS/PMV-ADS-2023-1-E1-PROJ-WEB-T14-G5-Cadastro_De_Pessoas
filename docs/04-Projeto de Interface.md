@@ -227,7 +227,27 @@ A tela de listagem de usuários consiste no cabeçalho padrão contendo o menu s
 Ao clicar no botão “Adicionar”, o sistema irá apresentar a tela de inserção de um novo usuário.
 
 #### Tela - Inserir um novo usuários
+
+A tela de inserir novos usuários consiste no cabeçalho padrão contendo o menu sanduíche e os seguintes elementos:
+
+* Título “INSERIR UMA NOVA PESSOA”;
+* Grupo “Endereço”
+* Tipo de logradouro (Rua, Avenida, Travessa...)
+* Logradouro
+* Botão “Voltar para Lista”
+* Botão “Salvar”.
+
 #### Tela - Editar um usuário existente
+
+A tela de editar usuários existentes consiste no cabeçalho padrão contendo o menu sanduíche e os seguintes elementos:
+
+* Grupo "Dados Principais"
+* Grupo "Contatos" 
+* Grupo "Endereço"
+* Grupo "Campos Genéricos" 
+* Botão "Voltar para Lista"
+* Botão "Salvar" 
+* Botão "Excluir"
 
 ### Campos genéricos
 
