@@ -159,7 +159,7 @@ Clicando-se no botão “Salvar”, o sistema irá salvar os dados digitados da 
 Clicando-se no botão “Excluir”, o sistema irá apresentar uma pergunta. Caso seja confirmada, o registro referente a esta pessoa será excluído.
 
 <CENTER>
-<img src='img/interface/Tela_Editar_Pessoas.png'>
+<img src='img/telas/Editar_Pessoa.png'>
 Figura X - Tela de edição de uma pessoa já cadastrada
 </CENTER>
 
