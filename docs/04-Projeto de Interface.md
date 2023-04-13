@@ -2,30 +2,39 @@
 Dentre as preocupações para a montagem da interface do sistema, estamos estabelecendo foco em questões como agilidade, acessibilidade e usabilidade. Desta forma, o projeto tem uma identidade visual padronizada em todas as telas que são projetadas para funcionamento em desktops e dispositivos móveis.
 
 ## 4.1 Fluxo do Usuário
-Os diagramas apresentados abaixo mostram os fluxos do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o ambiente MarvelApp do projeto no endereço https://marvelapp.com/prototype/6ad1204/screen/91220260.
+Os diagramas apresentados abaixo mostram os vários fluxos do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o ambiente MarvelApp do projeto no endereço https://marvelapp.com/prototype/6ad1204/screen/91220260.
+
+### 4.1.1 Fluxo Inicial
+O fluxo inicial consiste em na autenticação (entrada) do sistema, juntamente com a opção de recuperação de senha.
 
 <p align='center'>
 <img src='img/fluxos/Inicial.png'><BR>
 Figura X – Fluxo 1
 </p>
 
+### 4.1.2 Fluxo de Opções
+O fluxo de opções representa, a partir da tela de opções, o acesso às 4 áreas do sistema: Cadastro de Usuários, Categorias, Pessoas e Campos Genéricos.
+   
 <p align='center'>
 <img src='img/fluxos/Opcoes.png'><BR>
 Figura X – Fluxo 1
 </p>
 
+### 4.1.3 Menu Sanduíche
+O menu de opções, conhecido no mundo do design como "menu sanduíche", estará presente em todas as telas autenticadas, e dará acesso à tela de opções. Esta é a forma de navegar entre as diferentes áreas no sistema.
+   
 <p align='center'>
 <img src='img/fluxos/Sanduiche.png'><BR>
 Figura X – Fluxo 1
 </p>
+   
+### 4.2.4 Hierarquia de cadastro
+Cada uma das 4 áreas possui seus campos de informações distintos. Entretanto a diagramação das telas foi produzida para que seja padrão, de forma que qualquer tela de busca, cadastro ou edição seja igual, diminuindo a sobrecarga cognitiva.
 
 <p align='center'>
 <img src='img/fluxos/Area_XXXX.png'><BR>
 Figura X – Fluxo 1
 </p>
-
-
-
 
 
 ## 4.2 Wireframes
@@ -39,7 +48,7 @@ Conforme os fluxos de telas do projeto, apresentado no item anterior, as telas d
 Figura X – Estrutura padrão do sistema
 </p>
 
-### Tela – Inicial
+### 4.2.1 Tela – Inicial
 
 A tela inicial é a tela de autenticação, que consiste no cabeçalho padrão (sem o menu sanduíche), e no contenedor de conteúdo contendo os seguintes elementos:
 
@@ -58,8 +67,7 @@ Caso o atalho “Esqueci minha Senha” seja acionada, o sistema irá ser redire
 Figura X – Tela Inicial
 </P>
 
-
-### Tela – Recuperação de Senha
+#### 4.2.2 Tela – Recuperação de Senha
 
 A tela de recuperação de senha consiste no cabeçalho padrão (sem o menu sanduíche), e no contenedor de conteúdo contendo os seguintes elementos:
 
@@ -72,14 +80,13 @@ Ao se preencher o campo com o CPF da conta a ter sua senha recuperada, caso o CP
 
 Caso seja clicado no atalho “Voltar”, o sistema retornará para a tela inicial de autenticação.
 
-
 <p align='center'>
 <img src='img/telas/Recuperacao_Senha.png'><BR>
 Figura X – Tela Recuperacao de Senha
 </P>   
 
 
-### Tela – Menu de Opções
+### 4.2.3 Tela – Menu de Opções
 
 A tela de menu de opções apresentará o cabeçalho sem o menu sanduíche (que aponta para este mesma tela), juntamente com os seguintes elementos:
 
@@ -97,9 +104,9 @@ Clicando-se no botão “Categorias”, o sistema será redirecionado para a lis
 Figura X - Tela de opções
 </P>
 
-### Pessoas
+### 4.2.4 Pessoas
 
-#### Tela - Listagem de pessoas
+#### 4.2.4.1 Tela - Listagem de pessoas
 
 A tela de listagem de pessoas consiste no cabeçalho padrão contendo o menu sanduíche. Este menu irá aparecer em todas as telas, exceto nas telas de recuperação de senha e tela de entrada do sistema. Esta tela apresenta os seguintes elementos:
 * Cabeçalho com o menu sanduíche
@@ -123,7 +130,7 @@ Figura X – Tela de listagem de pessoas
 </P>
 
 
-#### Tela - Inserir uma nova pessoa
+#### 4.2.4.2 Tela - Inserir uma nova pessoa
 
 A tela de edição de uma pessoa existente consiste no cabeçalho padrão contendo o menu sanduíche e os seguintes elementos:
 * Título “INSERIR UMA NOVA PESSOA”;
@@ -141,9 +148,7 @@ Clicando-se no botão “Salvar”, o sistema irá inserir as novas informaçõe
 Figura X - Tela de inserção de pessoas
 </P>
 
-
-
-#### Tela - Edição de uma pessoa existente
+#### 4.2.4.3 Tela - Edição de uma pessoa existente
 
 A tela de edição de uma pessoa existente consiste no cabeçalho padrão contendo o menu sanduíche e os seguintes elementos:
 
