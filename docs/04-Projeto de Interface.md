@@ -71,7 +71,7 @@ A tela de menu de opções apresentará o cabeçalho sem o menu sanduíche (que 
 Clicando-se no botão “Categorias”, o sistema será redirecionado para a listagem de categorias. O mesmo comportamento se repete nos botões “Pessoas”, “Campos genéricos”, “Usuários”. A única exceção é o botão “Sair”, que finaliza a sessão e o sistema retorna para a tela de autenticação.
 
 <CENTER>
-<img src='img/interface/Opcoes.png'>
+<img src='img/telas/Opcoes.png'>
 Figura X - Tela de opções
 </CENTER>
 
