@@ -53,7 +53,7 @@ Ao se preencher o campo com o CPF da conta a ter sua senha recuperada, caso o CP
 
 Caso seja clicado no atalho “Voltar”, o sistema retornará para a tela inicial de autenticação.
 
-<CENTER><img src='img/telas/Tela_Recuperacao_Senha.png'></CENTER>
+<CENTER><img src='img/telas/Recuperacao_Senha.png'></CENTER>
 <CENTER>Figura X – Tela Recuperacao de Senha</CENTER>
 
 
