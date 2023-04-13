@@ -5,10 +5,10 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 O diagrama apresentado na Figura X mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o ambiente MarvelApp do projeto no endereço https://marvelapp.com/prototype/6ad1204/screen/91220260.
 
 
-<CENTER>
+<p align='center'>
 <img src='img/telas/Fluxo1.png'>
 Figura X – Fluxo 1
-</CENTER>
+</p>
 
 
 ## 4.2 Wireframes
@@ -18,7 +18,7 @@ Conforme os fluxos de telas do projeto, apresentado no item anterior, as telas d
 * Conteúdo - Apresenta o conteúdo da tela acessada
 
 <p align='center'>
-<img src='img/telas/Estrutura.png'><BR>
+<img src='img/telas/Estrutura.png'>
 Figura X – Estrutura padrão do sistema
 </p>
 
@@ -36,8 +36,10 @@ Ao se preencher os campos CPF e Senha, e clicando o botão “Entrar”, o siste
 
 Caso o atalho “Esqueci minha Senha” seja acionada, o sistema irá ser redirecionado para a tela de recuperação de senha.
 
+<p align='center'>
 <img src='img/telas/Tela_Inicial.png' style='text-align:center'>
 Figura X – Tela Inicial
+</P>
 
 
 ### Tela – Recuperação de Senha
@@ -53,8 +55,11 @@ Ao se preencher o campo com o CPF da conta a ter sua senha recuperada, caso o CP
 
 Caso seja clicado no atalho “Voltar”, o sistema retornará para a tela inicial de autenticação.
 
-<CENTER><img src='img/telas/Recuperacao_Senha.png'></CENTER>
-<CENTER>Figura X – Tela Recuperacao de Senha</CENTER>
+
+<p align='center'>
+<img src='img/telas/Recuperacao_Senha.png'>
+Figura X – Tela Recuperacao de Senha
+</P>   
 
 
 ### Tela – Menu de Opções
