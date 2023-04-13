@@ -115,7 +115,7 @@ Clicando-se no botão “Voltar para Lista”, o sistema irá ser direcionado pa
 Clicando-se no botão “Salvar”, o sistema irá inserir as novas informações no banco de dados e exibir a mensagem de confirmação.
 
 <CENTER>
-<img src='img/interface/Tela_Inserir_Pessoas.png'>
+<img src='img/telas/Inserir_Pessoa.png'>
 Figura X - Tela de inserção de pessoas
 </CENTER>
 
