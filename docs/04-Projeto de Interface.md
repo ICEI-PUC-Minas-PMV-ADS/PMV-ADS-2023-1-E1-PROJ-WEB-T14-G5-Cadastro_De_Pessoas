@@ -5,22 +5,22 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 Os diagramas apresentados abaixo mostram os fluxos do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o ambiente MarvelApp do projeto no endereço https://marvelapp.com/prototype/6ad1204/screen/91220260.
 
 <p align='center'>
-<img src='img/fluxos/Inicial.png'>
+<img src='img/fluxos/Inicial.png'><BR>
 Figura X – Fluxo 1
 </p>
 
 <p align='center'>
-<img src='img/fluxos/Opcoes.png'>
+<img src='img/fluxos/Opcoes.png'><BR>
 Figura X – Fluxo 1
 </p>
 
 <p align='center'>
-<img src='img/fluxos/Sanduiche.png'>
+<img src='img/fluxos/Sanduiche.png'><BR>
 Figura X – Fluxo 1
 </p>
 
 <p align='center'>
-<img src='img/fluxos/Area_XXXX.png'>
+<img src='img/fluxos/Area_XXXX.png'><BR>
 Figura X – Fluxo 1
 </p>
 
@@ -54,7 +54,7 @@ Ao se preencher os campos CPF e Senha, e clicando o botão “Entrar”, o siste
 Caso o atalho “Esqueci minha Senha” seja acionada, o sistema irá ser redirecionado para a tela de recuperação de senha.
 
 <p align='center'>
-<img src='img/telas/Tela_Inicial.png' style='text-align:center'>
+<img src='img/telas/Tela_Inicial.png' style='text-align:center'><BR>
 Figura X – Tela Inicial
 </P>
 
@@ -74,7 +74,7 @@ Caso seja clicado no atalho “Voltar”, o sistema retornará para a tela inici
 
 
 <p align='center'>
-<img src='img/telas/Recuperacao_Senha.png'>
+<img src='img/telas/Recuperacao_Senha.png'><BR>
 Figura X – Tela Recuperacao de Senha
 </P>   
 
@@ -92,10 +92,10 @@ A tela de menu de opções apresentará o cabeçalho sem o menu sanduíche (que 
 
 Clicando-se no botão “Categorias”, o sistema será redirecionado para a listagem de categorias. O mesmo comportamento se repete nos botões “Pessoas”, “Campos genéricos”, “Usuários”. A única exceção é o botão “Sair”, que finaliza a sessão e o sistema retorna para a tela de autenticação.
 
-<CENTER>
-<img src='img/telas/Opcoes.png'>
+<p align='center'>
+<img src='img/telas/Opcoes.png'><BR>
 Figura X - Tela de opções
-</CENTER>
+</P>
 
 ### Pessoas
 
@@ -117,10 +117,10 @@ Alterando-se o conteúdo da busca, automaticamente a grade é atualizada com os 
 Clicando-se no botão “Adicionar”, o sistema irá apresentar a tela de inserção de pessoas.
 Clicando-se no menu sanduíche, o sistema irá apresentar a tela de menu.
 
-<CENTER>
-<img src='img/telas/Tela_Listagem_Pessoas.png'>
+<p align='center'>
+<img src='img/telas/Tela_Listagem_Pessoas.png'><BR>
 Figura X – Tela de listagem de pessoas
-</CENTER>
+</P>
 
 
 #### Tela - Inserir uma nova pessoa
@@ -136,10 +136,10 @@ A tela de edição de uma pessoa existente consiste no cabeçalho padrão conten
 Clicando-se no botão “Voltar para Lista”, o sistema irá ser direcionado para a listagem de pessoas já cadastradas.
 Clicando-se no botão “Salvar”, o sistema irá inserir as novas informações no banco de dados e exibir a mensagem de confirmação.
 
-<CENTER>
-<img src='img/telas/Inserir_Pessoa.png'>
+<p align='center'>
+<img src='img/telas/Inserir_Pessoa.png'><BR>
 Figura X - Tela de inserção de pessoas
-</CENTER>
+</P>
 
 
 
@@ -180,10 +180,10 @@ Clicando-se no botão “Lista”, o sistema irá voltar para a tela de listagem
 Clicando-se no botão “Salvar”, o sistema irá salvar os dados digitados da pessoa no banco de dados e apresentar a tela de confirmação de salvamento das informações.
 Clicando-se no botão “Excluir”, o sistema irá apresentar uma pergunta. Caso seja confirmada, o registro referente a esta pessoa será excluído.
 
-<CENTER>
+<p align='center'>
 <img src='img/telas/Editar_Pessoa.png'>
 Figura X - Tela de edição de uma pessoa já cadastrada
-</CENTER>
+</p>
 
 
 ### Categorias
@@ -260,8 +260,10 @@ A tela de inserir novos usuários consiste no cabeçalho padrão contendo o menu
 * Botão “Voltar para Lista”
 * Botão “Salvar”.
 
-<img src='img/telas/tela-inserir-uma-nova-pessoa.png'>
+<p align='center'>
+<img src='img/telas/tela-inserir-uma-nova-pessoa.png'><BR>
 Figura X - Tela de Inserção de Pessoas
+</P>
 
 #### Tela - Editar um usuário existente
 
@@ -283,7 +285,7 @@ A tela de editar usuários existentes consiste no cabeçalho padrão contendo o 
 * Botão "Salvar" 
 * Botão "Excluir"
 
-<img src='img/telas/tela-editar-uma-pessoa-existente.png'>
+<img src='img/telas/tela-editar-uma-pessoa-existente.png'><BR>
 Figura X - Tela de edição de uma pessoa já cadastrada
 
 ### Campos genéricos
@@ -292,22 +294,25 @@ Figura X - Tela de edição de uma pessoa já cadastrada
 
 A tela de listagem de campos genéricos permiti listar os campos adicionais no cadastro de pessoas. 
 
-<img src='img/telas/tela-cadastro-genericos.png'>
-
+<p align='center'>
+<img src='img/telas/tela-cadastro-genericos.png'><BR>
 Figura X - Tela de listagem de campos genérico
-
+</P>
+   
 #### Tela - Inserir um novo campo genérico
 
 A tela de adição possibilita a inclusão de novos campos genéricos no cadastro de pessoas.
 
-<img src='img/telas/tela-campo-generico-inserir.png'>  
-
+<p align='center'>
+<img src='img/telas/tela-campo-generico-inserir.png'><BR>
 Figura X - Tela de inserir um novo campo genérico
-
+</P>
+   
 #### Tela - Editar um campo genérico existente
 
 A tela de edição permite a modificação dos campos genéricos já existentes no cadastro de pessoas.
 
-<img src='img/telas/tela-campo-generico-editar.png'>
-
+<p align='center'>
+<img src='img/telas/tela-campo-generico-editar.png'><BR>
 Figura X - Tela de editar um campo genérico existente
+</P>   
