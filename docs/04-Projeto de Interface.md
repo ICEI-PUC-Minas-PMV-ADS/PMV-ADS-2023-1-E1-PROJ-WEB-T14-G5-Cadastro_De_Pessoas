@@ -224,12 +224,29 @@ A tela de listagem de usuários consiste no cabeçalho padrão contendo o menu s
 * Uma grade com as informações conforme a busca realizada.
 * Botão “Adicionar”.
 
-Ao se clicar no botão “Adicionar”, o sistema irá apresentar a tela de inserção de um novo usuário.
+Ao clicar no botão “Adicionar”, o sistema irá apresentar a tela de inserção de um novo usuário.
 
 #### Tela - Inserir um novo usuários
 #### Tela - Editar um usuário existente
 
 ### Campos genéricos
+
 #### Tela - Listagem de campos genéricos
+
+A tela de listagem de campos genéricos permiti listar os campos adicionais no cadastro de pessoas. 
+<img src='img/telas/tela-cadastro-genericos.png'>
+Figura X - Tela de listagem de campos genérico
+
+
 #### Tela - Inserir um novo campo genérico
-#### Tela - Editar uma campo genérico existente
+
+A tela de adição possibilita a inclusão de novos campos genéricos no cadastro de pessoas.
+<img src='img/telas/tela-campo-generico-inserir.png'>
+Figura X - Tela de inserir ucdm novo campo genérico
+
+#### Tela - Editar um campo genérico existente
+
+A tela de edição permite a modificação dos campos genéricos já existentes no cadastro de pessoas.
+<img src='img/telas/tela-campo-generico-editar.png'>
+Figura X - Tela de editar um campo genérico existente
+
