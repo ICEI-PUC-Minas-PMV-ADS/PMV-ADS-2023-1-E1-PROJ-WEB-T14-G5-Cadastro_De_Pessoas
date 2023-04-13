@@ -85,7 +85,6 @@ Caso seja clicado no atalho “Voltar”, o sistema retornará para a tela inici
 Figura X – Tela Recuperacao de Senha
 </P>   
 
-
 ### 4.2.3 Tela – Menu de Opções
 
 A tela de menu de opções apresentará o cabeçalho sem o menu sanduíche (que aponta para este mesma tela), juntamente com os seguintes elementos:
@@ -104,7 +103,8 @@ Clicando-se no botão “Categorias”, o sistema será redirecionado para a lis
 Figura X - Tela de opções
 </P>
 
-### 4.2.4 Pessoas
+### 4.2.4 Cadastro de Pessoas
+O cadastro de pessoas é composto nas ferramentas de busca, inserção, edição e exclusão dos registros.
 
 #### 4.2.4.1 Tela - Listagem de pessoas
 
@@ -128,7 +128,6 @@ Clicando-se no menu sanduíche, o sistema irá apresentar a tela de menu.
 <img src='img/telas/Tela_Listagem_Pessoas.png'><BR>
 Figura X – Tela de listagem de pessoas
 </P>
-
 
 #### 4.2.4.2 Tela - Inserir uma nova pessoa
 
@@ -190,10 +189,9 @@ Clicando-se no botão “Excluir”, o sistema irá apresentar uma pergunta. Cas
 Figura X - Tela de edição de uma pessoa já cadastrada
 </p>
 
+### 4.2.5 Categorias
 
-### Categorias
-
-#### Tela - Listagem de Categorias
+#### 4.2.5.1 Tela - Listagem de Categorias
 
 A tela de listagem de categorias consiste no cabeçalho padrão contendo o menu sanduíche além dos seguintes elementos:
 * Título “CATEGORIAS :: LISTAGEM”
@@ -204,7 +202,7 @@ A tela de listagem de categorias consiste no cabeçalho padrão contendo o menu 
 Ao se clicar no botão “Adicionar”, o sistema irá apresentar a tela de inserção de uma nova categoria.
 
 
-#### Tela - Inserir uma nova categoria
+#### 4.2.5.2 Tela - Inserir uma nova categoria
 
 A tela de inserção de uma nova categoria a consiste no cabeçalho padrão contendo o menu sanduíche além dos seguintes elementos:
 
@@ -223,7 +221,7 @@ Ao se clicar no botão “Salvar”, o sistema irá gravar a nova categoria no b
 
 Ao se clicar no botão “Voltar para listagem”, o sistema irá voltar para a listagem de categorias sem salvar os dados preenchidos.
 
-#### Tela – Editar uma categoria existente
+#### 4.2.5.3 Tela – Editar uma categoria existente
 
 A tela de edição de uma categoria já existente consiste no cabeçalho padrão contendo o menu sanduíche além dos seguintes elementos:
 
@@ -243,8 +241,8 @@ Ao se clicar no botão “Salvar”, o sistema irá atualizar categoria no banco
 Ao se clicar no botão “Voltar para listagem”, o sistema irá voltar para a listagem de categorias sem salvar os dados preenchidos.
 Ao se clicar no botão “Excluir”, o sistema irá, após confirmação, excluir esta categoria do banco de dados.
 
-### Usuários
-#### Tela - Listagem de usuários
+### 4.2.6 Usuários
+#### 4.2.6.1 Tela - Listagem de usuários
 
 A tela de listagem de usuários consiste no cabeçalho padrão contendo o menu sanduíche além dos seguintes elementos:
 * Título “USUÁRIOS :: LISTAGEM”
@@ -254,7 +252,7 @@ A tela de listagem de usuários consiste no cabeçalho padrão contendo o menu s
 
 Ao clicar no botão “Adicionar”, o sistema irá apresentar a tela de inserção de um novo usuário.
 
-#### Tela - Inserir um novo usuários
+#### 4.2.6.2 Tela - Inserir um novo usuários
 
 A tela de inserir novos usuários consiste no cabeçalho padrão contendo o menu sanduíche e os seguintes elementos:
 
@@ -270,7 +268,7 @@ A tela de inserir novos usuários consiste no cabeçalho padrão contendo o menu
 Figura X - Tela de Inserção de Pessoas
 </P>
 
-#### Tela - Editar um usuário existente
+#### 4.2.6.3 Tela - Editar um usuário existente
 
 A tela de editar usuários existentes consiste no cabeçalho padrão contendo o menu sanduíche e os seguintes elementos:
 
@@ -293,9 +291,9 @@ A tela de editar usuários existentes consiste no cabeçalho padrão contendo o 
 <img src='img/telas/tela-editar-uma-pessoa-existente.png'><BR>
 Figura X - Tela de edição de uma pessoa já cadastrada
 
-### Campos genéricos
+### 4.2.7 Campos genéricos
 
-#### Tela - Listagem de campos genéricos
+#### 4.2.7.1 Tela - Listagem de campos genéricos
 
 A tela de listagem de campos genéricos permiti listar os campos adicionais no cadastro de pessoas. 
 
@@ -304,7 +302,7 @@ A tela de listagem de campos genéricos permiti listar os campos adicionais no c
 Figura X - Tela de listagem de campos genérico
 </P>
    
-#### Tela - Inserir um novo campo genérico
+#### 4.2.7.2 Tela - Inserir um novo campo genérico
 
 A tela de adição possibilita a inclusão de novos campos genéricos no cadastro de pessoas.
 
@@ -313,7 +311,7 @@ A tela de adição possibilita a inclusão de novos campos genéricos no cadastr
 Figura X - Tela de inserir um novo campo genérico
 </P>
    
-#### Tela - Editar um campo genérico existente
+#### 4.2.7.3 Tela - Editar um campo genérico existente
 
 A tela de edição permite a modificação dos campos genéricos já existentes no cadastro de pessoas.
 
