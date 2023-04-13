@@ -218,6 +218,7 @@ Ao se clicar no botão “Excluir”, o sistema irá, após confirmação, exclu
 
 ### Usuários
 #### Tela - Listagem de usuários
+
 A tela de listagem de usuários consiste no cabeçalho padrão contendo o menu sanduíche além dos seguintes elementos:
 * Título “USUÁRIOS :: LISTAGEM”
 * Campo de texto para busca de informações
@@ -237,17 +238,31 @@ A tela de inserir novos usuários consiste no cabeçalho padrão contendo o menu
 * Botão “Voltar para Lista”
 * Botão “Salvar”.
 
+<img src='img/telas/tela-inserir-uma-nova-pessoa.png'>
+Figura X - Tela de Inserção de Pessoas
+
 #### Tela - Editar um usuário existente
 
 A tela de editar usuários existentes consiste no cabeçalho padrão contendo o menu sanduíche e os seguintes elementos:
 
 * Grupo "Dados Principais"
+   * CPF/CNPJ
+   * Nome/Razão Social
 * Grupo "Contatos" 
+   * Telefone
+   * E-mail
 * Grupo "Endereço"
+   * Bairro 
+   * Cidade
+   * Estado
+   * CEP
 * Grupo "Campos Genéricos" 
 * Botão "Voltar para Lista"
 * Botão "Salvar" 
 * Botão "Excluir"
+
+<img src='img/telas/tela-editar-uma-pessoa-existente.png'>
+Figura X - Tela de edição de uma pessoa já cadastrada
 
 ### Campos genéricos
 
