@@ -104,7 +104,7 @@ Figura X - Tela de opções
 </P>
 
 ### 4.2.4 Cadastro de Pessoas
-O cadastro de pessoas é composto nas ferramentas de busca, inserção, edição e exclusão dos registros.
+O cadastro de pessoas é composto nas ferramentas de listagem e busca, inserção, edição e exclusão dos registros.
 
 #### 4.2.4.1 Tela - Listagem de pessoas
 
@@ -117,7 +117,7 @@ A tela de listagem de pessoas consiste no cabeçalho padrão contendo o menu san
 
 
 Cada linha da grade de busca irá apresentar os seguintes elementos:
-* Dados da pessoa (detalhar?)
+* Dados da pessoa
 * Botão de edição
 
 Alterando-se o conteúdo da busca, automaticamente a grade é atualizada com os dados da busca.
@@ -153,7 +153,7 @@ A tela de edição de uma pessoa existente consiste no cabeçalho padrão conten
 
 * Título “PESSOAS :: EDITAR UMA PESSOA EXISTENTE”;
 * Grupo “Dados Principais” contendo: 
-    * Código?
+    * Código
     * CPF/CNPJ
     * Nome / Razão Social
     * Apelido
