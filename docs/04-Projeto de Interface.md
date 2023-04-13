@@ -231,9 +231,9 @@ Ao clicar no botão “Adicionar”, o sistema irá apresentar a tela de inserç
 A tela de inserir novos usuários consiste no cabeçalho padrão contendo o menu sanduíche e os seguintes elementos:
 
 * Título “INSERIR UMA NOVA PESSOA”;
-* Grupo “Endereço”
-* Tipo de logradouro (Rua, Avenida, Travessa...)
-* Logradouro
+* Grupo “Endereço” 
+   * Tipo de Logradouro (Rua, Avenida, Travessa...)
+   * Logradouro
 * Botão “Voltar para Lista”
 * Botão “Salvar”.
 
