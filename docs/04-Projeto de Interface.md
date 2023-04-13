@@ -234,18 +234,24 @@ Ao clicar no botão “Adicionar”, o sistema irá apresentar a tela de inserç
 #### Tela - Listagem de campos genéricos
 
 A tela de listagem de campos genéricos permiti listar os campos adicionais no cadastro de pessoas. 
+
 <img src='img/telas/tela-cadastro-genericos.png'>
+
 Figura X - Tela de listagem de campos genérico
 
 
 #### Tela - Inserir um novo campo genérico
 
 A tela de adição possibilita a inclusão de novos campos genéricos no cadastro de pessoas.
-<img src='img/telas/tela-campo-generico-inserir.png'>
-Figura X - Tela de inserir ucdm novo campo genérico
+
+<img src='img/telas/tela-campo-generico-inserir.png'>  
+
+Figura X - Tela de inserir um novo campo genérico
 
 #### Tela - Editar um campo genérico existente
 
 A tela de edição permite a modificação dos campos genéricos já existentes no cadastro de pessoas.
+
 <img src='img/telas/tela-campo-generico-editar.png'>
+
 Figura X - Tela de editar um campo genérico existente
