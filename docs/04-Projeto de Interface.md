@@ -2,13 +2,30 @@
 Dentre as preocupações para a montagem da interface do sistema, estamos estabelecendo foco em questões como agilidade, acessibilidade e usabilidade. Desta forma, o projeto tem uma identidade visual padronizada em todas as telas que são projetadas para funcionamento em desktops e dispositivos móveis.
 
 ## 4.1 Fluxo do Usuário
-O diagrama apresentado na Figura X mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o ambiente MarvelApp do projeto no endereço https://marvelapp.com/prototype/6ad1204/screen/91220260.
-
+Os diagramas apresentados abaixo mostram os fluxos do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o ambiente MarvelApp do projeto no endereço https://marvelapp.com/prototype/6ad1204/screen/91220260.
 
 <p align='center'>
-<img src='img/telas/Fluxo1.png'>
+<img src='img/fluxos/Inicial.png'>
 Figura X – Fluxo 1
 </p>
+
+<p align='center'>
+<img src='img/fluxos/Opcoes.png'>
+Figura X – Fluxo 1
+</p>
+
+<p align='center'>
+<img src='img/fluxos/Sanduiche.png'>
+Figura X – Fluxo 1
+</p>
+
+<p align='center'>
+<img src='img/fluxos/Area_XXXX.png'>
+Figura X – Fluxo 1
+</p>
+
+
+
 
 
 ## 4.2 Wireframes
