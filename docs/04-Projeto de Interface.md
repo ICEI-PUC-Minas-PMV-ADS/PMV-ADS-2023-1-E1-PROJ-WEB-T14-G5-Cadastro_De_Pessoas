@@ -293,7 +293,7 @@ Figura X - Tela de edição de uma pessoa já cadastrada
 
 #### 4.2.7.1 Tela - Listagem de campos genéricos
 
-A tela de listagem de campos genéricos permiti listar os campos adicionais no cadastro de pessoas. 
+A tela de listagem de campos genéricos permite listar os campos adicionais no cadastro de pessoas. 
 
 <p align='center'>
 <img src='img/telas/tela-cadastro-genericos.png'><BR>
@@ -311,7 +311,7 @@ Figura X - Tela de inserir um novo campo genérico
    
 #### 4.2.7.3 Tela - Editar um campo genérico existente
 
-A tela de edição permite a modificação dos campos genéricos já existentes no cadastro de pessoas.
+A tela de edição permite a modificação dos nome do campo genéricos já existentes no cadastro de pessoas.
 
 <p align='center'>
 <img src='img/telas/tela-campo-generico-editar.png'><BR>
