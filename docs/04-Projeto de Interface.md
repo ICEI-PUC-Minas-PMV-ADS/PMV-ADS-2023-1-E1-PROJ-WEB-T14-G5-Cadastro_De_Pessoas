@@ -352,3 +352,34 @@ A tela de edição de um campo genérico consiste no cabeçalho padrão contendo
 <img src='img/telas/tela-campo-generico-editar.png'><BR>
 Figura X - Tela de editar um campo genérico existente
 </P>   
+
+#### 4.2.7.4 Tela - Campo genérico salvo com sucesso
+<p align='center'>
+<img src='img/telas/tela-campo-generico-salvo-com-sucesso.png'><BR>
+Figura X - Tela campo genérico salvo com sucesso
+</P>
+
+#### 4.2.7.5 Tela - Excluir campo genérico
+<p align='center'>
+<img src='img/telas/tela-campo-generico-excluir.png'><BR>
+Figura X - Tela excluir campo genérico
+</P>
+
+#### 4.2.7.6 Tela - campo genérico excluído com sucesso
+<p align='center'>
+<img src='img/telas/tela-campo-generico-excluido-com-sucesso.png'><BR>
+Figura X - Tela campo genérico excluído com sucesso
+</P>
+
+
+
+
+
+
+
+
+
+
+
+
+
