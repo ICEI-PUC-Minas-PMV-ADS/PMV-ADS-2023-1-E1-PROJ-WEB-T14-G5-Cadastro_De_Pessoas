@@ -132,10 +132,30 @@ Figura X – Tela de listagem de pessoas
 #### 4.2.4.2 Tela - Inserir uma nova pessoa
 
 A tela de edição de uma pessoa existente consiste no cabeçalho padrão contendo o menu sanduíche e os seguintes elementos:
-* Título “INSERIR UMA NOVA PESSOA”;
+* Título “PESSOAS :: INSERIR UMA NOVA PESSOA”;
+* Grupo “Dados Principais” contendo: 
+    * Código (somente leitura e será gerado automaticamente)
+    * CPF/CNPJ
+    * Nome / Razão Social
+    * Apelido
+    * Categoria
+
+* Grupo “Contatos”
+    * Telefone
+    * E-mail
+
 * Grupo “Endereço”
     * Tipo de logradouro  (Rua, Avenida, Travessa...)
     * Logradouro
+    * Número
+    * Complemento
+    * Bairro
+    * Cidade
+    * Estado
+    * CEP
+
+* Grupo “Campos Genéricos” 
+    * Irá apresentar os campos criados na funcionalidade “Campos Genéricos”
 * Botão “Voltar para Lista”
 * Botão “Salvar”.
 
@@ -153,7 +173,7 @@ A tela de edição de uma pessoa existente consiste no cabeçalho padrão conten
 
 * Título “PESSOAS :: EDITAR UMA PESSOA EXISTENTE”;
 * Grupo “Dados Principais” contendo: 
-    * Código
+    * Código (somente leitura)
     * CPF/CNPJ
     * Nome / Razão Social
     * Apelido
@@ -208,7 +228,7 @@ A tela de inserção de uma nova categoria a consiste no cabeçalho padrão cont
 
 * Título “CATEGORIAS :: INSERIR UMA NOVA CATEGORIA”
 * Grupo “Dados Principais” com os seguintes campos:
-    * Código
+    * Código (somente leitura e será gerado automaticamente)
     * Descrição
 
 * Botão “Voltar para lista”;
@@ -227,7 +247,7 @@ A tela de edição de uma categoria já existente consiste no cabeçalho padrão
 
 * Título “CATEGORIAS :: EDITAR UMA CATEGORIA EXISTENTE”
 * Grupo “Dados Principais” com os seguintes campos:
-    * Código
+    * Código (somente leitura)
     * Descrição
 
 * Botão “Voltar para lista”;
@@ -300,9 +320,17 @@ A tela de listagem de campos genéricos permite listar os campos adicionais no c
 Figura X - Tela de listagem de campos genérico
 </P>
    
+   
 #### 4.2.7.2 Tela - Inserir um novo campo genérico
 
-A tela de adição possibilita a inclusão de novos campos genéricos no cadastro de pessoas.
+A tela de inserir um novo campo genérico consiste no cabeçalho padrão contendo o menu sanduíche e os seguintes elementos:
+
+* Título “CADASTRO GENÉRICO :: INSERIR UM NOVO CAMPO”;
+* Grupo “Dados Principais” 
+   * Código (somente leitura e será gerado automaticamente)
+   * Descrição
+* Botão "Voltar para Lista"
+* Botão "Salvar" 
 
 <p align='center'>
 <img src='img/telas/tela-campo-generico-inserir.png'><BR>
@@ -311,8 +339,15 @@ Figura X - Tela de inserir um novo campo genérico
    
 #### 4.2.7.3 Tela - Editar um campo genérico existente
 
-A tela de edição permite a modificação dos nome do campo genéricos já existentes no cadastro de pessoas.
-
+A tela de edição de um campo genérico consiste no cabeçalho padrão contendo o menu sanduíche e os seguintes elementos:
+* Título “CADASTRO GENÉRICO :: EDITAR UM CAMPO EXISTENTE”;
+* Grupo “Dados Principais” 
+   * Código (somente leitura)
+   * Descrição
+* Botão "Voltar para Lista"
+* Botão "Salvar" 
+* Botão "Excluir"   
+   
 <p align='center'>
 <img src='img/telas/tela-campo-generico-editar.png'><BR>
 Figura X - Tela de editar um campo genérico existente
