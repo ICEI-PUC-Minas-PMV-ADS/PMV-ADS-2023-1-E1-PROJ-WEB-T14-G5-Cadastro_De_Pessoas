@@ -230,7 +230,6 @@ A tela de inserção de uma nova categoria a consiste no cabeçalho padrão cont
 * Grupo “Dados Principais” com os seguintes campos:
     * Código (somente leitura e será gerado automaticamente)
     * Descrição
-
 * Botão “Voltar para lista”;
 * Botão “Salvar”.
 
@@ -249,7 +248,6 @@ A tela de edição de uma categoria já existente consiste no cabeçalho padrão
 * Grupo “Dados Principais” com os seguintes campos:
     * Código (somente leitura)
     * Descrição
-
 * Botão “Voltar para lista”;
 * Botão “Salvar”;
 * Botão “Excluir”.
