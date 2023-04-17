@@ -9,7 +9,7 @@ O fluxo inicial consiste na autenticação (entrada) do sistema, juntamente com 
 
 <p align='center'>
 <img src='img/fluxos/Inicial.png'><BR>
-Figura X – Fluxo 1
+Figura 2 – Fluxo 1
 </p>
 
 ### 4.1.2 Fluxo de Opções
@@ -17,7 +17,7 @@ O fluxo de opções representa, a partir da tela de opções, o acesso às 4 ár
    
 <p align='center'>
 <img src='img/fluxos/Opcoes.png'><BR>
-Figura X – Fluxo 1
+Figura 3 – Fluxo 1
 </p>
 
 ### 4.1.3 Menu Sanduíche
@@ -25,7 +25,7 @@ O menu de opções, conhecido no mundo do design como "menu sanduíche", estará
    
 <p align='center'>
 <img src='img/fluxos/Sanduiche.png'><BR>
-Figura X – Fluxo 1
+Figura 4 – Fluxo 1
 </p>
    
 ### 4.2.4 Hierarquia de cadastro
@@ -33,7 +33,7 @@ Cada uma das 4 áreas possui seus campos de informações distintos. Entretanto 
 
 <p align='center'>
 <img src='img/fluxos/Area_XXXX.png'><BR>
-Figura X – Fluxo 1
+Figura 5 – Fluxo 1
 </p>
 
 
@@ -45,7 +45,7 @@ Conforme os fluxos de telas do projeto, apresentado no item anterior, as telas d
 
 <p align='center'>
 <img src='img/telas/Estrutura.png'>
-Figura X – Estrutura padrão do sistema
+Figura 6 – Estrutura padrão do sistema
 </p>
 
 ### 4.2.1 Tela – Inicial
@@ -64,7 +64,7 @@ Caso o atalho “Esqueci minha Senha” seja acionada, o sistema irá ser redire
 
 <p align='center'>
 <img src='img/telas/Tela_Inicial.png' style='text-align:center'><BR>
-Figura X – Tela Inicial
+Figura 7 – Tela Inicial
 </P>
 
 #### 4.2.2 Tela – Recuperação de Senha
@@ -82,7 +82,7 @@ Caso seja clicado no atalho “Voltar”, o sistema retornará para a tela inici
 
 <p align='center'>
 <img src='img/telas/Recuperacao_Senha.png'><BR>
-Figura X – Tela Recuperacao de Senha
+Figura 8 – Tela Recuperacao de Senha
 </P>   
 
 ### 4.2.3 Tela – Menu de Opções
@@ -100,7 +100,7 @@ Clicando-se no botão “Categorias”, o sistema será redirecionado para a lis
 
 <p align='center'>
 <img src='img/telas/Opcoes.png'><BR>
-Figura X - Tela de opções
+Figura 9 - Tela de opções
 </P>
 
 ### 4.2.4 Cadastro de Pessoas
@@ -126,7 +126,7 @@ Clicando-se no menu sanduíche, o sistema irá apresentar a tela de menu.
 
 <p align='center'>
 <img src='img/telas/Tela_Listagem_Pessoas.png'><BR>
-Figura X – Tela de listagem de pessoas
+Figura 10 – Tela de listagem de pessoas
 </P>
 
 #### 4.2.4.2 Tela - Inserir uma nova pessoa
@@ -164,7 +164,7 @@ Clicando-se no botão “Salvar”, o sistema irá inserir as novas informaçõe
 
 <p align='center'>
 <img src='img/telas/Inserir_Pessoa.png'><BR>
-Figura X - Tela de inserção de pessoas
+Figura 11 - Tela de inserção de pessoas
 </P>
 
 #### 4.2.4.3 Tela - Edição de uma pessoa existente
@@ -206,7 +206,7 @@ Clicando-se no botão “Excluir”, o sistema irá apresentar uma pergunta. Cas
 
 <p align='center'>
 <img src='img/telas/Editar_Pessoa.png'>
-Figura X - Tela de edição de uma pessoa já cadastrada
+Figura 12 - Tela de edição de uma pessoa já cadastrada
 </p>
 
 ### 4.2.5 Categorias

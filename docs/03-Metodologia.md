@@ -11,7 +11,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | --- | --- | --- |
 | Repositório de Código Fonte | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2023-1-E1-PROJ-WEB-T14-G5-Cadastro_De_Pessoas |
 | Projeto de Interface  | MarvelApp | https://marvelapp.com/project/6683449 |
-| Gerenciamento de projeto | Trello | Trello.com |
+| Gerenciamento de projeto | Trello | https://trello.com/b/VceWxvyp/puc-ads-etapa-2 |
 
 ## Gerenciamento do Projeto
 
@@ -36,5 +36,7 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 
 O quadro kanban do grupo desenvolvido na ferramenta de gerenciamento de projetos está disponível através da URL do sistema Trello e é apresentado, no estado atual, na Figura X. 
 
-![This is an image](https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2023-1-E1-PROJ-WEB-T14-G5-Cadastro_De_Pessoas/blob/94af498e5dad73301fcff251bfae3f14d217530f/docs/img/metodologia/tela_kanban_grupo.png)
+<P align='center'>
+![This is an image](https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2023-1-E1-PROJ-WEB-T14-G5-Cadastro_De_Pessoas/blob/94af498e5dad73301fcff251bfae3f14d217530f/docs/img/metodologia/tela_kanban_grupo.png)<BR>
+Figura 1: Quadro Kanban / Trello em 17/04/2023
 

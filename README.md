@@ -47,6 +47,7 @@ Ainda não está disponível.
 -->
 </ol>
 
+<!--
 # Código
 
 <li><a href="src/README.md">Código Fonte</a></li>
@@ -54,3 +55,4 @@ Ainda não está disponível.
 # Apresentação
 
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
+-->
