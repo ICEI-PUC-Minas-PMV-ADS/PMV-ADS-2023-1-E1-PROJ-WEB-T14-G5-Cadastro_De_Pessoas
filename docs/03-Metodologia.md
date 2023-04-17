@@ -22,7 +22,7 @@ A equipe está organizada da seguinte maneira:
     * Evellyn Andrade Alves da Silva
     * Thiago Muniz Severino dos Santos
 * Equipe de Design
-    * Barbara Gabriela Evangelista Paixão
+    * Bárbara Gabriela Evangelista Paixão
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando algumas ferramentas com objetivo de realizar o gerenciamento de tarefas, tais como: GitHub e Trello estruturado com as seguintes listas: 
 
