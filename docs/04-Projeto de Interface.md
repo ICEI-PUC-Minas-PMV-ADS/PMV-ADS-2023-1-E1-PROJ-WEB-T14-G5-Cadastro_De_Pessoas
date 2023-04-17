@@ -222,7 +222,7 @@ A tela de listagem de categorias consiste no cabeçalho padrão contendo o menu 
 Ao se clicar no botão “Adicionar”, o sistema irá apresentar a tela de inserção de uma nova categoria.
 
 <p align='center'>
-<img src='img/fluxos/categorias_listagem.png'><BR>
+<img src='img/telas/categorias_listagem.png'><BR>
 Figura 4 – Fluxo 1
 </p>
    
@@ -246,7 +246,7 @@ Ao se clicar no botão “Salvar”, o sistema irá gravar a nova categoria no b
 Ao se clicar no botão “Voltar para listagem”, o sistema irá voltar para a listagem de categorias sem salvar os dados preenchidos.
 
 <p align='center'>
-<img src='img/fluxos/categorias_inserir.png'><BR>
+<img src='img/telas/categorias_inserir.png'><BR>
 Figura 4 – Fluxo 1
 </p>
 
@@ -271,7 +271,7 @@ Ao se clicar no botão “Excluir”, o sistema irá, após confirmação, exclu
 
 
 <p align='center'>
-<img src='img/fluxos/categorias_editar.png'><BR>
+<img src='img/telas/categorias_editar.png'><BR>
 Figura 4 – Fluxo 1
 </p>
 
