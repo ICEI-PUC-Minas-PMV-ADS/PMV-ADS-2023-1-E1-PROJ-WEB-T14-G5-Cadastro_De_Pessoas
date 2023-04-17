@@ -286,6 +286,12 @@ A tela de listagem de usuários consiste no cabeçalho padrão contendo o menu s
 
 Ao clicar no botão “Adicionar”, o sistema irá apresentar a tela de inserção de um novo usuário.
 
+<p align='center'>
+<img src='img/telas/usuarios_listagem.png'><BR>
+Figura X - Tela de listagem de usuários do sistema
+</P>
+   
+
 #### 4.2.6.2 Tela - Inserir um novo usuários
 
 A tela de inserir novos usuários consiste no cabeçalho padrão contendo o menu sanduíche e os seguintes elementos:
@@ -301,8 +307,8 @@ A tela de inserir novos usuários consiste no cabeçalho padrão contendo o menu
 * Botão “Salvar”.
 
 <p align='center'>
-<img src='img/telas/tela-inserir-uma-nova-pessoa.png'><BR>
-Figura X - Tela de Inserção de Pessoas
+<img src='img/telas/usuarios_inserir.png'><BR>
+Figura X - Tela de inserção de novos usuários
 </P>
 
 #### 4.2.6.3 Tela - Editar um usuário existente
@@ -320,8 +326,8 @@ A tela de editar usuários existentes consiste no cabeçalho padrão contendo o 
 * Botão "Salvar" 
 * Botão "Excluir"
 
-<img src='img/telas/tela-editar-uma-pessoa-existente.png'><BR>
-Figura X - Tela de edição de uma pessoa já cadastrada
+<img src='img/telas/usuarios_editar.png'><BR>
+Figura X - Tela de edição de um usuário já existente
 
 ### 4.2.7 Campos genéricos
 
@@ -348,7 +354,7 @@ A tela de inserir um novo campo genérico consiste no cabeçalho padrão contend
 
 <p align='center'>
 <img src='img/telas/tela-campo-generico-inserir.png'><BR>
-Figura X - Tela de inserir um novo campo genérico
+Figura X - Tela de inserção de um novo campo genérico
 </P>
    
 #### 4.2.7.3 Tela - Editar um campo genérico existente
@@ -364,7 +370,7 @@ A tela de edição de um campo genérico consiste no cabeçalho padrão contendo
    
 <p align='center'>
 <img src='img/telas/tela-campo-generico-editar.png'><BR>
-Figura X - Tela de editar um campo genérico existente
+Figura X - Tela de edição de um campo genérico existente
 </P>   
 
 #### 4.2.7.4 Tela - Campo genérico salvo com sucesso
