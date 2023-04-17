@@ -221,6 +221,11 @@ A tela de listagem de categorias consiste no cabeçalho padrão contendo o menu 
 
 Ao se clicar no botão “Adicionar”, o sistema irá apresentar a tela de inserção de uma nova categoria.
 
+<p align='center'>
+<img src='img/fluxos/categorias_listagem.png'><BR>
+Figura 4 – Fluxo 1
+</p>
+   
 
 #### 4.2.5.2 Tela - Inserir uma nova categoria
 
@@ -240,6 +245,11 @@ Ao se clicar no botão “Salvar”, o sistema irá gravar a nova categoria no b
 
 Ao se clicar no botão “Voltar para listagem”, o sistema irá voltar para a listagem de categorias sem salvar os dados preenchidos.
 
+<p align='center'>
+<img src='img/fluxos/categorias_inserir.png'><BR>
+Figura 4 – Fluxo 1
+</p>
+
 #### 4.2.5.3 Tela – Editar uma categoria existente
 
 A tela de edição de uma categoria já existente consiste no cabeçalho padrão contendo o menu sanduíche além dos seguintes elementos:
@@ -258,6 +268,12 @@ O campo código será automático e preenchido após salvar.
 Ao se clicar no botão “Salvar”, o sistema irá atualizar categoria no banco de dados e exibir a mensagem de confirmação.
 Ao se clicar no botão “Voltar para listagem”, o sistema irá voltar para a listagem de categorias sem salvar os dados preenchidos.
 Ao se clicar no botão “Excluir”, o sistema irá, após confirmação, excluir esta categoria do banco de dados.
+
+
+<p align='center'>
+<img src='img/fluxos/categorias_editar.png'><BR>
+Figura 4 – Fluxo 1
+</p>
 
 ### 4.2.6 Usuários
 #### 4.2.6.1 Tela - Listagem de usuários
