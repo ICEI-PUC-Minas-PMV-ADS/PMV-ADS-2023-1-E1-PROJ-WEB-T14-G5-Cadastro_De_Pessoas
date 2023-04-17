@@ -7,8 +7,10 @@ A metodologia contempla as definições de ferramental utilizado pela equipe tan
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 
-![This is an image](https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2023-1-E1-PROJ-WEB-T14-G5-Cadastro_De_Pessoas/blob/94af498e5dad73301fcff251bfae3f14d217530f/docs/img/metodologia/metodologia.png)
-
+| Ambiente | Plataforma | Link de Acesso |
+| Repositório de Código Fonte | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2023-1-E1-PROJ-WEB-T14-G5-Cadastro_De_Pessoas |
+| Projeto de Interface  | MarvelApp | https://marvelapp.com/project/6683449 |
+| Gerenciamento de projeto | Trello | Trello.com |
 
 ## Gerenciamento do Projeto
 
