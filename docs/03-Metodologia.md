@@ -12,6 +12,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Repositório de Código Fonte | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2023-1-E1-PROJ-WEB-T14-G5-Cadastro_De_Pessoas |
 | Projeto de Interface  | MarvelApp | https://marvelapp.com/project/6683449 |
 | Gerenciamento de projeto | Trello | https://trello.com/b/VceWxvyp/puc-ads-etapa-2 |
+| Diagramação do Fluxo | Libreoffice - Draw | ODS disponível em https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2023-1-E1-PROJ-WEB-T14-G5-Cadastro_De_Pessoas/blob/main/docs/Documentos_Extras/Fluxo.odg |
 
 ## Gerenciamento do Projeto
 
