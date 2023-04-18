@@ -31,9 +31,18 @@ Figura 4 – Fluxo do menu Sanduíche
 ### 4.2.4 Hierarquia de cadastro
 Cada uma das 4 áreas possui seus campos de informações distintos. Entretanto a diagramação das telas foi produzida para que seja padrão, de forma que qualquer tela de busca, cadastro ou edição seja igual, diminuindo a sobrecarga cognitiva.
 
+#### A tela de listagem
+A tela de listagem apresenta o menu sanduíche por onde se acessa o menu de opções. Apresenta também o ícone "Adicionar" para inserir um novo registro e um ícone "Editar" para cada registro apresentado.
+
+#### A tela de Inserção
+A tela de inserção apresenta o menu sanduíche por onde se acessa o menu de opções. Apresenta também o ícone "Salvar" para salvar os dados informados no banco de dados, um ícone "Voltar para listagem" para voltar para a tela de busca.
+
+### A tela de edição
+A tela de edição apresenta o menu sanduíche por onde se acessa o menu de opções. Apresenta também o ícone "Voltar para listagem", um ícone "Salvar" para salvar os dados editados e um botão "Excluir" para apagar o registro do banco de dados.
+
 <p align='center'>
 <img src='img/fluxos/Area_XXXX.png'><BR>
-Figura 5 – Fluxo dos cadastros de cada área
+Figura 5 – Fluxo dos cadastros de cada área apresentando todas as telas padrões
 </p>
 
 
