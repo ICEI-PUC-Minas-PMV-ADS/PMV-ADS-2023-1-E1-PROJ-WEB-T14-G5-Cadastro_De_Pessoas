@@ -17,7 +17,7 @@ O fluxo de opções representa, a partir da tela de opções, o acesso às 4 ár
    
 <p align='center'>
 <img src='img/fluxos/Opcoes.png'><BR>
-Figura 3 – Fluxo 1
+Figura 3 – Fluxo do menu de opções
 </p>
 
 ### 4.1.3 Menu Sanduíche
@@ -25,7 +25,7 @@ O menu de opções, conhecido no mundo do design como "menu sanduíche", estará
    
 <p align='center'>
 <img src='img/fluxos/Sanduiche.png'><BR>
-Figura 4 – Fluxo 1
+Figura 4 – Fluxo do menu Sanduíche
 </p>
    
 ### 4.2.4 Hierarquia de cadastro
@@ -33,7 +33,7 @@ Cada uma das 4 áreas possui seus campos de informações distintos. Entretanto 
 
 <p align='center'>
 <img src='img/fluxos/Area_XXXX.png'><BR>
-Figura 5 – Fluxo 1
+Figura 5 – Fluxo dos cadastros de cada área
 </p>
 
 
@@ -223,7 +223,7 @@ Ao se clicar no botão “Adicionar”, o sistema irá apresentar a tela de inse
 
 <p align='center'>
 <img src='img/telas/categorias_listagem.png'><BR>
-Figura 13 – Fluxo 1
+Figura 13 – Listagem de categorias
 </p>
    
 
@@ -247,7 +247,7 @@ Ao se clicar no botão “Voltar para listagem”, o sistema irá voltar para a 
 
 <p align='center'>
 <img src='img/telas/categorias_inserir.png'><BR>
-Figura 14 – Fluxo 1
+Figura 14 – Inserção de uma nova categoria
 </p>
 
 #### 4.2.5.3 Tela – Editar uma categoria existente
@@ -272,7 +272,7 @@ Ao se clicar no botão “Excluir”, o sistema irá, após confirmação, exclu
 
 <p align='center'>
 <img src='img/telas/categorias_editar.png'><BR>
-Figura 15 – Fluxo 1
+Figura 15 – Edição de uma categoria existente
 </p>
 
 ### 4.2.6 Usuários
@@ -382,7 +382,7 @@ Figura 22 - Tela campo genérico salvo com sucesso
 #### 4.2.7.5 Tela - Excluir campo genérico
 <p align='center'>
 <img src='img/telas/tela-campo-generico-excluir.png'><BR>
-Figura 23 - Tela excluir campo genérico
+Figura 23 - Tela de confirmação de exclusão de um campo genérico
 </P>
 
 #### 4.2.7.6 Tela - campo genérico excluído com sucesso
