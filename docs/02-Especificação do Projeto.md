@@ -164,8 +164,7 @@ A tabela a seguir apresenta os requisitos funcionais do projeto e sua prioridade
 | RF-5 | O sistema deverá permitir a exportação da listagem para o Excel | Baixa | 
 | RF-6 | O sistema deverá permitir criar campos adicionais no cadastro de pessoas. | Baixa |
 | RF-7 | O sistema deverá permitir enviar mala direta para os grupos de pessoas selecionados. | Baixa |
-| RF-8 | O sistema deverá ser responsivo, podendo ser utilizado em celular ou computador. | Alto |
-| RF-9 | O sistema deverá cadastrar usuários, e utilizar estes usuários para autenticação do sistema | Alto |
+| RF-8 | O sistema deverá cadastrar usuários, e utilizar estes usuários para autenticação do sistema | Alto |
 
 
 

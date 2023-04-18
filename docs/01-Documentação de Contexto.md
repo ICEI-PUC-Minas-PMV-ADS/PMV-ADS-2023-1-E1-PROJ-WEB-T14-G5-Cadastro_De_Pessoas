@@ -14,9 +14,11 @@ Outro problema é que muitos contatos inativos ou irrelevantes podem prejudicar 
 
 Por isso, é importante que as empresas façam uma análise regular de seus contatos e removam aqueles que não são mais úteis ou relevantes. Isso pode ajudar a reduzir custos, aumentar a eficiência do trabalho, melhorar a reputação da empresa e garantir que os esforços de marketing e relacionamento sejam direcionados para os contatos mais importantes e valiosos. 
 
-## Objetivos
+## Objetivo e Solução
 
 Visando deslumbrar um produto minimamente viável, o objetivo deste projeto é apresentar e desenvolver um modelo de ferramenta que permita catalogar os contatos devidamente, de forma que um catálogo de pessoas passe de uma simples agenda telefônica para um software organizacional que, embora se apresente simples, tenha o poder de facilitar uma busca e manutenção cadastral.
+
+Materializando-se este objetivo, a proposta do projeto é a criação de um sistema onde se possa cadastrar pessoas, categorizá-las devidamente e permitir a criação de campos avulsos nos seus cadastros. Também será oferecido a exportação dos dados para MS-Excel.
 
 ## Justificativa
 
