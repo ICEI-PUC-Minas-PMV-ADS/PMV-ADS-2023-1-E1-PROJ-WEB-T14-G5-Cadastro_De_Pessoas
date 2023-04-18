@@ -28,7 +28,7 @@ O menu de opções, conhecido no mundo do design como "menu sanduíche", estará
 Figura 4 – Fluxo do menu Sanduíche
 </p>
    
-### 4.2.4 Hierarquia de cadastro
+### 4.1.4 Hierarquia de cadastro
 Cada uma das 4 áreas possui seus campos de informações distintos. Entretanto a diagramação das telas foi produzida para que seja padrão, de forma que qualquer tela de busca, cadastro ou edição seja igual, diminuindo a sobrecarga cognitiva.
 
 #### A tela de listagem
