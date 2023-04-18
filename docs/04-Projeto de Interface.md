@@ -223,7 +223,7 @@ Ao se clicar no botão “Adicionar”, o sistema irá apresentar a tela de inse
 
 <p align='center'>
 <img src='img/telas/categorias_listagem.png'><BR>
-Figura 4 – Fluxo 1
+Figura 13 – Fluxo 1
 </p>
    
 
@@ -247,7 +247,7 @@ Ao se clicar no botão “Voltar para listagem”, o sistema irá voltar para a 
 
 <p align='center'>
 <img src='img/telas/categorias_inserir.png'><BR>
-Figura 4 – Fluxo 1
+Figura 14 – Fluxo 1
 </p>
 
 #### 4.2.5.3 Tela – Editar uma categoria existente
@@ -272,7 +272,7 @@ Ao se clicar no botão “Excluir”, o sistema irá, após confirmação, exclu
 
 <p align='center'>
 <img src='img/telas/categorias_editar.png'><BR>
-Figura 4 – Fluxo 1
+Figura 15 – Fluxo 1
 </p>
 
 ### 4.2.6 Usuários
@@ -288,7 +288,7 @@ Ao clicar no botão “Adicionar”, o sistema irá apresentar a tela de inserç
 
 <p align='center'>
 <img src='img/telas/usuarios_listagem.png'><BR>
-Figura X - Tela de listagem de usuários do sistema
+Figura 16 - Tela de listagem de usuários do sistema
 </P>
    
 
@@ -308,7 +308,7 @@ A tela de inserir novos usuários consiste no cabeçalho padrão contendo o menu
 
 <p align='center'>
 <img src='img/telas/usuarios_inserir.png'><BR>
-Figura X - Tela de inserção de novos usuários
+Figura 17 - Tela de inserção de novos usuários
 </P>
 
 #### 4.2.6.3 Tela - Editar um usuário existente
@@ -327,7 +327,7 @@ A tela de editar usuários existentes consiste no cabeçalho padrão contendo o 
 * Botão "Excluir"
 
 <img src='img/telas/usuarios_editar.png'><BR>
-Figura X - Tela de edição de um usuário já existente
+Figura 18 - Tela de edição de um usuário já existente
 
 ### 4.2.7 Campos genéricos
 
@@ -337,7 +337,7 @@ A tela de listagem de campos genéricos permite listar os campos adicionais no c
 
 <p align='center'>
 <img src='img/telas/tela-cadastro-genericos.png'><BR>
-Figura X - Tela de listagem de campos genérico
+Figura 19 - Tela de listagem de campos genérico
 </P>
    
    
@@ -354,7 +354,7 @@ A tela de inserir um novo campo genérico consiste no cabeçalho padrão contend
 
 <p align='center'>
 <img src='img/telas/tela-campo-generico-inserir.png'><BR>
-Figura X - Tela de inserção de um novo campo genérico
+Figura 20 - Tela de inserção de um novo campo genérico
 </P>
    
 #### 4.2.7.3 Tela - Editar um campo genérico existente
@@ -370,25 +370,25 @@ A tela de edição de um campo genérico consiste no cabeçalho padrão contendo
    
 <p align='center'>
 <img src='img/telas/tela-campo-generico-editar.png'><BR>
-Figura X - Tela de edição de um campo genérico existente
+Figura 21 - Tela de edição de um campo genérico existente
 </P>   
 
 #### 4.2.7.4 Tela - Campo genérico salvo com sucesso
 <p align='center'>
 <img src='img/telas/tela-campo-generico-salvo-com-sucesso.png'><BR>
-Figura X - Tela campo genérico salvo com sucesso
+Figura 22 - Tela campo genérico salvo com sucesso
 </P>
 
 #### 4.2.7.5 Tela - Excluir campo genérico
 <p align='center'>
 <img src='img/telas/tela-campo-generico-excluir.png'><BR>
-Figura X - Tela excluir campo genérico
+Figura 23 - Tela excluir campo genérico
 </P>
 
 #### 4.2.7.6 Tela - campo genérico excluído com sucesso
 <p align='center'>
 <img src='img/telas/tela-campo-generico-excluido-com-sucesso.png'><BR>
-Figura X - Tela campo genérico excluído com sucesso
+Figura 24 - Tela campo genérico excluído com sucesso
 </P>
 
 
