@@ -165,7 +165,7 @@ A tabela a seguir apresenta os requisitos funcionais do projeto e sua prioridade
 | RF-6 | O sistema deverá permitir criar campos adicionais no cadastro de pessoas. | Baixa |
 | RF-7 | O sistema deverá permitir enviar mala direta para os grupos de pessoas selecionados. | Baixa |
 | RF-8 | O sistema deverá ser responsivo, podendo ser utilizado em celular ou computador. | Alto |
-| RF-9 | O sistema deverá ter a interface mais simples, para uso em computadores ou celulares antigos. | Baixo |
+| RF-9 | O sistema deverá cadastrar usuários, e utilizar estes usuários para autenticação do sistema | Alto |
 
 
 
@@ -181,6 +181,7 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 | RNF-5 | O sistema deverá estar em conformidade com a Lei Geral de Proteção de Dados. |
 | RNF-6 | O banco de dados deverá estar situado em um servidor Linux não compartilhado. |
 | RNF-7 | O banco de dados deverá estar em um HD SSD para melhor desempenho. |
+| RNF-8 | O sistema deverá ter a interface mais simples, para uso em computadores ou celulares antigos. | Baixo |
 
 
 ### 2.3.3 Requisitos de negócios
@@ -191,12 +192,11 @@ A tabela a seguir apresenta os requisitos de negócios que o projeto deverá ate
 | RN-01 | Apenas os usuários administrativos podem criar campos genéricos. | Alta |
 | RN-02 | Os campos adicionais criados pelos usuários não podem ter os nomes repetidos. | Baixa |
 | RN-03 | Não se pode cadastrar mais de uma pessoa com o mesmo nome completo repetidamente. | Média |
-| RN-04 | O sistema deve bloquear o IP do usuário que tentar entrar com login e senha errados por mais de 3 vezes. | Baixa |
-| RN-05 | O nome da pessoa deve ser obrigatório. | Alta |
-| RN-06 | O sistema deve possuir um histórico de alterações. | Média |
-| RN-07 | Todos os CPFs e CNPJs das pessoas cadastradas devem ser validados.| Alta |
-| RN-08 | Cada pessoa deverá ter um código incremental único. | Alta | 
-| RN-09 | Cada usuário deverá ser uma pessoa pré-cadastrada no sistema.| Alta | 
+| RN-04 | O nome da pessoa deve ser obrigatório. | Alta |
+| RN-05 | O sistema deve possuir um histórico de alterações. | Média |
+| RN-06 | Todos os CPFs e CNPJs das pessoas cadastradas devem ser validados.| Alta |
+| RN-07 | Cada pessoa deverá ter um código incremental único. | Alta | 
+| RN-08 | Cada usuário deverá ser uma pessoa pré-cadastrada no sistema.| Alta | 
 	
 
 ### 2.3.4 Restrições 
@@ -208,4 +208,5 @@ As questões que limitam a execução do projeto são apresentadas na tabela a s
 | RE-02 | O sistema deverá ser desenvolvido utilizando-se linguagens de programação que não requeiram licença de software paga. | Baixa |
 | RE-03 | O programa não pode ultrapassar 50 MB. | Média |
 | RE-04 | O sistema não poderá utilizar trechos de programas já existentes. | Alta |
+| RE-05 | O banco de dados não poderá ultrapassar 5 MB, que é o limite do local storage. | Alta |
 
