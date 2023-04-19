@@ -18,7 +18,7 @@ Por isso, é importante que as empresas façam uma análise regular de seus cont
 
 Visando deslumbrar um produto minimamente viável, o objetivo deste projeto é apresentar e desenvolver uma ferramenta que permita catalogar os contatos devidamente, de forma que um catálogo de pessoas passe de uma simples agenda telefônica para um software organizacional que, embora se apresente simples, tenha o poder de facilitar uma busca e manutenção cadastral.
 
-Materializando-se este objetivo, a proposta do projeto é a criação de um sistema onde se possa cadastrar pessoas, categorizá-las devidamente e permitir a criação de campos avulsos nos seus cadastros. Também será oferecido a exportação dos dados para MS-Excel.
+Materializando-se este objetivo, a proposta do projeto é a criação de um sistema onde se possa cadastrar pessoas, categorizá-las devidamente em função das suas capacidaddes peroficionais e permitir a criação de campos avulsos nos seus cadastros. Também será oferecido a exportação dos dados para MS-Excel.
 
 ## Justificativa
 
