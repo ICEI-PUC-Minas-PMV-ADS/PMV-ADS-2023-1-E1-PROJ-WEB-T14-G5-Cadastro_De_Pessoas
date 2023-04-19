@@ -12,21 +12,21 @@ O fluxo inicial consiste na autenticação (entrada) do sistema, juntamente com 
 Figura 2 – Fluxo 1
 </p>
 
-### 4.1.2 Fluxo de Opções
-O fluxo de opções representa, a partir da tela de opções, o acesso às 4 áreas do sistema: Cadastro de Usuários, Categorias, Pessoas e Campos Genéricos.
-   
-<p align='center'>
-<img src='img/fluxos/Opcoes.png'><BR>
-Figura 3 – Fluxo do menu de opções
-</p>
-
-### 4.1.3 Menu Sanduíche
+### 4.1.2 Menu Sanduíche
 O menu de opções, conhecido no mundo do design como "menu sanduíche", estará presente em todas as telas autenticadas, e dará acesso à tela de opções. Esta é a forma de navegar entre as diferentes áreas no sistema.
    
 <p align='center'>
 <img src='img/fluxos/Sanduiche.png'><BR>
 Figura 4 – Fluxo do menu Sanduíche
 </p>
+ 
+ ### 4.1.3 Fluxo de Opções
+O fluxo de opções representa, a partir da tela de opções, o acesso às 4 áreas do sistema: Cadastro de Usuários, Categorias, Pessoas e Campos Genéricos.
+   
+<p align='center'>
+<img src='img/fluxos/Opcoes.png'><BR>
+Figura 3 – Fluxo do menu de opções
+</p>  
    
 ### 4.1.4 Hierarquia de cadastro
 Cada uma das 4 áreas possui seus campos de informações distintos. Entretanto a diagramação das telas foi produzida para que seja padrão, de forma que qualquer tela de busca, cadastro ou edição seja igual, diminuindo a sobrecarga cognitiva.
