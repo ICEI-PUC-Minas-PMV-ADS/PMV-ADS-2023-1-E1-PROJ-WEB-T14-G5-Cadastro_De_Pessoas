@@ -32,11 +32,11 @@ A equipe está organizada da seguinte maneira:
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando algumas ferramentas com objetivo de realizar o gerenciamento de tarefas, tais como: GitHub e Trello estruturado com as seguintes listas: 
 
 * <strong> Backlog </strong>: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
-* <strong> To Do </strong>: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
+* <strong> To Do </strong>: Esta lista representa o Sprint Backlog. Este é o Sprint atual no qual estamos trabalhando.
 * <strong> Doing </strong>: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
-* <strong> Done </strong>: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para serem entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
+* <strong> Done </strong>: Nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para serem entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
-O quadro kanban do grupo desenvolvido na ferramenta de gerenciamento de projetos está disponível através da URL do sistema Trello e é apresentado, no estado atual, na Figura X. 
+O quadro kanban do grupo desenvolvido na ferramenta de gerenciamento de projetos está disponível através da URL do sistema Trello e é apresentado, no estado atual, na figura abaixo. 
 
 <P align='center'>
 <img src='img/metodologia/tela_kanban_grupo.png'><BR>
