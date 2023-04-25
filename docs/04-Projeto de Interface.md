@@ -9,7 +9,7 @@ O fluxo inicial consiste na autenticação (entrada) do sistema, juntamente com 
 
 <p align='center'>
 <img src='img/fluxos/Inicial.png'><BR>
-Figura 2 – 
+Figura 2 – Fluxo 1
 </p>
 
 ### 4.1.2 Menu Sanduíche
