@@ -24,13 +24,18 @@ O diagrama de tabelas detalha a representação das entidades e relacionamentos 
 
 ## Tecnologias Utilizadas
 
-- Linguagens utlizadas no desenvolvimento da solução: HTML, CSS, JavaScript
-- IDEs de desenvolvimento: Visual Studio, Geany
-- Plataforma para hospedagem do sistema: VPS Locaweb
-- Plataforma para hospedagem dos arquivos: GITHUB
-- Ferramenta de versionamento: Git
-- Ferramenta para a criação de ícones: GIMP
+Todas as imagens, leiautes e códigos-fonte foram desenvolvidos pelos integrantes do grupo.
+
+| Tecnologia | Descrição | Extras |
+| --- | --- | --- | 
+| Linguagens utilizadas no desenvolvimento da solução | HTML, CSS, JavaScript | |
+| IDEs de desenvolvimento | Visual Studio, Geany | https://visualstudio.com <BR> https://geany.org | 
+| Plataforma para hospedagem do sistema | VPS Locaweb | https://locaweb.com.br | 
+| Plataforma para hospedagem dos arquivos | GITHUB | https://github.com | 
+| Ferramenta de versionamento | Git | https://git-scm.com | 
+| Ferramenta para a criação de ícones | GIMP | https://gimp.org |
+| Ferramenta de acesso direto ao servidor | Filezilla | https://filezilla-project.org | 
 
 ## Hospedagem
-O sistema está alocado em uma VPS da Locaweb, através de rsync deste repositório do github.
+O sistema está alocado em uma VPS da Locaweb, através de rsync deste repositório do github e também envio direto via filezilla.
 
