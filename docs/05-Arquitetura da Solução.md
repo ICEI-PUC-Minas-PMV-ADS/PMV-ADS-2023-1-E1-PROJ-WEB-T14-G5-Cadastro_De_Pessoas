@@ -2,6 +2,28 @@
 
 Neste tópico iremos tratar sobre a parte técnica da solução desenvolvida pela equipe, apresentando os componentes que fazem parte do sistema e do ambiente de hospedagem.
 
+## Diagrama de componentes
+
+Os componentes que fazem parte da solução são apresentados na Figura que se segue.
+
+[Navegador]
+ - Páginas web (html + CSS + JS)
+ - Local storage
+  - Pessoa
+  - Categoria
+  - Campo Generico
+  - Pessoa tem Campo Generico Preenchido
+  - Usuário
+  
+  => INTERNET
+
+[Hospedagem] 
+ (Locaweb)
+ (Cloudflare)
+
+Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla 
+
+
 ## Diagrama de Classes
 
 O diagrama de classes ilustra a estrutura do software e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que persistirão em memória assim como identificar os métodos mais utilizados.
