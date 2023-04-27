@@ -181,6 +181,9 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 | RNF-6 | O banco de dados deverá estar situado em um servidor Linux não compartilhado. |
 | RNF-7 | O banco de dados deverá estar em um HD SSD para melhor desempenho. |
 | RNF-8 | O sistema deverá ter a interface mais simples, para uso em computadores ou celulares antigos. | Baixo |
+| RNF-9 | O programa não pode ultrapassar 50 MB. | Média |
+| RNF-10 | O banco de dados não poderá ultrapassar 5 MB, que é o limite do local storage. | Alta |
+
 
 
 ### 2.3.3 Requisitos de negócios
@@ -188,14 +191,14 @@ A tabela a seguir apresenta os requisitos de negócios que o projeto deverá ate
 
 | Código | Descrição | Prioridade |
 | --- | --- | --- | 
-| RN-01 | Apenas os usuários administrativos podem criar campos genéricos. | Alta |
-| RN-02 | Os campos adicionais criados pelos usuários não podem ter os nomes repetidos. | Baixa |
-| RN-03 | Não se pode cadastrar mais de uma pessoa com o mesmo nome completo repetidamente. | Média |
-| RN-04 | O nome da pessoa deve ser obrigatório. | Alta |
-| RN-05 | O sistema deve possuir um histórico de alterações. | Média |
-| RN-06 | Todos os CPFs e CNPJs das pessoas cadastradas devem ser validados.| Alta |
-| RN-07 | Cada pessoa deverá ter um código incremental único. | Alta | 
-| RN-08 | Cada usuário deverá ser uma pessoa pré-cadastrada no sistema.| Alta | 
+| RN-1 | Apenas os usuários administrativos podem criar campos genéricos. | Alta |
+| RN-2 | Os campos adicionais criados pelos usuários não podem ter os nomes repetidos. | Baixa |
+| RN-3 | Não se pode cadastrar mais de uma pessoa com o mesmo nome completo repetidamente. | Média |
+| RN-4 | O nome da pessoa deve ser obrigatório. | Alta |
+| RN-5 | O sistema deve possuir um histórico de alterações. | Média |
+| RN-6 | Todos os CPFs e CNPJs das pessoas cadastradas devem ser validados.| Alta |
+| RN-7 | Cada pessoa deverá ter um código incremental único. | Alta | 
+| RN-8 | Cada usuário deverá ser uma pessoa pré-cadastrada no sistema.| Alta | 
 	
 
 ### 2.3.4 Restrições 
@@ -203,9 +206,6 @@ As questões que limitam a execução do projeto são apresentadas na tabela a s
 			
 | Código | Descrição | Prioridade |
 | --- | --- | --- |
-| RE-01 | A etapa inicial do projeto deverá cumprir o prazo de 31/03/2023. | Alta | 
-| RE-02 | O sistema deverá ser desenvolvido utilizando-se linguagens de programação que não requeiram licença de software paga. | Baixa |
-| RE-03 | O programa não pode ultrapassar 50 MB. | Média |
-| RE-04 | O sistema não poderá utilizar trechos de programas já existentes. | Alta |
-| RE-05 | O banco de dados não poderá ultrapassar 5 MB, que é o limite do local storage. | Alta |
-
+| RE-1 | A etapa inicial do projeto deverá cumprir o prazo de 31/03/2023. | Alta | 
+| RE-2 | O sistema deverá ser desenvolvido utilizando-se linguagens de programação que não requeiram licença de software paga. | Baixa |
+| RE-3 | O sistema não poderá utilizar trechos de programas já existentes. | Alta |
