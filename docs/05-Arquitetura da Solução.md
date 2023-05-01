@@ -28,21 +28,7 @@ Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla
 
 O diagrama de classes ilustra a estrutura do software e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que persistirão em memória assim como identificar os métodos mais utilizados.
 
-![Diagrama de Classes](img/Diagrama_Classe.png)
-
-## Modelo Entidade-Relacionamento 
-
-O Modelo Entidade-Relacionamento representa através de um diagrama como as entidades se relacionam entre si na aplicação.
-
-<p align="center">
-<img width="1280" height="720" src="img/ER.png">
-</p>
-
-## Diagrama de Tabelas
-
-O diagrama de tabelas detalha a representação das entidades e relacionamentos identificadas no Modelo ER, no formato de tabelas, com colunas e chaves primárias/estrangeiras necessárias para representar corretamente as restrições de integridade.
- 
-![Projeto da Base de Dados](img/BDD.png)
+(img/Diagrama_Classe.png)
 
 ## Tecnologias Utilizadas
 
@@ -58,6 +44,4 @@ Todas as imagens, leiautes e códigos-fonte foram desenvolvidos pelos integrante
 | Ferramenta para a criação de ícones | GIMP | https://gimp.org |
 | Ferramenta de acesso direto ao servidor | Filezilla | https://filezilla-project.org | 
 
-## Hospedagem
-O sistema está alocado em uma VPS da Locaweb, através de rsync deste repositório do github e também envio direto via filezilla.
 
