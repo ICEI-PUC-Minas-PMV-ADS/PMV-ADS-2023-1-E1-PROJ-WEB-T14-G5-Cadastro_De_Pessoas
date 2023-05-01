@@ -1,6 +1,6 @@
 
 ## 7. Funcionalidades do sistema
-Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. O respectivo endereço é https://cp.multiaccess.com.br. Outras orientações de acesso serão apresentadas na sequência.
+Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. O endereço para acesso ao sistema é https://cp.multiaccess.com.br. Outras orientações de acesso serão apresentadas na sequência.
 
 ### 7.1 Login
 Esta é a tela inicial do sistema. Permite que os usuários possam se autenticar e entrar no sistema. Fornece também um link para recuperação de senha perdida.
