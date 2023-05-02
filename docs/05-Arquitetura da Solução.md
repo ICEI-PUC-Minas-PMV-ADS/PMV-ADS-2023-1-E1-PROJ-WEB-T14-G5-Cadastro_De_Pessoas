@@ -4,7 +4,7 @@ Neste tópico iremos tratar sobre a parte técnica da solução desenvolvida pel
 
 ## Diagrama de componentes
 
-Os componentes que fazem parte da solução são apresentados na Figura que se segue.
+Os componentes que fazem parte da solução são apresentados na representação a seguir:
 
 [Navegador]
  - Páginas web (html (PHP) + CSS + JS)
@@ -21,7 +21,6 @@ Os componentes que fazem parte da solução são apresentados na Figura que se s
  (Locaweb)
  (Cloudflare)
 
-Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla 
 
 
 ## Diagrama de Classes
