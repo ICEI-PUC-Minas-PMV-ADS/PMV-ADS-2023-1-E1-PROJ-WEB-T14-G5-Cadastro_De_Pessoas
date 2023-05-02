@@ -2,6 +2,21 @@
 ## 7. Funcionalidades do sistema
 Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. O endereço para acesso ao sistema é https://cp.multiaccess.com.br. Outras orientações de acesso serão apresentadas na sequência.
 
+Todas as telas utilizam artefatos compartilhados, aqui descrito os artefatos comuns em forma hierárquica.
+
+- Cabecalho.php
+	- /js/jquery-3.3.1.min.js
+	- /js/Funcoes.js
+	- /js/Banco_De_Dados.js
+	- /js/Usuario.js
+	- /js/Pergunta.js
+	
+	- /css/Padrao.css
+	- /css/Pergunta.css
+	
+	- /Imagens/Logotipo.png
+	- /Imagens/Menu.png
+
 ### 7.1 Login
 Esta é a tela inicial do sistema. Permite que os usuários possam se autenticar e entrar no sistema. Fornece também um link para recuperação de senha perdida.
 
@@ -12,11 +27,8 @@ Esta é a tela inicial do sistema. Permite que os usuários possam se autenticar
 | RF-01 | BLA BLA BLA |
 | RF-02 | BLA BLA BLA |
 
-Artefatos da funcionalidade
- - index.html
- - script_noticias.js
- - style.css
- - icone_noticia.jpg
+Artefatos específicos:
+ - index.php
 
 ### 7.2 Recuperação de senha
 
@@ -29,12 +41,8 @@ Artefatos da funcionalidade
 | RF-01 | BLA BLA BLA |
 | RF-02 | BLA BLA BLA |
 
-Artefatos da funcionalidade
- - index.html
- - script_noticias.js
- - style.css
- - icone_noticia.jpg
-
+Artefatos específicos:
+ - Recuperacao_Senha.php
 
 ### 7.3 Menu de Opções
 
@@ -45,13 +53,10 @@ Acessado a partir do menu sanduíche, permite acessar as principais áreas do si
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
 | RF-01 | BLA BLA BLA |
-| RF-02 | BLA BLA BLA |
+| RF-02 | BLA BLA BLA | 
 
-Artefatos da funcionalidade
- - index.html
- - script_noticias.js
- - style.css
- - icone_noticia.jpg
+Artefatos específicos:
+ - Opcoes.php
 
 ### 7.4 Categorias :: Listagem
 
@@ -64,11 +69,8 @@ Permite listar a categorias já cadastradas, com opção de busca, e acesso às 
 | RF-01 | BLA BLA BLA |
 | RF-02 | BLA BLA BLA |
 
-Artefatos da funcionalidade
- - index.html
- - script_noticias.js
- - style.css
- - icone_noticia.jpg
+Artefatos específicos:
+ - Categorias_Listar.php
 
 ### 7.5 Categorias :: Inserção
 
@@ -81,11 +83,9 @@ Permite inserir uma nova categoria.
 | RF-01 | BLA BLA BLA |
 | RF-02 | BLA BLA BLA |
 
-Artefatos da funcionalidade
- - index.html
- - script_noticias.js
- - style.css
- - icone_noticia.jpg
+Artefatos específicos:
+ - Categorias_Inserir.php
+
 
 ### 7.6 Categorias :: Edição
 
@@ -98,11 +98,9 @@ Permite editar uma categoria já cadastrada, com opção de exclusão.
 | RF-01 | BLA BLA BLA |
 | RF-02 | BLA BLA BLA |
 
-Artefatos da funcionalidade
- - index.html
- - script_noticias.js
- - style.css
- - icone_noticia.jpg
+Artefatos específicos:
+ - Categorias_Editar.php
+
 
 ### 7.4 Pessoas :: Listagem
 
@@ -115,11 +113,7 @@ Permite listar a pessoass já cadastradas, com opção de busca, e acesso às fe
 | RF-01 | BLA BLA BLA |
 | RF-02 | BLA BLA BLA |
 
-Artefatos da funcionalidade
- - index.html
- - script_noticias.js
- - style.css
- - icone_noticia.jpg
+
 
 ### 7.5 Pessoas :: Inserção
 
@@ -132,11 +126,9 @@ Permite inserir uma nova pessoa.
 | RF-01 | BLA BLA BLA |
 | RF-02 | BLA BLA BLA |
 
-Artefatos da funcionalidade
- - index.html
- - script_noticias.js
- - style.css
- - icone_noticia.jpg
+Artefatos específicos:
+ - Pessoas_Inserir.php
+
 
 ### 7.6 Pessoas :: Edição
 
@@ -149,11 +141,10 @@ Permite editar uma pessoa já cadastrada, com opção de exclusão.
 | RF-01 | BLA BLA BLA |
 | RF-02 | BLA BLA BLA |
 
-Artefatos da funcionalidade
- - index.html
- - script_noticias.js
- - style.css
- - icone_noticia.jpg
+Artefatos específicos:
+ - Pessoas_Editar.php
+
+
 
 ### 7.4 Cadastro Genérico :: Listagem
 
@@ -166,11 +157,10 @@ Permite listar os campos genéricos já cadastrados, com opção de busca, e ace
 | RF-01 | BLA BLA BLA |
 | RF-02 | BLA BLA BLA |
 
-Artefatos da funcionalidade
- - index.html
- - script_noticias.js
- - style.css
- - icone_noticia.jpg
+Artefatos específicos:
+ - Campos_Genericos_Listar.php
+
+
 
 ### 7.5 Cadastro Genérico :: Inserção
 
@@ -183,11 +173,8 @@ Permite inserir um novo campo genérico.
 | RF-01 | BLA BLA BLA |
 | RF-02 | BLA BLA BLA |
 
-Artefatos da funcionalidade
- - index.html
- - script_noticias.js
- - style.css
- - icone_noticia.jpg
+Artefatos específicos:
+ - Campos_Genericos_Inserir.php
 
 ### 7.6 Cadastro Genérico :: Edição
 
@@ -200,11 +187,8 @@ Permite editar um campo genérico já cadastrado, com opção de exclusão.
 | RF-01 | BLA BLA BLA |
 | RF-02 | BLA BLA BLA |
 
-Artefatos da funcionalidade
- - index.html
- - script_noticias.js
- - style.css
- - icone_noticia.jpg
+Artefatos específicos:
+ - Campos_Genericos_Editar.php
 
 ### 7.4 Usuários :: Listagem
 
@@ -217,11 +201,8 @@ Permite listar os usuários já cadastrados, com opção de busca, e acesso às 
 | RF-01 | BLA BLA BLA |
 | RF-02 | BLA BLA BLA |
 
-Artefatos da funcionalidade
- - index.html
- - script_noticias.js
- - style.css
- - icone_noticia.jpg
+Artefatos específicos:
+ - Usuarios_Listar.php
 
 ### 7.5 Usuários :: Inserção
 
@@ -234,16 +215,12 @@ Permite listar os usuários já cadastrados, com opção de busca, e acesso às 
 | RF-01 | BLA BLA BLA |
 | RF-02 | BLA BLA BLA |
 
-Artefatos da funcionalidade
- - index.html
- - script_noticias.js
- - style.css
- - icone_noticia.jpg
+Artefatos específicos:
+ - Usuarios_Inserir.php
 
 ### 7.6 Usuários :: Edição
 
 Permite editar um usuário já cadastrado, com opção de exclusão.
-
 
 
 [TELA_RECUPERAR_SENHA.png]
@@ -253,8 +230,6 @@ Permite editar um usuário já cadastrado, com opção de exclusão.
 | RF-01 | BLA BLA BLA |
 | RF-02 | BLA BLA BLA |
 
-Artefatos da funcionalidade
- - index.html
- - script_noticias.js
- - style.css
- - icone_noticia.jpg
+Artefatos específicos:
+ - Usuarios_Editar.php
+
