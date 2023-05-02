@@ -72,7 +72,10 @@ Artefatos específicos:
 
 Permite listar a categorias já cadastradas, com opção de busca, e acesso às ferramentas de edição e inserção de uma nova categoria.
 
-[TELA_RECUPERAR_SENHA.png]
+<p align='center'>
+<img src='img/07/Categorias_Listar.png'><BR>
+Figura X – Tela de opções
+</p>
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
@@ -86,7 +89,10 @@ Artefatos específicos:
 
 Permite inserir uma nova categoria.
 
-[TELA_RECUPERAR_SENHA.png]
+<p align='center'>
+<img src='img/07/Categorias_Inserir.png'><BR>
+Figura X – Tela de opções
+</p>
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
@@ -101,7 +107,10 @@ Artefatos específicos:
 
 Permite editar uma categoria já cadastrada, com opção de exclusão.
 
-[TELA_RECUPERAR_SENHA.png]
+<p align='center'>
+<img src='img/07/Categorias_Editar.png'><BR>
+Figura X – Tela de opções
+</p>
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
@@ -129,7 +138,10 @@ Permite listar a pessoass já cadastradas, com opção de busca, e acesso às fe
 
 Permite inserir uma nova pessoa.
 
-[TELA_RECUPERAR_SENHA.png]
+<p align='center'>
+<img src='img/07/Pessoas_Inserir.png'><BR>
+Figura X – Tela de opções
+</p>
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
@@ -160,7 +172,10 @@ Artefatos específicos:
 
 Permite listar os campos genéricos já cadastrados, com opção de busca, e acesso às ferramentas de edição e inserção de um novo campo genérico.
 
-[TELA_RECUPERAR_SENHA.png]
+<p align='center'>
+<img src='img/07/Cadastro_Generico_Listar.png'><BR>
+Figura X – Tela de opções
+</p>
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
@@ -176,7 +191,10 @@ Artefatos específicos:
 
 Permite inserir um novo campo genérico.
 
-[TELA_RECUPERAR_SENHA.png]
+<p align='center'>
+<img src='img/07/Cadastro_Generico_Inserir.png'><BR>
+Figura X – Tela de opções
+</p>
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
@@ -190,12 +208,14 @@ Artefatos específicos:
 
 Permite editar um campo genérico já cadastrado, com opção de exclusão.
 
-[TELA_RECUPERAR_SENHA.png]
-
+<p align='center'>
+<img src='img/07/Cadastro_Generico_Editar.png'><BR>
+Figura X – Tela de opções
+</p>
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
-| RF-01 | BLA BLA BLA |
-| RF-02 | BLA BLA BLA |
+| RF-8 | O sistema deverá cadastrar usuários, e utilizar estes usuários para autenticação do sistema |
+| RNF-4 | O sistema não poderá funcionar sem acesso autorizado. |
 
 Artefatos específicos:
  - Campos_Genericos_Editar.php
@@ -204,7 +224,10 @@ Artefatos específicos:
 
 Permite listar os usuários já cadastrados, com opção de busca, e acesso às ferramentas de edição e inserção de uma novo usuário.
 
-[TELA_RECUPERAR_SENHA.png]
+<p align='center'>
+<img src='img/07/Usuarios_Listar.png'><BR>
+Figura X – Tela de opções
+</p>
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
@@ -218,7 +241,10 @@ Artefatos específicos:
 
 Permite listar os usuários já cadastrados, com opção de busca, e acesso às ferramentas de edição e inserção de uma novo usuário.
 
-[TELA_RECUPERAR_SENHA.png]
+<p align='center'>
+<img src='img/07/Usuarios_Inserir.png'><BR>
+Figura X – Tela de opções
+</p>
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
@@ -232,8 +258,10 @@ Artefatos específicos:
 
 Permite editar um usuário já cadastrado, com opção de exclusão.
 
-
-[TELA_RECUPERAR_SENHA.png]
+<p align='center'>
+<img src='img/07/Usuarios_Editar.png'><BR>
+Figura X – Tela de opções
+</p>
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
