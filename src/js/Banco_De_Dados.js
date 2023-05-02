@@ -5,6 +5,7 @@
 		
 		--- Versionamento ---
 		13/04/2023 - Andrey - Primeira Versão
+		02/05/2023 - Andrey - Corrigi um bug no update que me matou de raiva na parte de recuperar senha
 		--- Fim Versionamento ---
 		
 		
@@ -310,8 +311,15 @@
 							// Mantém o antigo
 							novo.push(v[i]);
 						}else{
+							
 							// Insere o objeto atualizado
-							novo.push(objeto);
+							
+							for (const [key, value] of Object.entries(objeto)) {
+								v[i][key] = value;
+							}
+							
+							novo.push(v[i]);
+							
 						}
 					}
 				}

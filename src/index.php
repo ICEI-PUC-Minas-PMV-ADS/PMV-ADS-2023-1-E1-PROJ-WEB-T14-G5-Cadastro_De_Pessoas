@@ -21,12 +21,12 @@
 		
 		var bdd = new Banco_De_Dados();
 		
-		var usuario = {nome: "admin"};
+		var usuario = {cpf: "00000000000"};
 		resposta = bdd.selectTabela("USUARIO", usuario);	
 		
 		if(bdd.numeroDeLinhasDaUltimaConsulta == 0){
 			var usuario = {nome: "admin", cpf: '00000000000', senha: ''};
-			bdd.insereTabela("USUARIO", usuario, "c");			
+			bdd.insereTabela("USUARIO", usuario);			
 			alerta("Nenhum usuário existia no sistema. Criamos um usuário administrativo, cpf 00000000000, senha vazia.");	
 			return;
 		}
