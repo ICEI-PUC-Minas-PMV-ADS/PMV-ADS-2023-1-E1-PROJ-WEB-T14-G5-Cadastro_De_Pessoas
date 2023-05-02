@@ -28,8 +28,10 @@ Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla
 
 O diagrama de classes ilustra a estrutura do software e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que persistirão em memória assim como identificar os métodos mais utilizados.
 
-<img src='imgs/Diagrama_Classe.png'>
-Figura X - Diagrama de classe
+<P align='center'>
+<img src='img/Diagrama_Classe.png'><BR>
+Figura X: Diagrama de Classes
+</P>
 
 ## Tecnologias Utilizadas
 
