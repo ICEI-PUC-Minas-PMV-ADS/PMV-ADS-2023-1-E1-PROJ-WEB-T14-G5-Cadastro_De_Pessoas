@@ -191,7 +191,7 @@ A tabela a seguir apresenta os requisitos de negócios que o projeto deverá ate
 
 | Código | Descrição | Prioridade |
 | --- | --- | --- | 
-| RN-1 | Apenas os usuários administrativos podem criar campos genéricos. | Alta |
+| RN-1 | Todos os usuários autenticados no sistema podem criar campos genéricos. | Alta |
 | RN-2 | Os campos adicionais criados pelos usuários não podem ter os nomes repetidos. | Baixa |
 | RN-3 | Não se pode cadastrar mais de uma pessoa com o mesmo nome completo repetidamente. | Média |
 | RN-4 | O nome da pessoa deve ser obrigatório. | Alta |
