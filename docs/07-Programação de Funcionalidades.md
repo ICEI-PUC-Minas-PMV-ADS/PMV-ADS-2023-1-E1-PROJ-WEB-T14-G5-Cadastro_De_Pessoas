@@ -2,7 +2,7 @@
 ## 7. Funcionalidades do sistema
 Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. O endereço para acesso ao sistema é https://cp.multiaccess.com.br. Outras orientações de acesso serão apresentadas na sequência.
 
-Todas as telas utilizam artefatos compartilhados, aqui descrito os artefatos comuns em forma hierárquica.
+Todas as telas utilizam alguns artefatos compartilhados, aqui descrito os artefatos comuns em forma hierárquica.
 
 - Cabecalho.php
 	- /js/jquery-3.3.1.min.js
@@ -20,7 +20,10 @@ Todas as telas utilizam artefatos compartilhados, aqui descrito os artefatos com
 ### 7.1 Login
 Esta é a tela inicial do sistema. Permite que os usuários possam se autenticar e entrar no sistema. Fornece também um link para recuperação de senha perdida.
 
-[TELA_LOGIN.png]
+<p align='center'>
+<img src='img/07/Login.png'><BR>
+Figura X – Tela inicial
+</p>
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
@@ -34,7 +37,11 @@ Artefatos específicos:
 
 É a tela que permite a recuperação do login em caso de senha perdida. Como o sistema não fornece as tecnologias backend, irá inserir ou editar um usuário "admin" com senha "admin".
 
-[TELA_RECUPERAR_SENHA.png]
+<p align='center'>
+<img src='img/07/Recuperar_Senha.png'><BR>
+Figura X – Tela de recuperação de senha
+</p>
+
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
@@ -48,7 +55,10 @@ Artefatos específicos:
 
 Acessado a partir do menu sanduíche, permite acessar as principais áreas do sistema: Cadastro de pessoas, categorias, usuários e campos genéricos.
 
-[TELA_RECUPERAR_SENHA.png]
+<p align='center'>
+<img src='img/07/Opcoes.png'><BR>
+Figura X – Tela de opções
+</p>
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
