@@ -7,7 +7,7 @@ Neste tópico iremos tratar sobre a parte técnica da solução desenvolvida pel
 Os componentes que fazem parte da solução são apresentados na Figura que se segue.
 
 [Navegador]
- - Páginas web (html + CSS + JS)
+ - Páginas web (html (PHP) + CSS + JS)
  - Local storage
   - Pessoa
   - Categoria
@@ -28,7 +28,8 @@ Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla
 
 O diagrama de classes ilustra a estrutura do software e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que persistirão em memória assim como identificar os métodos mais utilizados.
 
-(img/Diagrama_Classe.png)
+<img src='imgs/Diagrama_Classe.png'>
+Figura X - Diagrama de classe
 
 ## Tecnologias Utilizadas
 
@@ -36,12 +37,11 @@ Todas as imagens, leiautes e códigos-fonte foram desenvolvidos pelos integrante
 
 | Tecnologia | Descrição | Extras |
 | --- | --- | --- | 
-| Linguagens utilizadas no desenvolvimento da solução | HTML, CSS, JavaScript | |
+| Linguagens utilizadas no desenvolvimento da solução | HTML, CSS, JavaScript, PHP | |
 | IDEs de desenvolvimento | Visual Studio, Geany | https://visualstudio.com <BR> https://geany.org | 
 | Plataforma para hospedagem do sistema | VPS Locaweb | https://locaweb.com.br | 
 | Plataforma para hospedagem dos arquivos | GITHUB | https://github.com | 
 | Ferramenta de versionamento | Git | https://git-scm.com | 
 | Ferramenta para a criação de ícones | GIMP | https://gimp.org |
 | Ferramenta de acesso direto ao servidor | Filezilla | https://filezilla-project.org | 
-
 
