@@ -1,0 +1,188 @@
+
+/*
+	Contém o formulário por completo
+*/
+
+body{
+	font-family: verdana, arial, helvetica;
+	font-size: 12px;
+	
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;	
+}
+
+
+/*
+	Contenedor do grupo de registros da busca. Por exemplo, dados da pessoa.
+*/
+#itemListaBusca{
+	border: 1px solid #000;
+}
+
+#itemListaBusca > div{
+	
+}
+
+/*
+	Botão editar, basicamente
+*/
+#acaoRegistro{
+	text-align: right;
+}
+
+
+#rodape{
+	text-align: right;
+}
+
+#rodape > a > img{
+	height: 32px;
+}
+
+
+#cabecalho{
+	width: 100%;
+	margin-bottom: 1%;
+}
+
+#cabecalho td{
+	
+}
+
+.formulario{
+	border: 1px solid #555;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	padding: 5px;	
+	
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.titulo_formulario{
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+.grupo_campos{
+	margin-bottom: 15px;
+	border: 1px solid #555;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	padding: 5px;
+	
+}
+
+/*
+	Título de cada grupo
+*/
+.formulario > label{	
+	font-weight: bold;
+	font-size: .7em;
+}
+
+.contenedor_campo, contenedor_campo_botao{
+	margin-bottom: 5px;
+}
+
+/*
+	Se o contenedor de campos for para botão, usar esse.
+*/
+.contenedor_campo_botao{
+	text-align: center;
+}
+
+.contenedor_campo > input[type=text], input[type=password], select{
+
+	display: block;
+	border: 1px solid #555;
+	background-color: #fffde5;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	width: 99%;
+
+}
+
+.contenedor_campo input[type=text]:focus, input[type=password]:focus, select:focus{
+	outline: none;
+	border: 1px solid #555;
+	background-color: #FFF374;
+}
+
+.botao_opcao{
+	border: 1px solid #000;
+	margin-left: auto;
+	margin-right: auto;
+	width: 30%;
+	font-size: .7em;
+	margin-bottom: 2em;
+	cursor: pointer;
+}
+
+
+
+
+/*
+	Todo botão (que na verdade é um "a")
+*/
+.botao{
+
+	display: inline-block;
+	border: 1px solid #000;
+	padding: .6em;
+	background-color: #FFF;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	margin-left: auto;
+	margin-right: auto;
+	text-decoration: none;
+	color: #000;
+	box-shadow: 3px 3px 3px #AAA;
+	font-size: .8em;
+	
+	text-transform: uppercase;
+
+}
+
+.botao:hover{
+	background-color: #000;
+	color: #FFF;
+}
+
+.cliqueaqui{
+	color: #000;
+	text-decoration: none;
+	
+}
+
+.cliqueaqui:hover{
+	text-decoration: underline;
+}
+
+
+#busca{
+
+	display: block;
+	border: 1px solid #555;
+	background-color: #fffde5;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	width: 99%;
+	margin-bottom: 1em;
+	margin-top: 1em;
+
+	
+	background-image: url('/Imagens/Lupa.png');
+	background-position: left center;
+	background-size: 20px 20px;
+	background-repeat: no-repeat;
+	padding-left: 30px;
+	
+}

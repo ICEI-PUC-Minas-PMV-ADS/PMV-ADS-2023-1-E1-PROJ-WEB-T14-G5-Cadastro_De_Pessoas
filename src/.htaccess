@@ -1,0 +1,7 @@
+# Define o UTF-8 mesmo se o servidor estiver em iso8859-1
+
+AddDefaultCharset UTF-8
+php_value default_charset UTF-8
+
+
+
