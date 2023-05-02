@@ -18,6 +18,11 @@ body{
 */
 #itemListaBusca{
 	border: 1px solid #000;
+	margin-bottom: 1em;
+	padding:  .5em;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;	
 }
 
 #itemListaBusca > div{
@@ -29,6 +34,10 @@ body{
 */
 #acaoRegistro{
 	text-align: right;
+}
+
+#acaoRegistro  img{
+	height: 20px;
 }
 
 

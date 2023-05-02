@@ -8,7 +8,16 @@
 <SCRIPT>
 	
 	function recuperarSenha(){
-		
+
+		var bdd = new Banco_De_Dados();
+
+	
+		var usuario = {cpf: valor('cpf'), senha: '123'};
+		bdd.updateTabela("USUARIO", usuario, "cpf");		
+
+		alerta("Atualizamos sua senha para 123. ");	
+
+			
 		
 	}
 	
@@ -22,11 +31,11 @@
 		
 		<DIV class='contenedor_campo'>
 			<LABEL>CPF</LABEL>
-			<input type='text' id='CPF'>
+			<input type='text' id='cpf'>
 		</DIV>
 
 		<DIV class='contenedor_campo_botao'>
-			<a class='botao' href='' onClick='javascript:recuperarSenha()'>Recuperar Senha</a>
+			<a class='botao' href='javascript:recuperarSenha()'>Recuperar Senha</a>
 		</DIV>
 				
 		

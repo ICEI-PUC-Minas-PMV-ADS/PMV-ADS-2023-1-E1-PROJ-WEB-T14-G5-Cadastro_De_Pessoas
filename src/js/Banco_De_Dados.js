@@ -143,8 +143,11 @@
 		/*
 			Busca um ou mais registros baseados nos atributos de objeto
 		*/
-		this.selectTabela = function(nm_tbl, objeto, pk){
+		this.selectTabela = function(nm_tbl, objeto, pk, buscaExata){
 			
+			if(buscaExata === undefined){
+				buscaExata = false;
+			}
 
 			if(pk === undefined){
 				pk = "codigo";
@@ -167,6 +170,7 @@
 				if(v[i] != null){
 					
 					var lg_algum = false;
+					var qtde = 0;
 					
 					if(Object.keys(objeto).length === 0){
 						var lg_algum = true;
@@ -188,10 +192,20 @@
 																
 								let t = v[i][key] + ""; //Cast implicito para string
 														
-								if( t.indexOf(value) >= 0 ){
-									lg_algum = true;
-								}
+								if(buscaExata){
+									if( t === value ){
+										lg_algum = true;
+										qtde++;
+									}
 								
+								}else{
+																
+									if( t.indexOf(value) >= 0 ){
+										lg_algum = true;
+									}
+								
+								}
+										
 							}else{
 								alert('Nem tem esse campo');
 							}
@@ -199,8 +213,17 @@
 					}						
 					
 					if(lg_algum){
-						resposta.push(v[i]);
-						this.numeroDeLinhasDaUltimaConsulta++;
+						
+						if(buscaExata){
+							if(qtde == Object.keys(objeto).length){
+								resposta.push(v[i]);
+								this.numeroDeLinhasDaUltimaConsulta++;
+							}
+						}else{
+							resposta.push(v[i]);
+							this.numeroDeLinhasDaUltimaConsulta++;
+						}
+						
 					}
 					
 				}

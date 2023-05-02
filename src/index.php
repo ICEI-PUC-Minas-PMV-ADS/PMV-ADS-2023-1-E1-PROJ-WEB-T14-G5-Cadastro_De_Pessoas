@@ -18,9 +18,25 @@
 	
 	function entrarNoSistema(){
 		
+		
+		var bdd = new Banco_De_Dados();
+		
+		var usuario = {nome: "admin"};
+		resposta = bdd.selectTabela("USUARIO", usuario);	
+		
+		if(bdd.numeroDeLinhasDaUltimaConsulta == 0){
+			var usuario = {nome: "admin", cpf: '00000000000', senha: ''};
+			bdd.insereTabela("USUARIO", usuario, "c");			
+			alerta("Nenhum usuário existia no sistema. Criamos um usuário administrativo, cpf 00000000000, senha vazia.");	
+			return;
+		}
+		
+		
+		
+		
 		var u = new Usuario();
 		
-		if(u.verificarSeUsuarioExiste()){
+		if(u.verificarSeUsuarioExiste(valor('cpf'), valor('senha'))){
 						
 			localStorage.setItem("cpf", valor('cpf'));			
 			

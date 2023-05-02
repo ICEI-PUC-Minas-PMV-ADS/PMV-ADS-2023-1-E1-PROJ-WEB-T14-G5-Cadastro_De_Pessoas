@@ -29,10 +29,9 @@
 				s += "<DIV id='itemListaBusca'>";												
 					s += "<DIV>Código: " + resposta[i].codigo + "</DIV>";
 					s += "<DIV>Nome: " + resposta[i].nome + "</DIV>";
+					s += "<DIV id='acaoRegistro'><a href='/Categorias_Editar.php?codigo=" + resposta[i].codigo + "'><img src='/Imagens/Editar.png'></a></DIV>";					
 				s += "</DIV>";			
 				
-				// Ação deste registro
-				s += "<DIV id='acaoRegistro'><a href='/Categorias_Editar.php?codigo=" + resposta[i].codigo + "'><img src='/Imagens/Editar.png'></a></DIV>";
 				
 
 				$("#contenedor_busca").append(s);
@@ -52,7 +51,7 @@
 </SCRIPT>
 
 
-<DIV id='titulo_pagina'>Categorias :: Listagem</DIV>
+<DIV class='titulo_formulario'>Categorias :: Listagem</DIV>
 
 <DIV>
 	<input type='text' id='busca' placeholder='Busca'>
