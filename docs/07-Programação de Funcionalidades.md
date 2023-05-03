@@ -275,7 +275,7 @@ Artefatos específicos:
 
 ### 7.7 Estrutura de dados
 
-Todas as informações são gravadas em JSON no localstorage através do objeto de persistência Banco_De_Dados, que simula uma inserção, exclusão, consulta e atualização como em um SGDB.
+
 
 | Área do sistema | Exemplo em JSON|
 | --- | --- | 
