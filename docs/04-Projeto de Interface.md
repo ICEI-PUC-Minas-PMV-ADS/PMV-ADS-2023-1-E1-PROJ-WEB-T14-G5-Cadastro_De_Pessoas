@@ -4,7 +4,7 @@ Dentre as preocupações para a montagem da interface do sistema, estamos focado
 ## 4.1 Fluxo do Usuário
 Os diagramas apresentados abaixo mostram os vários fluxos do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes a seguir. Para visualizar o wireframe interativo, acesse o ambiente MarvelApp do projeto no endereço https://marvelapp.com/prototype/6ad1204/screen/91220260.
 
-### 4.1.1 Fluxo Inicial
+### 4.1.1 
 O fluxo inicial consiste na autenticação (entrada) do sistema, juntamente com a opção de recuperação de senha.
 
 <p align='center'>
