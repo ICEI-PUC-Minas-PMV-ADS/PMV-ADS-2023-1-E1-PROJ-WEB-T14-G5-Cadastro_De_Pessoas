@@ -285,4 +285,9 @@ Todas as informações são gravadas em JSON no localstorage através do objeto 
 | Pessoas  | [{"cpfcnpj":"12345678909","nome":"Andrey Bibiano Jardim","apelido":"Dedey","categoria":"1","telefone":"(32) 98812-9751","email":"andreyjardim@yahoo.com","tipo_logradouro":"","logradouro":"","numero":"","complemento":"","bairro":"","cidade":"","uf":false,"cep":"","codigo":1}]
 | Pessoas / Campos genéricos preenchidos | [{"codigoPessoa":1,"codigoCampoGenerico":1,"valorCampoGenerico":"Autismo","codigo":3},{"codigoPessoa":1,"codigoCampoGenerico":2,"valorCampoGenerico":"Fenoxazolina","codigo":4}] |
 
+### 7.8 Instruções de acesso ao sistema
 
+1. Abra um navegador de Internet e informe a seguinte URL: https://cp.multiaccess.com.br
+2. Caso seja seu primeiro acesso, clique em "Entrar". O sistema irá automaticamente criar um usuário 00000000000 e senha "123".
+3. Preencha o campo com suas credenciais e clique em entrar.
+4. Navegue no sistema através dos botões de ação da tela ativa, ou busque novas telas através do menu sanduíche, conforme diagrama constante em "4.1 Fluxo do Usuário"
