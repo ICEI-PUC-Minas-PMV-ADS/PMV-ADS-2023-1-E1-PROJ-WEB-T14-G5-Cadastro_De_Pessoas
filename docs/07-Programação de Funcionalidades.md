@@ -212,6 +212,7 @@ Permite editar um campo genérico já cadastrado, com opção de exclusão.
 <img src='img/07/Cadastro_Generico_Editar.png'><BR>
 Figura X – Tela de opções
 </p>
+
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
 | RF-8 | O sistema deverá cadastrar usuários, e utilizar estes usuários para autenticação do sistema |
@@ -270,4 +271,18 @@ Figura X – Tela de opções
 
 Artefatos específicos:
  - Usuarios_Editar.php
+
+
+### 7.7 Estrutura de dados
+
+Todas as informações são gravadas em JSON no localstorage através do objeto de persistência Banco_De_Dados, que simula uma inserção, exclusão, consulta e atualização como em um SGDB.
+
+| Área do sistema | Exemplo em JSON|
+| --- | --- | 
+| Usuários / Login | [{"nome":"admin","cpf":"00000000000","senha":"123","codigo":1}] |
+| Categorias | [{"nome":"Pacientes","codigo":1},{"nome":"Médicos","codigo":2}] |
+| Campos Genéricos | [{"nome":"Doença","codigo":1},{"nome":"Medicamentos em Uso","codigo":2}]
+| Pessoas  | [{"cpfcnpj":"12345678909","nome":"Andrey Bibiano Jardim","apelido":"Dedey","categoria":"1","telefone":"(32) 98812-9751","email":"andreyjardim@yahoo.com","tipo_logradouro":"","logradouro":"","numero":"","complemento":"","bairro":"","cidade":"","uf":false,"cep":"","codigo":1}]
+| Pessoas / Campos genéricos preenchidos | [{"codigoPessoa":1,"codigoCampoGenerico":1,"valorCampoGenerico":"Autismo","codigo":3},{"codigoPessoa":1,"codigoCampoGenerico":2,"valorCampoGenerico":"Fenoxazolina","codigo":4}] |
+
 

@@ -6,22 +6,11 @@ Neste tópico iremos tratar sobre a parte técnica da solução desenvolvida pel
 
 Os componentes que fazem parte da solução são apresentados na representação a seguir:
 
-[Navegador]
- - Páginas web (html (PHP) + CSS + JS)
- - Local storage
-  - Pessoa
-  - Categoria
-  - Campo Generico
-  - Pessoa tem Campo Generico Preenchido
-  - Usuário
-  
-  => INTERNET
 
-[Hospedagem] 
- (Locaweb)
- (Cloudflare)
-
-
+<P align='center'>
+<img src='img/Arquitetura.png'><BR>
+Figura X: Arquitetura da Solução
+</P>
 
 ## Diagrama de Classes
 
@@ -45,4 +34,4 @@ Todas as imagens, leiautes e códigos-fonte foram desenvolvidos pelos integrante
 | Ferramenta de versionamento | Git | https://git-scm.com | 
 | Ferramenta para a criação de ícones | GIMP | https://gimp.org |
 | Ferramenta de acesso direto ao servidor | Filezilla | https://filezilla-project.org | 
-
+| DNS | Cloudflare | https://cloudflare.com | 
