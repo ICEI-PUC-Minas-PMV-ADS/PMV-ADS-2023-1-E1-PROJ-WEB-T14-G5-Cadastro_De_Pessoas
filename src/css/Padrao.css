@@ -102,6 +102,20 @@ body{
 .contenedor_campo_botao{
 	text-align: center;
 }
+.contenedor_campo_botao button{
+	font-size: 1em; 
+	display:flex; 
+	align-items:center; 
+	gap: 5%;
+	Justify-content:center;
+}
+.contenedor_campo_botao button:hover img{
+	filter: invert(1);
+	transition: 0.5s;
+	text-transform: uppercase;
+}
+ 
+
 
 .contenedor_campo > input[type=text], input[type=password], select{
 
@@ -143,7 +157,6 @@ body{
 .botao{
 	display: inline-block;
 	border: 1px solid #000;
-	padding: .6em;
 	background-color: #FFF;
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
@@ -155,8 +168,8 @@ body{
 	color: #000;
 	box-shadow: 3px 3px 3px #AAA;
 	font-size: .8em;
-	width: 10%;
 	padding: 3%;
+	width: 17%;
 	transition: 0.5s;
 	text-transform: uppercase;
 
