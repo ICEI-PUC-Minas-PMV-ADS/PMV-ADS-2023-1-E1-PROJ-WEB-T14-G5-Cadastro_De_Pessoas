@@ -74,7 +74,7 @@
 		</DIV>
 
 		<DIV class='contenedor_campo_botao'>
-			<a class='botao' href='javascript:entrarNoSistema()'>Entrar</a>
+			<a style="font-size: 1em;" class='botao' href='javascript:entrarNoSistema()'>Entrar</a>
 		</DIV>
 		
 	</DIV>
