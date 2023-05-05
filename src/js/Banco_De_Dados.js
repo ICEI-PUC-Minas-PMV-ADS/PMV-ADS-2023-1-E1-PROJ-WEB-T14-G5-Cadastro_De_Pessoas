@@ -6,6 +6,7 @@
 		--- Versionamento ---
 		13/04/2023 - Andrey - Primeira Versão
 		02/05/2023 - Andrey - Corrigi um bug no update que me matou de raiva na parte de recuperar senha
+		04/05/2023 - Andrey - select *
 		--- Fim Versionamento ---
 		
 		
@@ -70,6 +71,9 @@
 			return INT_PK;
 
 		}
+		
+		
+		
 		
 		
 		this.proximoCodigo = function(nm_tbl){
@@ -144,8 +148,8 @@
 		/*
 			Busca um ou mais registros baseados nos atributos de objeto
 		*/
-		this.selectTabela = function(nm_tbl, objeto, pk, buscaExata){
-			
+		this.selectTabela = function(nm_tbl, objeto, pk, buscaExata, dataSet){
+							
 			if(buscaExata === undefined){
 				buscaExata = false;
 			}
@@ -156,13 +160,18 @@
 
 						
 			this.numeroDeLinhasDaUltimaConsulta = 0;
+						
 			
 			var resposta = [];
 			if(this.ultimoCodigo(nm_tbl, pk) == 0){
 				return resposta;
 			}
 			
-			var todosRegistros = localStorage.getItem(nm_tbl);
+			if(dataSet === undefined){
+				var todosRegistros = localStorage.getItem(nm_tbl);				
+			}else{
+				var todosRegistros = dataSet;
+			}
 			var v = JSON.parse(todosRegistros);
 			
 			
@@ -173,14 +182,15 @@
 					var lg_algum = false;
 					var qtde = 0;
 					
+					// Se meu objeto de busca estiver vazio, é select sem where
 					if(Object.keys(objeto).length === 0){
 						var lg_algum = true;
 					}
 
+					//Para cada campo da busca
 					for (const [key, value] of Object.entries(objeto)) {
 					
-						
-					
+						// Se for chave primária, tem que ser exatamente igual
 						if(key == pk){
 							if(value == v[i][pk]){
 								lg_algum = true;
@@ -188,8 +198,8 @@
 						
 						}else{
 							
-							
-							if(key in v[i]){
+							//Se não for chave primária, é like % X %							
+							if(key in v[i]){ //Se existe campo key no resultset
 																
 								let t = v[i][key] + ""; //Cast implicito para string
 														
@@ -208,7 +218,24 @@
 								}
 										
 							}else{
-								alert('Nem tem esse campo');
+								
+								// Não existe campo key no result set. Se for *, pega todos
+								if(key == "*"){
+									
+									// Para cada campo do resultset
+									for (const [key2, value2] of Object.entries(v[i])) {
+
+										var value3 = value2 + "";
+					
+										if( value3.indexOf(value) >= 0 ){
+											lg_algum = true;
+										}
+
+									}
+									
+								}else{								
+									alert('Nem tem esse campo!');
+								}
 							}
 						}
 					}						
@@ -329,6 +356,12 @@
 			}
 
 		}		
+		
+
+		
 	
-	}
+	} // Classe
+	
+	
+	
 	
