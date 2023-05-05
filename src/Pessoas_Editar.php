@@ -235,6 +235,7 @@
 	<a href='Pessoas_Listar.php'><img src='/Imagens/VoltarParaListagem.png'></a>
 	<a href='javascript:salvar()'><img src='/Imagens/Salvar.png'></a>
 	<a href='javascript:excluir()'><img src='/Imagens/Excluir.png'></a>	
+	<a href='Pessoas_Inserir.php'><img src='/Imagens/Adicionar.png'></a>
 </DIV>
 
 <SCRIPT>
