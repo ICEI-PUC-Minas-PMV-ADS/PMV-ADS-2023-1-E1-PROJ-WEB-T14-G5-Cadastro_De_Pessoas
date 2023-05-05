@@ -59,7 +59,7 @@
 
 <DIV class='formulario'>
 	
-	<DIV class='titulo_formulario'>Entrar no sistema</DIV>
+	<DIV class='titulo_formulario' style="margin-top: 10%;">Entrar no sistema</DIV>
 
 	<DIV class='grupo_campos'>		
 		

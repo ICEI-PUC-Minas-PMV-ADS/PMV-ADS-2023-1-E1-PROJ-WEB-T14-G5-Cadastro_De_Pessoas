@@ -97,7 +97,7 @@
 </SCRIPT>
 
 
-<DIV class='titulo_formulario'>Pessoas :: Listagem</DIV>
+<DIV class='titulo_formulario' style="margin-top: 5%;">Pessoas :: Listagem</DIV>
 
 <DIV>
 	<input type='text' id='busca' placeholder='Busca'>
