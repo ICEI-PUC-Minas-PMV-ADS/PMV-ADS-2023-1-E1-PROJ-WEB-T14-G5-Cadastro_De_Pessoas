@@ -35,7 +35,7 @@
 				if(bdd.numeroDeLinhasDaUltimaConsulta > 0){
 					
 					for(ii = 0; ii < vvv.length; ii++){
-						v[i]["codigoCampoGenerico_" + ii] = vvv[0].valorCampoGenerico;
+						v[i]["codigoCampoGenerico_" + ii] = vvv[ii].valorCampoGenerico;
 					}
 	
 				}
