@@ -22,7 +22,7 @@ Esta é a tela inicial do sistema. Permite que os usuários possam se autenticar
 
 <p align='center'>
 <img src='img/07/Login.jpg'><BR>
-Figura X – Tela inicial
+Figura 27 – Tela inicial
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
@@ -38,7 +38,7 @@ Artefatos específicos:
 
 <p align='center'>
 <img src='img/07/Recuperar_Senha.jpg'><BR>
-Figura X – Tela de recuperação de senha
+Figura 28 – Tela de recuperação de senha
 </p>
 
 
@@ -55,7 +55,7 @@ Acessado a partir do menu sanduíche, permite acessar as principais áreas do si
 
 <p align='center'>
 <img src='img/07/Opcoes.jpg'><BR>
-Figura X – Tela de opções
+Figura 29 – Tela de opções
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
@@ -72,7 +72,7 @@ Permite listar a categorias já cadastradas, com opção de busca, e acesso às 
 
 <p align='center'>
 <img src='img/07/Categorias_Listar.jpg'><BR>
-Figura X – Tela de listagem de categorias cadastradas
+Figura 30 – Tela de listagem de categorias cadastradas
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
@@ -88,7 +88,7 @@ Permite inserir uma nova categoria.
 
 <p align='center'>
 <img src='img/07/Categorias_Inserir.jpg'><BR>
-Figura X – Tela de opções
+Figura 31 – Tela de opções
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
@@ -106,7 +106,7 @@ Permite editar uma categoria já cadastrada, com opção de exclusão.
 
 <p align='center'>
 <img src='img/07/Categorias_Editar.jpg'><BR>
-Figura X – Tela de edição de categorias
+Figura 32 – Tela de edição de categorias
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
@@ -134,9 +134,9 @@ Permite inserir uma nova pessoa.
 
 <p align='center'>
 <img src='img/07/Pessoas_Inserir_1.jpg'><BR>
-Figura X – Tela de inserção de pessoas (Parte de cima)
+Figura 33 – Tela de inserção de pessoas (Parte de cima)
 <img src='img/07/Pessoas_Inserir_2.jpg'><BR>
-Figura X – Tela de inserção de pessoas (Parte de baixo)
+Figura 34 – Tela de inserção de pessoas (Parte de baixo)
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
@@ -153,9 +153,9 @@ Permite editar uma pessoa já cadastrada, com opção de exclusão.
 
 <p align='center'>
 <img src='img/07/Pessoas_Editar_1.jpg'><BR>
-Figura X – Tela de edição de pessoas (Parte de cima)
+Figura 35 – Tela de edição de pessoas (Parte de cima)
 <img src='img/07/Pessoas_Editar_2.jpg'><BR>
-Figura X – Tela de edição de pessoas (Parte de baixo)
+Figura 36 – Tela de edição de pessoas (Parte de baixo)
 </p>
 
 
@@ -174,7 +174,7 @@ Permite listar os campos genéricos já cadastrados, com opção de busca, e ace
 
 <p align='center'>
 <img src='img/07/Cadastro_Generico_Listar.jpg'><BR>
-Figura X – Tela de listagem de campos genéricos
+Figura 37 – Tela de listagem de campos genéricos
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
@@ -191,7 +191,7 @@ Permite inserir um novo campo genérico.
 
 <p align='center'>
 <img src='img/07/Cadastro_Generico_Inserir.jpg'><BR>
-Figura X – Tela de inserção de um campo genérico
+Figura 38 – Tela de inserção de um campo genérico
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
@@ -208,7 +208,7 @@ Permite editar um campo genérico já cadastrado, com opção de exclusão.
 
 <p align='center'>
 <img src='img/07/Cadastro_Generico_Editar.jpg'><BR>
-Figura X – Tela de edição de um campo genérico existente
+Figura 39 – Tela de edição de um campo genérico existente
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
@@ -224,7 +224,7 @@ Permite listar os usuários já cadastrados, com opção de busca, e acesso às 
 
 <p align='center'>
 <img src='img/07/Usuarios_Listar.jpg'><BR>
-Figura X – Tela de listagem de usuários
+Figura 40 – Tela de listagem de usuários
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
@@ -241,7 +241,7 @@ Permite listar os usuários já cadastrados, com opção de busca, e acesso às 
 
 <p align='center'>
 <img src='img/07/Usuarios_Inserir.jpg'><BR>
-Figura X – Tela de inserção de um novo usuário
+Figura 41 – Tela de inserção de um novo usuário
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
@@ -257,7 +257,7 @@ Permite editar um usuário já cadastrado, com opção de exclusão.
 
 <p align='center'>
 <img src='img/07/Usuarios_Editar.jpg'><BR>
-Figura X – Tela de edição de um usuário existente
+Figura 42 – Tela de edição de um usuário existente
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |

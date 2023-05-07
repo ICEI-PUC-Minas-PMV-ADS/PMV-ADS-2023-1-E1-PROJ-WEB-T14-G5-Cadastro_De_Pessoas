@@ -8,7 +8,7 @@ Os componentes que fazem parte da solução são apresentados na representação
 
 <P align='center'>
 <img src='img/Arquitetura.png'><BR>
-Figura X: Arquitetura da Solução
+Figura 25: Arquitetura da Solução
 </P>
 
 ## Diagrama de Classes
@@ -17,7 +17,7 @@ O diagrama de classes ilustra a estrutura do software e como cada uma das classe
 
 <P align='center'>
 <img src='img/Diagrama_Classe.png'><BR>
-Figura X: Diagrama de Classes
+Figura 26: Diagrama de Classes
 </P>
 
 ## Tecnologias Utilizadas
