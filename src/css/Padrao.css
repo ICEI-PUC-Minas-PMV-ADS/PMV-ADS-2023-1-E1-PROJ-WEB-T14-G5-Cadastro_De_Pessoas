@@ -3,11 +3,25 @@
 	Contém o formulário por completo
 */
 
+
+#itemListaBusca{
+	background-color: #FFF;
+}
+
+
+html { 
+  background: url(/Imagens/Fundo.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 body{
 	font-family: sans-serif;
-	max-width: 800px;
 	margin-left: auto;
 	margin-right: auto;	
+	margin-top:0px;
 }
 
 
@@ -52,18 +66,27 @@ body{
 	width: 100%;
 	border: 1px solid;
 	margin-bottom: 1%;
+	background-color: #000;
 }
 
 #cabecalho td{
-	
+	color: #FFF;
 }
 
 .formulario{
 	padding: 5px;	
 	margin-left: auto;
 	margin-right: auto;
-	
+	max-width:800px;
+}
 
+
+#rodape{
+	padding: 5px;	
+	margin-left: auto;
+	margin-right: auto;
+	max-width:800px;
+	
 }
 
 .titulo_formulario{
@@ -77,8 +100,11 @@ body{
 
 .grupo_campos{
 	margin-bottom: 15px;
-	padding: 5px;
-	
+	padding: 10px;
+	background-color: #FFFFFFAA;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;	
 }
 .grupo_campos .contenedor_campo{
 	margin-bottom: 3%;
@@ -126,7 +152,7 @@ body{
 	border-radius: 3px;
 	width: 99%;
 	padding: 2%;
-	
+	box-sizing: border-box;
 
 }
 
@@ -135,6 +161,17 @@ body{
 	border: 1px solid #555;
 	background-color: #FFF374;
 	
+}
+
+.botao_opcao > tbody > tr > td:nth-child(1){
+	width: 1px;
+	padding-right: 1em;
+	
+}
+
+.botao_opcao > tbody> tr > td{
+	text-align: left;
+	vertical-align: top;
 }
 
 .botao_opcao{
@@ -147,6 +184,15 @@ body{
 	font-size: 1.0em;
 	margin-bottom: 1.5em;
 	cursor: pointer;
+	background-color: #FFFFFFAA;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;	
+
+}
+
+.botao_opcao img{
+	width: 64px;
 }
 
 
@@ -201,10 +247,11 @@ body{
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
 	border-radius: 3px;
-	width: 96%;
+	width: 100%;
 	padding: 1%;
 	margin-bottom: 1em;
 	margin-top: 1em;
+	box-sizing: border-box;
 
 	
 	background-image: url('/Imagens/Lupa.png');

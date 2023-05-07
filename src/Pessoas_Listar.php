@@ -97,13 +97,17 @@
 </SCRIPT>
 
 
-<DIV class='titulo_formulario' style="margin-top: 5%;">Pessoas :: Listagem</DIV>
+<DIV class='formulario'>	
+
+<DIV class='titulo_formulario'>Pessoas :: Listagem</DIV>
 
 <DIV>
 	<input type='text' id='busca' placeholder='Busca'>
 </DIV>
 
 <DIV id='contenedor_busca'></DIV>
+
+</DIV>
 
 <DIV id='rodape'>
 	<a href='Pessoas_Inserir.php'><img src='/Imagens/Adicionar.png'></a>

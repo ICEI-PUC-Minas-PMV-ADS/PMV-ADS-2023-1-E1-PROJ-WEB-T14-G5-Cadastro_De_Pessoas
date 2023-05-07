@@ -48,7 +48,7 @@
 	
 	<TABLE onClick="javascript:sair()" class='botao_opcao'>
 		<TR>
-			<TD><img src='/Imagens/Opcoes.png'></TD>
+			<TD><img src='/Imagens/Sair.png'></TD>
 			<TD><B>Sair</B><BR>Finaliza a sessão e volta para tela de login</TD>
 		</TR>
 	</TABLE>	

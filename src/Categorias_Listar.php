@@ -51,6 +51,8 @@
 </SCRIPT>
 
 
+<DIV class='formulario'>	
+	
 <DIV class='titulo_formulario'>Categorias :: Listagem</DIV>
 
 <DIV>
@@ -58,6 +60,8 @@
 </DIV>
 
 <DIV id='contenedor_busca'></DIV>
+
+</DIV>
 
 <DIV id='rodape'>
 	<a href='Categorias_Inserir.php'><img src='/Imagens/Adicionar.png'></a>
