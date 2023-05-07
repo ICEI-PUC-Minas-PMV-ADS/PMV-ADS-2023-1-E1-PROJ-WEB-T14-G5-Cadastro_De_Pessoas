@@ -22,7 +22,7 @@
 	<TABLE id='cabecalho'>
 		
 		<TR>
-			<TD style='width:1px'><img src='/Imagens/Logotipo.png'></TD>
+			<TD style='width:1px'><img src='/Imagens/Logotipo.png' style='height:4em;'></TD>
 			<TD style="font-size: 1.5em;">Cadastro de Pessoas</TD>
 			<TD style='width:1px' id='contenedorMenuTopo'></TD>
 		</TR>

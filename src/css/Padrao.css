@@ -247,10 +247,11 @@ body{
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
 	border-radius: 3px;
-	width: 96%;
+	width: 100%;
 	padding: 1%;
 	margin-bottom: 1em;
 	margin-top: 1em;
+	box-sizing: border-box;
 
 	
 	background-image: url('/Imagens/Lupa.png');
