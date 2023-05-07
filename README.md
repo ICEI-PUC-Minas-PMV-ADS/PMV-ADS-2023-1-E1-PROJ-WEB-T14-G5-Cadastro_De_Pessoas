@@ -35,7 +35,7 @@ Ainda não está disponível.
 <li><a href="docs/03-Metodologia.md"> Metodologia</a></li>
 <li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
 <li><a href="docs/05-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
-<li><a href="docs/06-Programação de Funcionalidades.md"> Templates e Programação de Funcionalidades</a></li>
+<li><a href="docs/06-Templates e Programação de Funcionalidades.md"> Templates e Programação de Funcionalidades</a></li>
 <!--
 <li><a href="docs/08-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
 <li><a href="docs/09-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>

@@ -27,7 +27,7 @@ Figura 27 – Tela inicial
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
-| RF-04 | O sistema não poderá funcionar sem autenticação. |
+| RF-4 | O sistema não poderá funcionar sem autenticação. |
 
 Artefatos específicos:
  - index.php
@@ -44,7 +44,7 @@ Figura 28 – Tela de recuperação de senha
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
-| RF-05 | O sistema deverá permitir que os usuários recuperam sua senha. |
+| RF-5 | O sistema deverá permitir que os usuários recuperam sua senha. |
 
 Artefatos específicos:
  - Recuperacao_Senha.php
@@ -125,7 +125,7 @@ Permite listar as pessoas já cadastradas, com opção de busca, e acesso às fe
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
-| RF-08 | O sistema deverá permitir ao usuário buscar pessoas por filtros. |
+| RF-8 | O sistema deverá permitir ao usuário buscar pessoas por filtros. |
 
 
 ### 6.8 Pessoas :: Inserção
@@ -141,7 +141,7 @@ Figura 34 – Tela de inserção de pessoas (Parte de baixo)
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
-| RF-01 | O sistema deverá cadastrar pessoas físicas ou jurídicas, contendo todos os dados como nome completo, CPF ou CNPJ, telefones e endereço. |
+| RF-1 | O sistema deverá cadastrar pessoas físicas ou jurídicas, contendo todos os dados como nome completo, CPF ou CNPJ, telefones e endereço. |
 
 Artefatos específicos:
  - Pessoas_Inserir.php
