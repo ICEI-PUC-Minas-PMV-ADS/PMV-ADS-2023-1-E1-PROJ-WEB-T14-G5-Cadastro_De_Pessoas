@@ -50,6 +50,8 @@
 	
 </SCRIPT>
 
+<DIV class='formulario'>	
+
 <DIV class='titulo_formulario'>Campos Genéricos :: Listagem</DIV>
 
 <DIV>
@@ -57,6 +59,8 @@
 </DIV>
 
 <DIV id='contenedor_busca'></DIV>
+
+</DIV>
 
 <DIV id='rodape'>
 	<a href='Campos_Genericos_Inserir.php'><img src='/Imagens/Adicionar.png'></a>

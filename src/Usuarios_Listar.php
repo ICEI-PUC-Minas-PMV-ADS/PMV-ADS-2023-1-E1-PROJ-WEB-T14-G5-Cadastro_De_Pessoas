@@ -48,7 +48,7 @@
 	
 </SCRIPT>
 
-
+<DIV class='formulario'>	
 <DIV class='titulo_formulario'>Usuários :: Listagem</DIV>
 
 <DIV>
@@ -56,7 +56,7 @@
 </DIV>
 
 <DIV id='contenedor_busca'></DIV>
-
+</DIV>
 <DIV id='rodape'>
 	<a href='Usuarios_Inserir.php'><img src='/Imagens/Adicionar.png'></a>
 </DIV>
