@@ -14,14 +14,14 @@ Todas as telas utilizam alguns artefatos compartilhados, abaixo descrito os arte
 	- /css/Padrao.css
 	- /css/Pergunta.css
 	
-	- /Imagens/Logotipo.png
-	- /Imagens/Menu.png
+	- /Imagens/Logotipo.jpg
+	- /Imagens/Menu.jpg
 
 ### 7.1 Login
 Esta é a tela inicial do sistema. Permite que os usuários possam se autenticar e entrar no sistema. Fornece também um link para recuperação de senha perdida.
 
 <p align='center'>
-<img src='img/07/Login.png'><BR>
+<img src='img/07/Login.jpg'><BR>
 Figura X – Tela inicial
 </p>
 
@@ -37,7 +37,7 @@ Artefatos específicos:
 É a tela que permite a recuperação do login em caso de senha perdida. Como o sistema não fornece as tecnologias backend, irá editar o usuário "00000000000" com senha "123".
 
 <p align='center'>
-<img src='img/07/Recuperar_Senha.png'><BR>
+<img src='img/07/Recuperar_Senha.jpg'><BR>
 Figura X – Tela de recuperação de senha
 </p>
 
@@ -54,7 +54,7 @@ Artefatos específicos:
 Acessado a partir do menu sanduíche, permite acessar as principais áreas do sistema: Cadastro de pessoas, categorias, usuários e campos genéricos.
 
 <p align='center'>
-<img src='img/07/Opcoes.png'><BR>
+<img src='img/07/Opcoes.jpg'><BR>
 Figura X – Tela de opções
 </p>
 
@@ -71,7 +71,7 @@ Artefatos específicos:
 Permite listar a categorias já cadastradas, com opção de busca, e acesso às ferramentas de edição e inserção de uma nova categoria.
 
 <p align='center'>
-<img src='img/07/Categorias_Listar.png'><BR>
+<img src='img/07/Categorias_Listar.jpg'><BR>
 Figura X – Tela de opções
 </p>
 
@@ -87,7 +87,7 @@ Artefatos específicos:
 Permite inserir uma nova categoria.
 
 <p align='center'>
-<img src='img/07/Categorias_Inserir.png'><BR>
+<img src='img/07/Categorias_Inserir.jpg'><BR>
 Figura X – Tela de opções
 </p>
 
@@ -105,7 +105,7 @@ Artefatos específicos:
 Permite editar uma categoria já cadastrada, com opção de exclusão.
 
 <p align='center'>
-<img src='img/07/Categorias_Editar.png'><BR>
+<img src='img/07/Categorias_Editar.jpg'><BR>
 Figura X – Tela de opções
 </p>
 
@@ -121,7 +121,7 @@ Artefatos específicos:
 
 Permite listar as pessoas já cadastradas, com opção de busca, e acesso às ferramentas de edição e inserção de uma nova pessoa.
 
-[TELA_RECUPERAR_SENHA.png]
+[TELA_RECUPERAR_SENHA.jpg]
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
@@ -133,9 +133,9 @@ Permite listar as pessoas já cadastradas, com opção de busca, e acesso às fe
 Permite inserir uma nova pessoa.
 
 <p align='center'>
-<img src='img/07/Pessoas_Inserir_1.png'><BR>
+<img src='img/07/Pessoas_Inserir_1.jpg'><BR>
 Figura X – Tela de inserção de pessoas (Parte de cima)
-<img src='img/07/Pessoas_Inserir_2.png'><BR>
+<img src='img/07/Pessoas_Inserir_2.jpg'><BR>
 Figura X – Tela de inserção de pessoas (Parte de baixo)
 </p>
 
@@ -152,9 +152,9 @@ Artefatos específicos:
 Permite editar uma pessoa já cadastrada, com opção de exclusão.
 
 <p align='center'>
-<img src='img/07/Pessoas_Editar_1.png'><BR>
+<img src='img/07/Pessoas_Editar_1.jpg'><BR>
 Figura X – Tela de edição de pessoas (Parte de cima)
-<img src='img/07/Pessoas_Editar_2.png'><BR>
+<img src='img/07/Pessoas_Editar_2.jpg'><BR>
 Figura X – Tela de edição de pessoas (Parte de baixo)
 </p>
 
@@ -173,7 +173,7 @@ Artefatos específicos:
 Permite listar os campos genéricos já cadastrados, com opção de busca, e acesso às ferramentas de edição e inserção de um novo campo genérico.
 
 <p align='center'>
-<img src='img/07/Cadastro_Generico_Listar.png'><BR>
+<img src='img/07/Cadastro_Generico_Listar.jpg'><BR>
 Figura X – Tela de opções
 </p>
 
@@ -190,7 +190,7 @@ Artefatos específicos:
 Permite inserir um novo campo genérico.
 
 <p align='center'>
-<img src='img/07/Cadastro_Generico_Inserir.png'><BR>
+<img src='img/07/Cadastro_Generico_Inserir.jpg'><BR>
 Figura X – Tela de opções
 </p>
 
@@ -207,7 +207,7 @@ Artefatos específicos:
 Permite editar um campo genérico já cadastrado, com opção de exclusão.
 
 <p align='center'>
-<img src='img/07/Cadastro_Generico_Editar.png'><BR>
+<img src='img/07/Cadastro_Generico_Editar.jpg'><BR>
 Figura X – Tela de opções
 </p>
 
@@ -223,7 +223,7 @@ Artefatos específicos:
 Permite listar os usuários já cadastrados, com opção de busca, e acesso às ferramentas de edição e inserção de uma novo usuário.
 
 <p align='center'>
-<img src='img/07/Usuarios_Listar.png'><BR>
+<img src='img/07/Usuarios_Listar.jpg'><BR>
 Figura X – Tela de opções
 </p>
 
@@ -240,7 +240,7 @@ Artefatos específicos:
 Permite listar os usuários já cadastrados, com opção de busca, e acesso às ferramentas de edição e inserção de uma novo usuário.
 
 <p align='center'>
-<img src='img/07/Usuarios_Inserir.png'><BR>
+<img src='img/07/Usuarios_Inserir.jpg'><BR>
 Figura X – Tela de opções
 </p>
 
@@ -256,7 +256,7 @@ Artefatos específicos:
 Permite editar um usuário já cadastrado, com opção de exclusão.
 
 <p align='center'>
-<img src='img/07/Usuarios_Editar.png'><BR>
+<img src='img/07/Usuarios_Editar.jpg'><BR>
 Figura X – Tela de opções
 </p>
 
