@@ -158,13 +158,17 @@ A tabela a seguir apresenta os requisitos funcionais do projeto e sua prioridade
 | Código | Descrição | Prioridade |
 | --- | --- | --- |
 | RF-1 | O sistema deverá cadastrar pessoas físicas ou jurídicas, contendo todos os dados como nome completo, CPF ou CNPJ, telefones e endereço. | Alta |
-| RF-2 | O sistema deverá cadastrar categorias para serem vinculadas às pessoas, podendo uma pessoa estar vinculada a mais de uma categoria. | Alta |
+| RF-2 | O sistema deverá inserir categorias para serem vinculadas às pessoas, podendo uma pessoa estar vinculada a mais de uma categoria. | Alta |
 | RF-3 | O sistema deverá registrar o histórico de contatos realizados com as pessoas, informando por qual meio (e-mail, telefone, etc). | Baixa |
-| RF-4 | O sistema deverá permitir ao usuário filtrar pessoas por filtros | Alta |
-| RF-5 | O sistema deverá permitir a exportação da listagem para o Excel | Baixa | 
-| RF-6 | O sistema deverá permitir criar campos adicionais no cadastro de pessoas. | Baixa |
-| RF-7 | O sistema deverá permitir enviar mala direta para os grupos de pessoas selecionados. | Baixa |
-| RF-8 | O sistema deverá cadastrar usuários, e utilizar estes usuários para autenticação do sistema | Alto |
+| RF-4 | O sistema não poderá funcionar sem autenticação. | Alta|
+| RF-5 | O sistema deverá permitir que os usuários recuperam sua senha. | Alta | 
+| RF-6 | O sistema deverá apresentar um menu que permita acesso as principais áreas do sistema. | Alta |
+| RF-7 | O sistema deverá permitir inserir/editar/excluir/listar categorias. | Alta |
+| RF-8 | O sistema deverá permitir ao usuário buscar pessoas por filtros. | Alta |
+| RF-9 | O sistema deverá permitir a exportação da listagem para o Excel. | Baixa | 
+| RF-10 | O sistema deverá permitir criar/inserir campos adicionais no cadastro de pessoas. | Baixa |
+| RF-11 | O sistema deverá permitir enviar mala direta para os grupos de pessoas selecionados. | Baixa |
+| RF-12 | O sistema deverá cadastrar/editar/excluir/listar usuários, e utiliza-los para autenticação. | Alto |
 
 
 
@@ -176,13 +180,12 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 | RNF-1 | O sistema deverá permitir trabalhar de forma offline no celular. | 
 | RNF-2 | O sistema deverá permitir que se cadastre um milhão de pessoas. | 
 | RNF-3 | Garantir boas práticas de desenvolvimento evitando um SQL Injection. |
-| RNF-4 | O sistema não poderá funcionar sem acesso autorizado. |
-| RNF-5 | O sistema deverá estar em conformidade com a Lei Geral de Proteção de Dados. |
-| RNF-6 | O banco de dados deverá estar situado em um servidor Linux não compartilhado. |
-| RNF-7 | O banco de dados deverá estar em um HD SSD para melhor desempenho. |
-| RNF-8 | O sistema deverá ter a interface mais simples, para uso em computadores ou celulares antigos. | Baixo |
-| RNF-9 | O programa não pode ultrapassar 50 MB. | Média |
-| RNF-10 | O banco de dados não poderá ultrapassar 5 MB, que é o limite do local storage. | Alta |
+| RNF-4 | O sistema deverá estar em conformidade com a Lei Geral de Proteção de Dados. |
+| RNF-5 | O banco de dados deverá estar situado em um servidor Linux não compartilhado. |
+| RNF-6 | O banco de dados deverá estar em um HD SSD para melhor desempenho. |
+| RNF-7 | O sistema deverá ter a interface mais simples, para uso em computadores ou celulares antigos. | Baixo |
+| RNF-8 | O programa não pode ultrapassar 50 MB. | Média |
+| RNF-9 | O banco de dados não poderá ultrapassar 5 MB, que é o limite do local storage. | Alta |
 
 
 

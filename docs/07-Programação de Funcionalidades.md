@@ -2,7 +2,7 @@
 ## 7. Funcionalidades do sistema
 Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. O endereço para acesso ao sistema é https://cp.multiaccess.com.br. Outras orientações de acesso serão apresentadas na sequência.
 
-Todas as telas utilizam alguns artefatos compartilhados, aqui descrito os artefatos comuns em forma hierárquica.
+Todas as telas utilizam alguns artefatos compartilhados, abaixo descrito os artefatos comuns em forma hierárquica.
 
 - Cabecalho.php
 	- /js/jquery-3.3.1.min.js
@@ -27,8 +27,7 @@ Figura X – Tela inicial
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
-| RF-01 | BLA BLA BLA |
-| RF-02 | BLA BLA BLA |
+| RF-04 | O sistema não poderá funcionar sem autenticação. |
 
 Artefatos específicos:
  - index.php
@@ -45,8 +44,7 @@ Figura X – Tela de recuperação de senha
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
-| RF-01 | BLA BLA BLA |
-| RF-02 | BLA BLA BLA |
+| RF-05 | O sistema deverá permitir que os usuários recuperam sua senha. |
 
 Artefatos específicos:
  - Recuperacao_Senha.php
@@ -62,8 +60,8 @@ Figura X – Tela de opções
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
-| RF-01 | BLA BLA BLA |
-| RF-02 | BLA BLA BLA | 
+| RF-6 | O sistema deverá apresentar um menu que permita acesso as principais áreas do sistema. | Alta | 
+ 
 
 Artefatos específicos:
  - Opcoes.php
@@ -79,8 +77,7 @@ Figura X – Tela de opções
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
-| RF-01 | BLA BLA BLA |
-| RF-02 | BLA BLA BLA |
+| RF-2 | O sistema deverá inserir categorias para serem vinculadas às pessoas, podendo uma pessoa estar vinculada a mais de uma categoria. |
 
 Artefatos específicos:
  - Categorias_Listar.php
@@ -96,8 +93,8 @@ Figura X – Tela de opções
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
-| RF-01 | BLA BLA BLA |
-| RF-02 | BLA BLA BLA |
+| RF-7 | O sistema deverá permitir inserir/editar/excluir/listar categorias. |
+
 
 Artefatos específicos:
  - Categorias_Inserir.php
@@ -114,27 +111,24 @@ Figura X – Tela de opções
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
-| RF-01 | BLA BLA BLA |
-| RF-02 | BLA BLA BLA |
+| RF-7 | O sistema deverá permitir inserir/editar/excluir/listar categorias. | Alta | 
 
 Artefatos específicos:
  - Categorias_Editar.php
 
 
-### 7.4 Pessoas :: Listagem
+### 7.7 Pessoas :: Listagem
 
-Permite listar a pessoass já cadastradas, com opção de busca, e acesso às ferramentas de edição e inserção de uma nova pessoa.
+Permite listar as pessoas já cadastradas, com opção de busca, e acesso às ferramentas de edição e inserção de uma nova pessoa.
 
 [TELA_RECUPERAR_SENHA.png]
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
-| RF-01 | BLA BLA BLA |
-| RF-02 | BLA BLA BLA |
+| RF-08 | O sistema deverá permitir ao usuário buscar pessoas por filtros. |
 
 
-
-### 7.5 Pessoas :: Inserção
+### 7.8 Pessoas :: Inserção
 
 Permite inserir uma nova pessoa.
 
@@ -145,14 +139,13 @@ Figura X – Tela de opções
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
-| RF-01 | BLA BLA BLA |
-| RF-02 | BLA BLA BLA |
+| RF-01 | O sistema deverá cadastrar pessoas físicas ou jurídicas, contendo todos os dados como nome completo, CPF ou CNPJ, telefones e endereço. |
 
 Artefatos específicos:
  - Pessoas_Inserir.php
 
 
-### 7.6 Pessoas :: Edição
+### 7.9 Pessoas :: Edição
 
 Permite editar uma pessoa já cadastrada, com opção de exclusão.
 
@@ -160,15 +153,14 @@ Permite editar uma pessoa já cadastrada, com opção de exclusão.
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
-| RF-01 | BLA BLA BLA |
-| RF-02 | BLA BLA BLA |
+| RF-12 |  O sistema deverá cadastrar/editar/excluir/listar usuários, e utiliza-los para autenticação. |
+
 
 Artefatos específicos:
  - Pessoas_Editar.php
 
 
-
-### 7.4 Cadastro Genérico :: Listagem
+### 7.10 Cadastro Genérico :: Listagem
 
 Permite listar os campos genéricos já cadastrados, com opção de busca, e acesso às ferramentas de edição e inserção de um novo campo genérico.
 
@@ -179,15 +171,13 @@ Figura X – Tela de opções
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
-| RF-01 | BLA BLA BLA |
-| RF-02 | BLA BLA BLA |
+| RF-10 | O sistema deverá permitir criar/inserir campos adicionais no cadastro de pessoas. |
 
 Artefatos específicos:
  - Campos_Genericos_Listar.php
 
 
-
-### 7.5 Cadastro Genérico :: Inserção
+### 7.11 Cadastro Genérico :: Inserção
 
 Permite inserir um novo campo genérico.
 
@@ -198,13 +188,13 @@ Figura X – Tela de opções
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
-| RF-01 | BLA BLA BLA |
-| RF-02 | BLA BLA BLA |
+| RF-10 | O sistema deverá permitir criar/inserir campos adicionais no cadastro de pessoas. |
+
 
 Artefatos específicos:
  - Campos_Genericos_Inserir.php
 
-### 7.6 Cadastro Genérico :: Edição
+### 7.12 Cadastro Genérico :: Edição
 
 Permite editar um campo genérico já cadastrado, com opção de exclusão.
 
@@ -215,13 +205,12 @@ Figura X – Tela de opções
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
-| RF-8 | O sistema deverá cadastrar usuários, e utilizar estes usuários para autenticação do sistema |
-| RNF-4 | O sistema não poderá funcionar sem acesso autorizado. |
+| RF-7 | O sistema deverá permitir inserir/editar/excluir/listar categorias.  |
 
 Artefatos específicos:
  - Campos_Genericos_Editar.php
 
-### 7.4 Usuários :: Listagem
+### 7.13 Usuários :: Listagem
 
 Permite listar os usuários já cadastrados, com opção de busca, e acesso às ferramentas de edição e inserção de uma novo usuário.
 
@@ -232,13 +221,13 @@ Figura X – Tela de opções
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
-| RF-01 | BLA BLA BLA |
-| RF-02 | BLA BLA BLA |
+| RF-12 | O sistema deverá cadastrar/editar/excluir/listar usuários, e utiliza-los para autenticação. |
+
 
 Artefatos específicos:
  - Usuarios_Listar.php
 
-### 7.5 Usuários :: Inserção
+### 7.14 Usuários :: Inserção
 
 Permite listar os usuários já cadastrados, com opção de busca, e acesso às ferramentas de edição e inserção de uma novo usuário.
 
@@ -249,13 +238,12 @@ Figura X – Tela de opções
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
-| RF-01 | BLA BLA BLA |
-| RF-02 | BLA BLA BLA |
+| RF-12 | O sistema deverá cadastrar/editar/excluir/listar usuários, e utiliza-los para autenticação. |
 
 Artefatos específicos:
  - Usuarios_Inserir.php
 
-### 7.6 Usuários :: Edição
+### 7.15 Usuários :: Edição
 
 Permite editar um usuário já cadastrado, com opção de exclusão.
 
@@ -266,14 +254,14 @@ Figura X – Tela de opções
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
-| RF-01 | BLA BLA BLA |
-| RF-02 | BLA BLA BLA |
+| RF-12 | O sistema deverá cadastrar/editar/excluir/listar usuários, e utiliza-los para autenticação. |
+
 
 Artefatos específicos:
  - Usuarios_Editar.php
 
 
-### 7.7 Estrutura de dados
+### 7.16 Estrutura de dados
 
 Todas as informações são gravadas em JSON no localstorage através do objeto de persistência Banco_De_Dados, que simula uma inserção, exclusão, consulta e atualização como em um SGDB.
 
@@ -285,7 +273,7 @@ Todas as informações são gravadas em JSON no localstorage através do objeto 
 | Pessoas  | [{"cpfcnpj":"12345678909","nome":"Andrey Bibiano Jardim","apelido":"Dedey","categoria":"1","telefone":"(32) 98812-9751","email":"andreyjardim@yahoo.com","tipo_logradouro":"","logradouro":"","numero":"","complemento":"","bairro":"","cidade":"","uf":false,"cep":"","codigo":1}]
 | Pessoas / Campos genéricos preenchidos | [{"codigoPessoa":1,"codigoCampoGenerico":1,"valorCampoGenerico":"Autismo","codigo":3},{"codigoPessoa":1,"codigoCampoGenerico":2,"valorCampoGenerico":"Fenoxazolina","codigo":4}] |
 
-### 7.8 Instruções de acesso ao sistema
+### 7.17 Instruções de acesso ao sistema
 
 1. Abra um navegador de Internet e informe a seguinte URL: https://cp.multiaccess.com.br
 2. Caso seja seu primeiro acesso, clique em "Entrar". O sistema irá automaticamente criar um usuário 00000000000 e senha "123".
