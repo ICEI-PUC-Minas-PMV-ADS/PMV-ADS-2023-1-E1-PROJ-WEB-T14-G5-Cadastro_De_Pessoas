@@ -134,8 +134,9 @@ Permite inserir uma nova pessoa.
 
 <p align='center'>
 <img src='img/07/Pessoas_Inserir_1.png'><BR>
+Figura X – Tela de inserção de pessoas (Parte de cima)
 <img src='img/07/Pessoas_Inserir_2.png'><BR>
-Figura X – Tela de inserção de pessoas
+Figura X – Tela de inserção de pessoas (Parte de baixo)
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
@@ -150,7 +151,13 @@ Artefatos específicos:
 
 Permite editar uma pessoa já cadastrada, com opção de exclusão.
 
-[TELA_RECUPERAR_SENHA.png]
+<p align='center'>
+<img src='img/07/Pessoas_Editar_1.png'><BR>
+Figura X – Tela de edição de pessoas (Parte de cima)
+<img src='img/07/Pessoas_Editar_2.png'><BR>
+Figura X – Tela de edição de pessoas (Parte de baixo)
+</p>
+
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
