@@ -34,7 +34,7 @@ Artefatos específicos:
 
 ### 7.2 Recuperação de senha
 
-É a tela que permite a recuperação do login em caso de senha perdida. Como o sistema não fornece as tecnologias backend, irá inserir ou editar um usuário "admin" com senha "admin".
+É a tela que permite a recuperação do login em caso de senha perdida. Como o sistema não fornece as tecnologias backend, irá editar o usuário "00000000000" com senha "123".
 
 <p align='center'>
 <img src='img/07/Recuperar_Senha.png'><BR>
@@ -133,8 +133,9 @@ Permite listar as pessoas já cadastradas, com opção de busca, e acesso às fe
 Permite inserir uma nova pessoa.
 
 <p align='center'>
-<img src='img/07/Pessoas_Inserir.png'><BR>
-Figura X – Tela de opções
+<img src='img/07/Pessoas_Inserir_1.png'><BR>
+<img src='img/07/Pessoas_Inserir_2.png'><BR>
+Figura X – Tela de inserção de pessoas
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |

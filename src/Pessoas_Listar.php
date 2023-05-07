@@ -9,6 +9,20 @@
 -->
 <SCRIPT>
 
+	function excel(){
+		alerta("Gerar o excel baseado no conteud");
+		
+		var encodedUri = encodeURI(csvContent);
+		var link = document.createElement("a");
+		link.setAttribute("href", encodedUri);
+		link.setAttribute("download", "my_data.csv");
+		document.body.appendChild(link); // Required for FF
+
+		link.click(); // This will download the data file named "my_data.csv".
+
+		
+	}
+
 	/*
 		Como essa porcaria não tem join, crio um conjunto de dados com as categorias e campos genericos de cada pessoa
 	*/
@@ -110,6 +124,7 @@
 </DIV>
 
 <DIV id='rodape'>
+	<a href='javascript:excel()'><img src='/Imagens/Excel.png'></a>
 	<a href='Pessoas_Inserir.php'><img src='/Imagens/Adicionar.png'></a>
 </DIV>
 

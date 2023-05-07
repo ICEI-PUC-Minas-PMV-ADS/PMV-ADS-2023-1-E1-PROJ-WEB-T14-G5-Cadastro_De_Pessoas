@@ -102,9 +102,10 @@ body{
 	margin-bottom: 15px;
 	padding: 10px;
 	background-color: #FFFFFFAA;
-	-webkit-border-radius: 3px;
-	-moz-border-radius: 3px;
-	border-radius: 3px;	
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;	
+	border: 1px solid #FFFFFF55;
 }
 .grupo_campos .contenedor_campo{
 	margin-bottom: 3%;
