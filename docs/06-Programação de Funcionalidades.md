@@ -1,6 +1,6 @@
 
-## 7. Funcionalidades do sistema
-Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. O endereço para acesso ao sistema é https://cp.multiaccess.com.br. Outras orientações de acesso serão apresentadas na sequência.
+## 6. Templates e funcionalidades do sistema
+Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. O endereço para acesso ao sistema é https://cp.multiaccess.com.br.
 
 Todas as telas utilizam alguns artefatos compartilhados, abaixo descrito os artefatos comuns em forma hierárquica.
 
@@ -17,7 +17,7 @@ Todas as telas utilizam alguns artefatos compartilhados, abaixo descrito os arte
 	- /Imagens/Logotipo.jpg
 	- /Imagens/Menu.jpg
 
-### 7.1 Login
+### 6.1 Login
 Esta é a tela inicial do sistema. Permite que os usuários possam se autenticar e entrar no sistema. Fornece também um link para recuperação de senha perdida.
 
 <p align='center'>
@@ -32,7 +32,7 @@ Figura X – Tela inicial
 Artefatos específicos:
  - index.php
 
-### 7.2 Recuperação de senha
+### 6.2 Recuperação de senha
 
 É a tela que permite a recuperação do login em caso de senha perdida. Como o sistema não fornece as tecnologias backend, irá editar o usuário "00000000000" com senha "123".
 
@@ -49,7 +49,7 @@ Figura X – Tela de recuperação de senha
 Artefatos específicos:
  - Recuperacao_Senha.php
 
-### 7.3 Menu de Opções
+### 6.3 Menu de Opções
 
 Acessado a partir do menu sanduíche, permite acessar as principais áreas do sistema: Cadastro de pessoas, categorias, usuários e campos genéricos.
 
@@ -66,13 +66,13 @@ Figura X – Tela de opções
 Artefatos específicos:
  - Opcoes.php
 
-### 7.4 Categorias :: Listagem
+### 6.4 Categorias :: Listagem
 
 Permite listar a categorias já cadastradas, com opção de busca, e acesso às ferramentas de edição e inserção de uma nova categoria.
 
 <p align='center'>
 <img src='img/07/Categorias_Listar.jpg'><BR>
-Figura X – Tela de opções
+Figura X – Tela de listagem de categorias cadastradas
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
@@ -82,7 +82,7 @@ Figura X – Tela de opções
 Artefatos específicos:
  - Categorias_Listar.php
 
-### 7.5 Categorias :: Inserção
+### 6.5 Categorias :: Inserção
 
 Permite inserir uma nova categoria.
 
@@ -100,13 +100,13 @@ Artefatos específicos:
  - Categorias_Inserir.php
 
 
-### 7.6 Categorias :: Edição
+### 6.6 Categorias :: Edição
 
 Permite editar uma categoria já cadastrada, com opção de exclusão.
 
 <p align='center'>
 <img src='img/07/Categorias_Editar.jpg'><BR>
-Figura X – Tela de opções
+Figura X – Tela de edição de categorias
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
@@ -117,7 +117,7 @@ Artefatos específicos:
  - Categorias_Editar.php
 
 
-### 7.7 Pessoas :: Listagem
+### 6.7 Pessoas :: Listagem
 
 Permite listar as pessoas já cadastradas, com opção de busca, e acesso às ferramentas de edição e inserção de uma nova pessoa.
 
@@ -128,7 +128,7 @@ Permite listar as pessoas já cadastradas, com opção de busca, e acesso às fe
 | RF-08 | O sistema deverá permitir ao usuário buscar pessoas por filtros. |
 
 
-### 7.8 Pessoas :: Inserção
+### 6.8 Pessoas :: Inserção
 
 Permite inserir uma nova pessoa.
 
@@ -147,7 +147,7 @@ Artefatos específicos:
  - Pessoas_Inserir.php
 
 
-### 7.9 Pessoas :: Edição
+### 6.9 Pessoas :: Edição
 
 Permite editar uma pessoa já cadastrada, com opção de exclusão.
 
@@ -168,13 +168,13 @@ Artefatos específicos:
  - Pessoas_Editar.php
 
 
-### 7.10 Cadastro Genérico :: Listagem
+### 6.10 Cadastro Genérico :: Listagem
 
 Permite listar os campos genéricos já cadastrados, com opção de busca, e acesso às ferramentas de edição e inserção de um novo campo genérico.
 
 <p align='center'>
 <img src='img/07/Cadastro_Generico_Listar.jpg'><BR>
-Figura X – Tela de opções
+Figura X – Tela de listagem de campos genéricos
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
@@ -185,13 +185,13 @@ Artefatos específicos:
  - Campos_Genericos_Listar.php
 
 
-### 7.11 Cadastro Genérico :: Inserção
+### 6.11 Cadastro Genérico :: Inserção
 
 Permite inserir um novo campo genérico.
 
 <p align='center'>
 <img src='img/07/Cadastro_Generico_Inserir.jpg'><BR>
-Figura X – Tela de opções
+Figura X – Tela de inserção de um campo genérico
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
@@ -202,13 +202,13 @@ Figura X – Tela de opções
 Artefatos específicos:
  - Campos_Genericos_Inserir.php
 
-### 7.12 Cadastro Genérico :: Edição
+### 6.12 Cadastro Genérico :: Edição
 
 Permite editar um campo genérico já cadastrado, com opção de exclusão.
 
 <p align='center'>
 <img src='img/07/Cadastro_Generico_Editar.jpg'><BR>
-Figura X – Tela de opções
+Figura X – Tela de edição de um campo genérico existente
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
@@ -218,13 +218,13 @@ Figura X – Tela de opções
 Artefatos específicos:
  - Campos_Genericos_Editar.php
 
-### 7.13 Usuários :: Listagem
+### 6.13 Usuários :: Listagem
 
 Permite listar os usuários já cadastrados, com opção de busca, e acesso às ferramentas de edição e inserção de uma novo usuário.
 
 <p align='center'>
 <img src='img/07/Usuarios_Listar.jpg'><BR>
-Figura X – Tela de opções
+Figura X – Tela de listagem de usuários
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
@@ -235,13 +235,13 @@ Figura X – Tela de opções
 Artefatos específicos:
  - Usuarios_Listar.php
 
-### 7.14 Usuários :: Inserção
+### 6.14 Usuários :: Inserção
 
 Permite listar os usuários já cadastrados, com opção de busca, e acesso às ferramentas de edição e inserção de uma novo usuário.
 
 <p align='center'>
 <img src='img/07/Usuarios_Inserir.jpg'><BR>
-Figura X – Tela de opções
+Figura X – Tela de inserção de um novo usuário
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
@@ -251,13 +251,13 @@ Figura X – Tela de opções
 Artefatos específicos:
  - Usuarios_Inserir.php
 
-### 7.15 Usuários :: Edição
+### 6.15 Usuários :: Edição
 
 Permite editar um usuário já cadastrado, com opção de exclusão.
 
 <p align='center'>
 <img src='img/07/Usuarios_Editar.jpg'><BR>
-Figura X – Tela de opções
+Figura X – Tela de edição de um usuário existente
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
@@ -269,7 +269,7 @@ Artefatos específicos:
  - Usuarios_Editar.php
 
 
-### 7.16 Estrutura de dados
+### 6.16 Estrutura de dados
 
 Todas as informações são gravadas em JSON no localstorage através do objeto de persistência Banco_De_Dados, que simula uma inserção, exclusão, consulta e atualização como em um SGDB.
 
@@ -281,7 +281,7 @@ Todas as informações são gravadas em JSON no localstorage através do objeto 
 | Pessoas  | [{"cpfcnpj":"12345678909","nome":"Andrey Bibiano Jardim","apelido":"Dedey","categoria":"1","telefone":"(32) 98812-9751","email":"andreyjardim@yahoo.com","tipo_logradouro":"","logradouro":"","numero":"","complemento":"","bairro":"","cidade":"","uf":false,"cep":"","codigo":1}]
 | Pessoas / Campos genéricos preenchidos | [{"codigoPessoa":1,"codigoCampoGenerico":1,"valorCampoGenerico":"Autismo","codigo":3},{"codigoPessoa":1,"codigoCampoGenerico":2,"valorCampoGenerico":"Fenoxazolina","codigo":4}] |
 
-### 7.17 Instruções de acesso ao sistema
+### 6.17 Instruções de acesso ao sistema
 
 1. Abra um navegador de Internet e informe a seguinte URL: https://cp.multiaccess.com.br
 2. Caso seja seu primeiro acesso, clique em "Entrar". O sistema irá automaticamente criar um usuário 00000000000 e senha "123".

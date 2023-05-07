@@ -35,7 +35,7 @@
 
 <DIV class='formulario'>	
 	
-	<DIV class='titulo_formulario'>Campos Genéricos :: Inserir uma novo campo genérico</DIV>
+	<DIV class='titulo_formulario'>Campos Genéricos :: Inserir um novo campo genérico</DIV>
 
 	<LABEL>Dados Principais</LABEL>
 
