@@ -269,7 +269,64 @@ Artefatos específicos:
  - Usuarios_Editar.php
 
 
-### 6.16 Estrutura de dados
+
+### 6.16 Contatos Realizados :: Listar
+
+Permite listar os contatos realizados com uma pessoa.
+
+<p align='center'>
+<img src='img/07/Contato_Listar.jpg'><BR>
+Figura 43 – Tela de listagem de contatos realizados como uma pessoas
+</p>
+
+| Requisitos atendidos | Cópia do Requisito |
+| --- | --- |
+| RF-3 | O sistema deverá registrar o histórico de contatos realizados com as pessoas, informando por qual meio (e-mail, telefone, etc). |
+
+
+Artefatos específicos:
+ - Pessoas_Listar_Contatos.php
+
+
+### 6.17 Contatos Realizados :: Inserir
+
+Permite inserir um novo contatos realizados com uma pessoa.
+
+<p align='center'>
+<img src='img/07/Contato_Inserir.jpg'><BR>
+Figura 44 – Tela de inserção de um contato realizado
+</p>
+
+| Requisitos atendidos | Cópia do Requisito |
+| --- | --- |
+| RF-3 | O sistema deverá registrar o histórico de contatos realizados com as pessoas, informando por qual meio (e-mail, telefone, etc). |
+
+
+Artefatos específicos:
+ - Pessoas_Inserir_Contato.php
+
+
+### 6.18 Contatos Realizados :: Editar
+
+Permite editar um novo contatos realizados com uma pessoa.
+
+<p align='center'>
+<img src='img/07/Contato_Editar.jpg'><BR>
+Figura 45 – Tela de edição de um contato realizado
+</p>
+
+| Requisitos atendidos | Cópia do Requisito |
+| --- | --- |
+| RF-3 | O sistema deverá registrar o histórico de contatos realizados com as pessoas, informando por qual meio (e-mail, telefone, etc). |
+
+
+Artefatos específicos:
+ - Pessoas_Editar_Contato.php
+
+
+
+
+### 6.19 Estrutura de dados
 
 Todas as informações são gravadas em JSON no localstorage através do objeto de persistência Banco_De_Dados, que simula uma inserção, exclusão, consulta e atualização como em um SGDB.
 

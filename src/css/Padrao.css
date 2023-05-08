@@ -55,10 +55,15 @@ body{
 
 #rodape{
 	text-align: right;
+	padding: 5px;	
+	margin-left: auto;
+	margin-right: auto;
+	max-width:800px;
 }
 
 #rodape > a > img{
 	height: 32px;
+	margin-left: 16px;
 }
 
 
@@ -81,13 +86,7 @@ body{
 }
 
 
-#rodape{
-	padding: 5px;	
-	margin-left: auto;
-	margin-right: auto;
-	max-width:800px;
-	
-}
+
 
 .titulo_formulario{
 	margin-bottom: 5%;
