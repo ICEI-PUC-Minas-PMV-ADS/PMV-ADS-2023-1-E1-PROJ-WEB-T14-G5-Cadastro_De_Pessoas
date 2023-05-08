@@ -337,6 +337,7 @@ Todas as informações são gravadas em JSON no localstorage através do objeto 
 | Campos Genéricos | [{"nome":"Doença","codigo":1},{"nome":"Medicamentos em Uso","codigo":2}]
 | Pessoas  | [{"cpfcnpj":"12345678909","nome":"Andrey Bibiano Jardim","apelido":"Dedey","categoria":"1","telefone":"(32) 98812-9751","email":"andreyjardim@yahoo.com","tipo_logradouro":"","logradouro":"","numero":"","complemento":"","bairro":"","cidade":"","uf":false,"cep":"","codigo":1}]
 | Pessoas / Campos genéricos preenchidos | [{"codigoPessoa":1,"codigoCampoGenerico":1,"valorCampoGenerico":"Autismo","codigo":3},{"codigoPessoa":1,"codigoCampoGenerico":2,"valorCampoGenerico":"Fenoxazolina","codigo":4}] |
+| Pessoas / Contatos realizados  | [{"data":"07/05/2023","hora":"20:39","forma":"Pessoalmente","codigoPessoa":2,"codigo":1},{"data":"07/05/2023","hora":"20:23","forma":"Telefone","codigoPessoa":1,"codigo":5}] |
 
 ### 6.17 Instruções de acesso ao sistema
 
