@@ -53,7 +53,7 @@ Conforme os fluxos de telas do projeto, apresentado no item anterior, as telas d
 * Conteúdo - Apresenta o conteúdo da tela acessada
 
 <p align='center'>
-<img src='img/telas/Estrutura.png'>
+<img src='img/telas/Estrutura.png'><BR>
 Figura 6 – Estrutura padrão do sistema
 </p>
 
