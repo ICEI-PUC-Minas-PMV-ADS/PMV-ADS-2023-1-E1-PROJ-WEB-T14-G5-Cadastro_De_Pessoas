@@ -276,7 +276,7 @@ Permite listar os contatos realizados com uma pessoa.
 
 <p align='center'>
 <img src='img/07/Contato_Listar.jpg'><BR>
-Figura 43 – Tela de listagem de contatos realizados como uma pessoas
+Figura 43 – Tela de listagem de contatos realizados como uma pessoa
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
