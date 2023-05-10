@@ -7,6 +7,7 @@
 		13/04/2023 - Andrey - Primeira Versão
 		02/05/2023 - Andrey - Corrigi um bug no update que me matou de raiva na parte de recuperar senha
 		04/05/2023 - Andrey - select *
+		10/05/2023 - Andrey - Consertei a exclusão
 		--- Fim Versionamento ---
 		
 		
@@ -269,7 +270,12 @@
 		this.deleteTabela = function (nm_tbl, objeto, pk){
 			
 			// Retorna todos os registros com essa busca	
-			var d = this.selectTabela(nm_tbl, objeto, pk);
+			var d = this.selectTabela(nm_tbl, objeto, pk, true);
+			
+			for(i in d){
+				print_r(d[i]);
+			}	
+				
 
 			// Para cada registro				
 			for(var i = 0; i < d.length; i++){
@@ -301,7 +307,7 @@
 						if(v[i][pk] != INT_PK){
 							novo.push(v[i]);
 						}else{
-							//alert("Excluindo INT_PK " + INT_PK);
+							alert("Excluindo INT_PK " + INT_PK);
 						}
 					}
 				}
@@ -361,7 +367,4 @@
 		
 	
 	} // Classe
-	
-	
-	
 	
