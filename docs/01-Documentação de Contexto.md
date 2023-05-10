@@ -1,7 +1,7 @@
 
 # Documentação do Contexto
 
-É inegável que em toda a vida de uma pessoa, novos vínculos com outras pessoas são criados. Por mais isolada que seja, uma pessoa sempre terá um número finito de contatos e, junto dela, um conjunto de informações a respeito destes contatos.
+É inegável que em toda a vida de uma pessoa, novos vínculos com outras pessoas são criados. Por mais isolada que seja, uma pessoa sempre terá um número finito de contatos e, junto dela, um conjunto de informações a respeito desses contatos.
 
 Pessoas que criam contatos são fundamentais para o sucesso de uma empresa ou organização. Elas são responsáveis por estabelecer e manter relações com clientes, fornecedores, parceiros e outras partes interessadas. Essas conexões são vitais para garantir um fluxo constante de negócios, conhecimento e recursos, e podem, por exemplo, ajudar uma empresa a crescer e se expandir.
 
