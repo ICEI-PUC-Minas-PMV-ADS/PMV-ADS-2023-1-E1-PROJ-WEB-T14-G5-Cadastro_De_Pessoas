@@ -24,7 +24,7 @@ O sistema consiste em criar um cadastro de pessoas com uma abordagem mais seleti
 <!--
 ## Instruções de utilização.
 
-Ainda não está disponível.
+Ainda não está disponível
 -->
 
 # Documentação
