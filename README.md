@@ -51,7 +51,7 @@ Ainda não está disponível
 
 <li><a href="src/README.md">Código Fonte</a></li>
 
-# Apresentação.
+# Apresentação
 
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
 -->
