@@ -12,7 +12,7 @@ Além disso, manter um grande número de contatos pode resultar em custos desnec
 
 Outro problema é que muitos contatos inativos ou irrelevantes podem prejudicar a reputação da empresa, principalmente se eles não derem permissão para receber comunicações. E-mails não solicitados podem ser considerados spam e fazer com que a empresa seja penalizada pelos provedores de serviços de e-mail, o que pode afetar a capacidade da empresa de enviar e-mails futuros. 
 
-Por isso, é importante que as empresas façam uma análise regular de seus contatos e removam aqueles que não são mais úteis ou relevantes. Isso pode ajudar a reduzir custos, aumentar a eficiência do trabalho, melhorar a reputação da empresa e garantir que os esforços de marketing e relacionamento sejam direcionados para os contatos mais importantes e valiosos. 
+Por isso, é importante que as empresas façam uma análise regular de seus contatos e removam aqueles que não são mais úteis. Isso pode ajudar a reduzir custos, aumentar a eficiência do trabalho, melhorar a reputação da empresa e garantir que os esforços de marketing e relacionamento sejam direcionados para os contatos mais importantes e valiosos. 
 
 ## Objetivo e Solução
 
