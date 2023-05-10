@@ -4,7 +4,7 @@
 
 `Projeto: Desenvolvimento de uma Aplicação Interativa - Eixo 1`
 
-`1º semestre - Grupo 02`.
+`1º semestre - Grupo 02`
 
 O sistema consiste em criar um cadastro de pessoas com uma abordagem mais seletiva, como uma ferramenta que permite a organização e registro de dados relevantes para uma determinada finalidade, como consultórios médicos.
 
