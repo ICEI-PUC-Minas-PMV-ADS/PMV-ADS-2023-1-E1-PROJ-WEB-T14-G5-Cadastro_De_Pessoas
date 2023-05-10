@@ -13,7 +13,7 @@ O sistema consiste em criar um cadastro de pessoas com uma abordagem mais seleti
 * Andrey Bibiano Jardim
 * Bárbara Gabriela Evangelista Paixão
 * Evellyn Andrade Alves da Silva
-* Leonardo Santos
+* Leonardo dos Santos
 * Leonardo Ferreira dos Santos
 * Thiago Muniz Severino dos Santos
 
