@@ -65,7 +65,7 @@
 		
 		<DIV class='contenedor_campo'>
 			<LABEL>CPF</LABEL>
-			<input type='text' id='cpf'>
+			<input type='text' id='cpf' autocomplete=off>
 		</DIV>
 
 		<DIV class='contenedor_campo'>

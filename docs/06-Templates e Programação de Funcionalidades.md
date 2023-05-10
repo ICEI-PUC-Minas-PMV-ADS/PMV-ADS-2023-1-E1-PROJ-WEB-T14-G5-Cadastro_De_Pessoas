@@ -121,7 +121,11 @@ Artefatos específicos:
 
 Permite listar as pessoas já cadastradas, com opção de busca, e acesso às ferramentas de edição e inserção de uma nova pessoa.
 
-[TELA_RECUPERAR_SENHA.jpg]
+<p align='center'>
+<img src='img/07/Pessoas_Listar.jpg'><BR>
+Figura 33 – Tela de inserção de pessoas (Parte de cima)
+
+</p>
 
 | Requisitos atendidos | Cópia do Requisito |
 | --- | --- |
@@ -134,9 +138,9 @@ Permite inserir uma nova pessoa.
 
 <p align='center'>
 <img src='img/07/Pessoas_Inserir_1.jpg'><BR>
-Figura 33 – Tela de inserção de pessoas (Parte de cima)
+Figura 34 – Tela de inserção de pessoas (Parte de cima)
 <img src='img/07/Pessoas_Inserir_2.jpg'><BR>
-Figura 34 – Tela de inserção de pessoas (Parte de baixo)
+Figura 35 – Tela de inserção de pessoas (Parte de baixo)
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
@@ -153,9 +157,9 @@ Permite editar uma pessoa já cadastrada, com opção de exclusão.
 
 <p align='center'>
 <img src='img/07/Pessoas_Editar_1.jpg'><BR>
-Figura 35 – Tela de edição de pessoas (Parte de cima)
+Figura 36 – Tela de edição de pessoas (Parte de cima)
 <img src='img/07/Pessoas_Editar_2.jpg'><BR>
-Figura 36 – Tela de edição de pessoas (Parte de baixo)
+Figura 37 – Tela de edição de pessoas (Parte de baixo)
 </p>
 
 
@@ -174,7 +178,7 @@ Permite listar os campos genéricos já cadastrados, com opção de busca, e ace
 
 <p align='center'>
 <img src='img/07/Cadastro_Generico_Listar.jpg'><BR>
-Figura 37 – Tela de listagem de campos genéricos
+Figura 38 – Tela de listagem de campos genéricos
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
@@ -191,7 +195,7 @@ Permite inserir um novo campo genérico.
 
 <p align='center'>
 <img src='img/07/Cadastro_Generico_Inserir.jpg'><BR>
-Figura 38 – Tela de inserção de um campo genérico
+Figura 39 – Tela de inserção de um campo genérico
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
@@ -208,7 +212,7 @@ Permite editar um campo genérico já cadastrado, com opção de exclusão.
 
 <p align='center'>
 <img src='img/07/Cadastro_Generico_Editar.jpg'><BR>
-Figura 39 – Tela de edição de um campo genérico existente
+Figura 40 – Tela de edição de um campo genérico existente
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
@@ -224,7 +228,7 @@ Permite listar os usuários já cadastrados, com opção de busca, e acesso às 
 
 <p align='center'>
 <img src='img/07/Usuarios_Listar.jpg'><BR>
-Figura 40 – Tela de listagem de usuários
+Figura 41 – Tela de listagem de usuários
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
@@ -241,7 +245,7 @@ Permite listar os usuários já cadastrados, com opção de busca, e acesso às 
 
 <p align='center'>
 <img src='img/07/Usuarios_Inserir.jpg'><BR>
-Figura 41 – Tela de inserção de um novo usuário
+Figura 42 – Tela de inserção de um novo usuário
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
@@ -257,7 +261,7 @@ Permite editar um usuário já cadastrado, com opção de exclusão.
 
 <p align='center'>
 <img src='img/07/Usuarios_Editar.jpg'><BR>
-Figura 42 – Tela de edição de um usuário existente
+Figura 43 – Tela de edição de um usuário existente
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
@@ -276,7 +280,7 @@ Permite listar os contatos realizados com uma pessoa.
 
 <p align='center'>
 <img src='img/07/Contato_Listar.jpg'><BR>
-Figura 43 – Tela de listagem de contatos realizados como uma pessoa
+Figura 44 – Tela de listagem de contatos realizados como uma pessoa
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
@@ -294,7 +298,7 @@ Permite inserir um novo contatos realizados com uma pessoa.
 
 <p align='center'>
 <img src='img/07/Contato_Inserir.jpg'><BR>
-Figura 44 – Tela de inserção de um contato realizado
+Figura 45 – Tela de inserção de um contato realizado
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
@@ -312,7 +316,7 @@ Permite editar um novo contatos realizados com uma pessoa.
 
 <p align='center'>
 <img src='img/07/Contato_Editar.jpg'><BR>
-Figura 45 – Tela de edição de um contato realizado
+Figura 46 – Tela de edição de um contato realizado
 </p>
 
 | Requisitos atendidos | Cópia do Requisito |
