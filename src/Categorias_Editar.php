@@ -29,9 +29,9 @@
 
 	function excluir(){
 		var bdd = new Banco_De_Dados();
-		var pessoa = {codigo: <?php echo $codigo; ?>};
+		var categoria = {codigo: <?php echo $codigo; ?>};
 		
-		bdd.deleteTabela("CATEGORIA", pessoa, "codigo");		
+		bdd.deleteTabela("CATEGORIA", categoria, "codigo");		
 		
 		var p = new Pergunta();
 		p.setarTitulo("Categoria excluída com sucesso.");		

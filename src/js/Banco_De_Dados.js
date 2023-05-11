@@ -148,8 +148,13 @@
 
 		/*
 			Busca um ou mais registros baseados nos atributos de objeto
+			nm_tbl: TABELA
+			objeto: objeto de busca {campo1: valor1, campo2: valor2)
+			pk: nome da chave primaria
+			buscaExata: like ou =?
+			dataSet: set de dados
 		*/
-		this.selectTabela = function(nm_tbl, objeto, pk, buscaExata, dataSet){
+		this.selectTabela = function(nm_tbl, objetobusca, pk, buscaExata, dataSet){
 							
 			if(buscaExata === undefined){
 				buscaExata = false;
@@ -159,7 +164,6 @@
 				pk = "codigo";
 			}
 
-						
 			this.numeroDeLinhasDaUltimaConsulta = 0;
 						
 			
@@ -167,6 +171,7 @@
 			if(this.ultimoCodigo(nm_tbl, pk) == 0){
 				return resposta;
 			}
+
 			
 			if(dataSet === undefined){
 				var todosRegistros = localStorage.getItem(nm_tbl);				
@@ -176,44 +181,55 @@
 			var v = JSON.parse(todosRegistros);
 			
 			
+			// Para cada registro
 			for(var i = 0; i <= v.length; i++){
+			
 				
 				if(v[i] != null){
-					
-					var lg_algum = false;
-					var qtde = 0;
+												
+					var int_algum = 0;
 					
 					// Se meu objeto de busca estiver vazio, é select sem where
-					if(Object.keys(objeto).length === 0){
-						var lg_algum = true;
+					if(Object.keys(objetobusca).length === 0){
+						var int_algum = 10000;
 					}
-
-					//Para cada campo da busca
-					for (const [key, value] of Object.entries(objeto)) {
 					
+					//Para cada campo da busca
+					for (const [campoBusca, valorBusca] of Object.entries(objetobusca)) {
+													
 						// Se for chave primária, tem que ser exatamente igual
-						if(key == pk){
-							if(value == v[i][pk]){
-								lg_algum = true;
+						if(campoBusca == pk){
+							
+							if(valorBusca == v[i][pk]){
+								int_algum++;
 							}
 						
 						}else{
-							
-							//Se não for chave primária, é like % X %							
-							if(key in v[i]){ //Se existe campo key no resultset
-																
-								let t = v[i][key] + ""; //Cast implicito para string
 														
+							//Se não for chave primária, é like % X %							
+							if(campoBusca in v[i]){ //Se existe campo key no resultset
+								
+								console.log('Buscando ' + campoBusca + ' (' + valorBusca + ') no resultset');
+																
+								let t = v[i][campoBusca]; 
+								
+								if(typeof t == 'number'){
+									t = t.toString();
+								}
+								console.log(' com valor ' + t );
+			
+															
 								if(buscaExata){
-									if( t === value ){
-										lg_algum = true;
-										qtde++;
+									
+									if( t == valorBusca ){
+										int_algum++;
+										console.log('Achou');
 									}
 								
 								}else{
 																
-									if( t.indexOf(value) >= 0 ){
-										lg_algum = true;
+									if( t.indexOf(valorBusca) >= 0 ){
+										int_algum++;
 									}
 								
 								}
@@ -221,15 +237,15 @@
 							}else{
 								
 								// Não existe campo key no result set. Se for *, pega todos
-								if(key == "*"){
+								if(campoBusca == "*"){
 									
 									// Para cada campo do resultset
 									for (const [key2, value2] of Object.entries(v[i])) {
 
 										var value3 = value2 + "";
 					
-										if( value3.indexOf(value) >= 0 ){
-											lg_algum = true;
+										if( value3.indexOf(valorBusca) >= 0 ){
+											int_algum++;
 										}
 
 									}
@@ -239,26 +255,21 @@
 								}
 							}
 						}
-					}						
+						
+					}
+
 					
-					if(lg_algum){
-						
-						if(buscaExata){
-							if(qtde == Object.keys(objeto).length){
-								resposta.push(v[i]);
-								this.numeroDeLinhasDaUltimaConsulta++;
-							}
-						}else{
-							resposta.push(v[i]);
-							this.numeroDeLinhasDaUltimaConsulta++;
-						}
-						
+					
+					if(int_algum >= Object.keys(objetobusca).length){
+						resposta.push(v[i]);
+						this.numeroDeLinhasDaUltimaConsulta++;
 					}
 					
 				}
 				
 			}				
 			
+
 			return resposta;		
 
 		}
@@ -269,14 +280,15 @@
 		*/
 		this.deleteTabela = function (nm_tbl, objeto, pk){
 			
-			// Retorna todos os registros com essa busca	
-			var d = this.selectTabela(nm_tbl, objeto, pk, true);
-			
-			for(i in d){
-				print_r(d[i]);
-			}	
-				
+			if(pk === undefined){
+				pk = "codigo";
+			}			
+							
 
+			// Retorna todos os registros com essa busca	
+			var d = this.selectTabela(nm_tbl, objeto, pk);
+
+				
 			// Para cada registro				
 			for(var i = 0; i < d.length; i++){
 
@@ -307,7 +319,7 @@
 						if(v[i][pk] != INT_PK){
 							novo.push(v[i]);
 						}else{
-							alert("Excluindo INT_PK " + INT_PK);
+							//alert("Excluindo INT_PK " + INT_PK);
 						}
 					}
 				}
