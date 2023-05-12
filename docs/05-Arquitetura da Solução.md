@@ -27,6 +27,7 @@ Todas as imagens, leiautes e códigos-fonte foram desenvolvidos pelos integrante
 | Tecnologia | Descrição | Extras |
 | --- | --- | --- | 
 | Linguagens utilizadas no desenvolvimento da solução | HTML, CSS, JavaScript, PHP | |
+| Bibliotecas de terceiros | JQuery | jquery.com |
 | IDEs de desenvolvimento | Visual Studio, Geany | https://visualstudio.com <BR> https://geany.org | 
 | Plataforma para hospedagem do sistema | VPS Locaweb | https://locaweb.com.br | 
 | Plataforma para hospedagem dos arquivos | GITHUB | https://github.com | 
