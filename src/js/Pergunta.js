@@ -1,9 +1,4 @@
-	/*
-		--- Versionamento ---		
-		15/02/2021 - Andrey - Primeira Versão
-		21/03/2021 - Andrey - Acerto no ="btn-primary"
-		--- Fim Versionamento ---
-	*/
+
 	
 	
 	function fecharPergunta(){
