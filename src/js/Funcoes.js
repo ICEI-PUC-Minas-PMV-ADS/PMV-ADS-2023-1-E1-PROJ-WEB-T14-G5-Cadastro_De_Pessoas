@@ -1,8 +1,3 @@
-	/*
-		--- Versionamento ---
-		13/04/2023 - Andrey - Primeira Versão
-		--- Fim Versionamento ---
-	*/
 
 
 	/*
