@@ -1,6 +1,10 @@
 
-	function Pessoa(){
-		
+	/*
+		Classe de pessoa, contendo validações
+	*/
+
+	function Pessoa(){		
+
 		this.CPFCNPJEstaCadastrado = function(cpfcnpj_){
 
 			var bdd = new Banco_De_Dados();
@@ -10,10 +14,9 @@
 			bdd.selectTabela("PESSOA", pessoa, "codigo", true);	
 			
 			return(bdd.numeroDeLinhasDaUltimaConsulta > 0);
-						
-
 			
 		}
+		
 		
 		this.nomeEstaCadastrado = function(nome_){
 			var bdd = new Banco_De_Dados();

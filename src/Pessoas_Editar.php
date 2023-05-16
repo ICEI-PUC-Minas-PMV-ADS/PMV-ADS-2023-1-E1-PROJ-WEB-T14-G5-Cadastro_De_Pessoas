@@ -13,7 +13,38 @@
 -->
 <SCRIPT>	
 	
+	function validar(){
+		
+		var p = new Pessoa();		
+		
+		if(valor('cpfcnpj') != ""){
+			
+			if(!CPFCNPJValido(valor('cpfcnpj'))){
+				alert('O CPF/CNPJ informado não é valido.');
+				return false;
+			}
+			
+			if(p.CPFCNPJEstaCadastrado(valor('cpfcnpj'))){
+				alerta('O CPF/CNPJ informado já está sendo utilizado por outra pessoa.');
+				return false;   
+			}
+		}
+	
+		if(p.nomeEstaCadastrado(valor('nome'))){
+		   	alerta('O nome informado já está sendo utilizado em outro registro.');
+			return false;   
+		}
+		
+		
+		return true;
+	}
+	
 	function salvar(){
+		
+		if(!validar()){
+			return;
+		}
+		
 		var bdd = new Banco_De_Dados();
 		var pessoa = {codigo: <?php echo $codigo; ?>, cpfcnpj: valor('cpfcnpj'), nome: valor('nome'), apelido: valor('apelido'), categoria: valor('categoria'), telefone: valor('telefone'), email: valor('email'), tipo_logradouro: valor('tipo_logradouro'), logradouro: valor('logradouro'), numero: valor('numero'), complemento: valor('complemento'), bairro: valor('bairro'), cidade: valor('cidade'),  uf: valor('uf'), cep: valor('cep')};		
 		bdd.updateTabela("PESSOA", pessoa, "codigo");		

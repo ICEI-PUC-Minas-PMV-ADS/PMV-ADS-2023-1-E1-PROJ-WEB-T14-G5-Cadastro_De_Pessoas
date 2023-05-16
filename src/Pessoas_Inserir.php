@@ -16,22 +16,40 @@
 		
 	}
 	
+	
+	/*
+		Valida os campos
+	*/
 	function validar(){
 		
-		var p = new Pessoa();
+		var p = new Pessoa();		
 		
-		if(p.CPFCNPJEstaCadastrado(valor('cpfcnpj')){
-		   	alerta('O CPF/CNPJ informado já está sendo utilizado por outra pessoa.');
-			return;   
+		if(valor('cpfcnpj') != ""){
+			
+			if(!CPFCNPJValido(valor('cpfcnpj'))){
+				alert('O CPF/CNPJ informado não é valido.');
+				return false;
+			}
+			
+			if(p.CPFCNPJEstaCadastrado(valor('cpfcnpj'))){
+				alerta('O CPF/CNPJ informado já está sendo utilizado por outra pessoa.');
+				return false;   
+			}
 		}
 	
-		if(p.nomeEstaCadastrado(valor('nome')){
+		if(p.nomeEstaCadastrado(valor('nome'))){
 		   	alerta('O nome informado já está sendo utilizado em outro registro.');
-			return;   
-		}	
+			return false;   
+		}
 		
+		
+		return true;
 	}
 	
+	
+	/*
+		
+	*/
 	function salvar(){
 		
 		if(!validar())

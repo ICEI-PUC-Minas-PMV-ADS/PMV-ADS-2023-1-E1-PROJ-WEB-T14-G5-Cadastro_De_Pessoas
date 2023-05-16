@@ -6,12 +6,14 @@
 		<!-- Carrega as funções -->		
 		<script type="text/javascript" src="/js/jquery-3.3.1.min.js"></script>
 		<script type="text/javascript" src="/js/Funcoes.js"></script>
+		<script type="text/javascript" src="/js/cpfcnpj.js"></script>			
 		
 		<!-- Carrega as funções específicas deste módulo -->
 		<script type="text/javascript" src="/js/Banco_De_Dados.js"></script>		
 		<script type="text/javascript" src="/js/Usuario.js"></script>		
 		<script type="text/javascript" src="/js/Pergunta.js"></script>		
 		<script type="text/javascript" src="/js/Pessoa.js"></script>		
+		
 		
 		<!-- Carrega a folha de estilos -->
 		<LINK REL='stylesheet' href='/css/Padrao.css'>
