@@ -11,8 +11,20 @@
 			
 			return(bdd.numeroDeLinhasDaUltimaConsulta > 0);
 						
-			return true;
+
 			
 		}
+		
+		this.nomeEstaCadastrado = function(nome_){
+			var bdd = new Banco_De_Dados();
+			
+			var pessoa = {nome: nome_};
+
+			bdd.selectTabela("PESSOA", pessoa, "codigo", true);	
+			
+			return(bdd.numeroDeLinhasDaUltimaConsulta > 0);
+	
+		}
+
 		
 	}
