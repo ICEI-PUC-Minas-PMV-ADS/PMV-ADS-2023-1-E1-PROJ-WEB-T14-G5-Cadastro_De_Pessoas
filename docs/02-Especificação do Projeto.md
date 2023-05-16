@@ -179,7 +179,7 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 | Código | Descrição |
 | --- | --- | 
 | RNF-1 | O sistema deverá permitir trabalhar de forma offline no celular. | 
-| RNF-2 | O sistema deverá permitir que se cadastre um milhão de pessoas. | 
+| RNF-2 | O sistema deverá permitir que se cadastre pelo menos 2 pessoas diferentes. | 
 | RNF-3 | Garantir boas práticas de desenvolvimento evitando um SQL Injection. |
 | RNF-4 | O sistema deverá estar em conformidade com a Lei Geral de Proteção de Dados. |
 | RNF-5 | O banco de dados deverá estar situado em um servidor Linux não compartilhado. |
