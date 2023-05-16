@@ -16,7 +16,26 @@
 		
 	}
 	
+	function validar(){
+		
+		var p = new Pessoa();
+		
+		if(p.CPFCNPJEstaCadastrado(valor('cpfcnpj')){
+		   	alerta('O CPF/CNPJ informado já está sendo utilizado por outra pessoa.');
+			return;   
+		}
+	
+		if(p.nomeEstaCadastrado(valor('nome')){
+		   	alerta('O nome informado já está sendo utilizado em outro registro.');
+			return;   
+		}	
+		
+	}
+	
 	function salvar(){
+		
+		if(!validar())
+			return;
 		
 		var bdd = new Banco_De_Dados();
 		var pessoa = {cpfcnpj: valor('cpfcnpj'), nome: valor('nome'), apelido: valor('apelido'), categoria: valor('categoria'), telefone: valor('telefone'), email: valor('email'), tipo_logradouro: valor('tipo_logradouro'), logradouro: valor('logradouro'), numero: valor('numero'), complemento: valor('complemento'), bairro: valor('bairro'), cidade: valor('cidade'),  uf: valor('uf'), cep: valor('cep')};
