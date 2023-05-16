@@ -1,7 +1,7 @@
 
 	function Pessoa(){
 		
-		this.verificarSeCPFCNPJEstaCadastrado = function(cpfcnpj_){
+		this.CPFCNPJEstaCadastrado = function(cpfcnpj_){
 
 			var bdd = new Banco_De_Dados();
 			
