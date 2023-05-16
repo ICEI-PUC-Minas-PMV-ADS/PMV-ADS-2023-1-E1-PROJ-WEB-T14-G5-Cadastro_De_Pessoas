@@ -45,7 +45,7 @@ Os requisitos para realização dos testes de software são:
     O sistema deverá exibir uma mensagem informando que alterou a senha do usuário.
     
 
-### CT-3 - Apenas usuários cadastrados podem se autenticar no sistema
+### CT-3 - Usuários não cadastrados não podem se autenticar no sistema
 
 - Requisitos associados:
     RF-4
@@ -62,7 +62,7 @@ Os requisitos para realização dos testes de software são:
     O sistema deverá exibir uma mensagem "Par CPF/Senha inválidos!"
     
 
-### CT-4 - Apenas usuários cadastrados podem se autenticar no sistema - Teste 2
+### CT-4 - Apenas usuários cadastrados podem se autenticar no sistema
 
 - Requisitos associados:
     RF-4
