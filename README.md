@@ -36,22 +36,11 @@ Ainda não está disponível
 <li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
 <li><a href="docs/05-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
 <li><a href="docs/06-Templates e Programação de Funcionalidades.md"> Templates e Programação de Funcionalidades</a></li>
-<!--
-<li><a href="docs/08-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
-<li><a href="docs/09-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
-<li><a href="docs/10-Plano de Testes de Usabilidade.md"> Plano de Testes de Usabilidade</a></li>
-<li><a href="docs/11-Registro de Testes de Usabilidade.md"> Registro de Testes de Usabilidade</a></li>
-<li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
-<li><a href="docs/13-Referências.md"> Referências</a></li>
--->
+<li><a href="docs/07-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
+<li><a href="docs/08-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
+<li><a href="docs/09-Plano de Testes de Usabilidade.md"> Plano de Testes de Usabilidade</a></li>
+<li><a href="docs/10-Registro de Testes de Usabilidade.md"> Registro de Testes de Usabilidade</a></li>
+<li><a href="docs/11-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
+<li><a href="docs/12-Referências.md"> Referências Bibliográficas</a></li>
+
 </ol>
-
-<!--
-# Código
-
-<li><a href="src/README.md">Código Fonte</a></li>
-
-# Apresentação
-
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
--->
