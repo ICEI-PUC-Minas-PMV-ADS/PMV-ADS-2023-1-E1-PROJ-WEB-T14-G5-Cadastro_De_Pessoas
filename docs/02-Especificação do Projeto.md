@@ -167,11 +167,11 @@ A tabela a seguir apresenta os requisitos funcionais do projeto e sua prioridade
 | RF-8 | O sistema deverá permitir ao usuário buscar pessoas por filtros. | Alta |
 | RF-9 | O sistema deverá permitir a exportação da listagem para o Excel. | Baixa | 
 | RF-10 | O sistema deverá permitir criar/inserir campos adicionais no cadastro de pessoas. | Baixa |
-| RF-11 | O sistema deverá permitir enviar mala direta para os grupos de pessoas selecionados. | Baixa |
+| RF-11 | O sistema deverá permitir que se cadastre pelo menos 2 pessoas diferentes. | Alto | 
 | RF-12 | O sistema deverá cadastrar/editar/excluir/listar usuários, e utiliza-los para autenticação. | Alto |
 | RF-13 | O sistema deverá criar um usuário quando não houver nenhum usuário | Alto |
 | RF-14 | O sistema deverá listar as pessoas quando a busca for feita pelo nome da categoria ou valor preenchido no campo genérico.  | Alto |
-| RF-15 | O sistema deverá permitir que se cadastre pelo menos 2 pessoas diferentes. | Alto | 
+
 
 
 ### 2.3.2 Requisitos Não Funcionais
