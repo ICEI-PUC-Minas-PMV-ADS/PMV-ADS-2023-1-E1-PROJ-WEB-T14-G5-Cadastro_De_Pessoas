@@ -98,7 +98,7 @@ Os requisitos para realização dos testes de software são:
     O sistema deverá exibir uma mensagem informando que a categoria foi cadastrada com sucesso. Esta categoria deverá constar na listagem inicial.
     
     
-### CT-5 - Cadastro de categorias - Edição
+### CT-6 - Cadastro de categorias - Edição
 - Requisitos associados:
     RF-2
 
@@ -117,7 +117,7 @@ Os requisitos para realização dos testes de software são:
     O sistema deverá exibir uma mensagem informando que a categoria foi editada com sucesso. Esta categoria deverá constar na listagem inicial com o nome alterado.
     
 
-### CT-6 - Cadastro de categorias - Exclusão
+### CT-7 - Cadastro de categorias - Exclusão
 - Requisitos associados:
     RF-2
 
@@ -132,7 +132,63 @@ Os requisitos para realização dos testes de software são:
     5) Clicar no botão de exclusão.
 
 - Critério de êxito:     
-    O sistema deverá exibir uma mensagem informando que a categoria foi excluída com sucesso. Esta categoria não deverá constar na listagem inicial com o nome alterado.  
+    O sistema deverá exibir uma mensagem informando que a categoria foi excluída com sucesso. Esta categoria não deverá constar na listagem inicial nem na inclusão ou ediç
+        
+    
+### CT-8 - Campos adicionais - Inclusão
+- Requisitos associados:
+    RF-10
+
+- Objetivos:
+    Garantir que o sistema vai permitir a inclusão de campos adicionais (campos genéricos) no cadastro de pessoas
+
+- Passos:
+    1) Realizar o login no sistema
+    2) Clicar no menu sanduíche
+    3) Clicar no botão "Campos Genéricos"
+    4) Na listagem de campos genéricos, clicar no botão de adicionar
+    5) Preencher um nome de campo, por exemplo, "Cor de Cabelo" (sic)
+    6) Clica no botão de salvar
+
+- Critério de êxito:     
+    O sistema deverá exibir uma mensagem informando que o campo genérico foi adicionado no sistema. Este campo deverá aparecer na listagem inicial da área de campos genéricos.
+    
+    
+### CT-9 - Campos adicionais - Edição
+- Requisitos associados:
+    RF-10
+
+- Objetivos:
+    Garantir que o sistema vai permitir editar um campo genérico cadastrado anteriormente.
+
+- Passos:
+    1) Realizar o login no sistema
+    2) Clicar no menu sanduíche
+    3) Clicar no botão "Campos Genéricos"
+    4) Na listagem de campos genéricos, selecionar um campo genérico a ser alterado. Por exemplo, "Cor de cabelo" (sic)
+    5) Alterar o nome do campo genérico para "Cor do cabelo" (sic)
+    6) Clica no botão de salvar
+
+- Critério de êxito:     
+    O sistema deverá exibir uma mensagem informando que o campo genérico foi editado com sucesso. Este campo deverá constar na listagem inicial da área de campos genéricos.
+    
+
+### CT-10 - Campos adicionais - Exclusão
+- Requisitos associados:
+    RF-10
+
+- Objetivos:
+    Garantir que o sistema vai permitir excluir um campo genérico cadastrado anteriormente
+
+- Passos:
+    1) Realizar o login no sistema
+    2) Clicar no menu sanduíche
+    3) Clicar no botão "Campos Genéricos"
+    4) Na listagem de campos genéricos, selecionar o campo a ser excluído.
+    5) Na tela de edição, clicar no botão de exclusão.
+
+- Critério de êxito:     
+    O sistema deverá exibir uma mensagem informando que o campo genérico foi excluído com sucesso. Este campo não deverá constar na listagem inicial, nem na tela de inclusão ou edição de pessoas. 
         
     
 
