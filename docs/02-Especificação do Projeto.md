@@ -169,7 +169,7 @@ A tabela a seguir apresenta os requisitos funcionais do projeto e sua prioridade
 | RF-10 | O sistema deverá permitir criar/inserir campos adicionais no cadastro de pessoas. | Baixa |
 | RF-11 | O sistema deverá permitir enviar mala direta para os grupos de pessoas selecionados. | Baixa |
 | RF-12 | O sistema deverá cadastrar/editar/excluir/listar usuários, e utiliza-los para autenticação. | Alto |
-| RF-13 | O sistema deverá criar um usuário quando não houver nenhum usu | Alto |
+| RF-13 | O sistema deverá criar um usuário quando não houver nenhum usuário | Alto |
 
 
 
