@@ -233,18 +233,3 @@ Os requisitos para realização dos testes de software são:
  
 
 
-
-
-Se for fazer em tabela......
-
-
-| **Caso de Teste** | 
-| **Requisito Associado** | 
-| **Objetivos** | 
-| **Passos** | 
-| **Critério de êxito** | 
-
-| **Caso de Teste** | 
-| **Requisito Associado** | 
-| **Objetivos** | 
-| **Passos** | 
