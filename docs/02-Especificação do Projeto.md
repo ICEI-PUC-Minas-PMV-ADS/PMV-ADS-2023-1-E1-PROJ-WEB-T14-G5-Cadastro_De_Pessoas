@@ -171,7 +171,7 @@ A tabela a seguir apresenta os requisitos funcionais do projeto e sua prioridade
 | RF-12 | O sistema deverá cadastrar/editar/excluir/listar usuários, e utiliza-los para autenticação. | Alto |
 | RF-13 | O sistema deverá criar um usuário quando não houver nenhum usuário | Alto |
 | RF-14 | O sistema deverá listar as pessoas quando a busca for feita pelo nome da categoria ou valor preenchido no campo genérico.  | Alto |
-
+| RF-15 | O sistema deverá permitir que se cadastre pelo menos 2 pessoas diferentes. | Alto | 
 
 
 ### 2.3.2 Requisitos Não Funcionais
@@ -179,15 +179,13 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 
 | Código | Descrição |
 | --- | --- | 
-| RNF-1 | O sistema deverá permitir trabalhar de forma offline no celular. | 
-| RNF-2 | O sistema deverá permitir que se cadastre pelo menos 2 pessoas diferentes. | 
-| RNF-3 | Garantir boas práticas de desenvolvimento evitando um SQL Injection. |
-| RNF-4 | O sistema deverá estar em conformidade com a Lei Geral de Proteção de Dados. |
-| RNF-5 | O banco de dados deverá estar situado em um servidor Linux não compartilhado. |
-| RNF-6 | O banco de dados deverá estar em um HD SSD para melhor desempenho. |
-| RNF-7 | O sistema deverá ter a interface mais simples, para uso em computadores ou celulares antigos. | Baixo |
-| RNF-8 | O programa não pode ultrapassar 50 MB. | Média |
-| RNF-9 | O banco de dados não poderá ultrapassar 5 MB, que é o limite do local storage. | Alta |
+| RNF-1 | Garantir boas práticas de desenvolvimento evitando um SQL Injection. |
+| RNF-2 | O sistema deverá estar em conformidade com a Lei Geral de Proteção de Dados. |
+| RNF-3 | O banco de dados deverá estar situado em um servidor Linux em um diretório não compartilhado. |
+| RNF-4 | O banco de dados deverá estar em um HD SSD para melhor desempenho. |
+| RNF-5 | O sistema deverá ter a interface mais simples, para uso em computadores ou celulares antigos. | Baixo |
+| RNF-6 | O programa não pode ultrapassar 50 MB. | Média |
+| RNF-7 | O banco de dados não poderá ultrapassar 5 MB, que é o limite do local storage. | Alta |
 
 
 
