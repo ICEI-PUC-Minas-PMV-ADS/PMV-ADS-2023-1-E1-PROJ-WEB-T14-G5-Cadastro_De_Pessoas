@@ -11,8 +11,7 @@
 			bdd.selectTabela("USUARIO", usuario, "codigo", true);	
 			
 			return(bdd.numeroDeLinhasDaUltimaConsulta > 0);
-						
-			return true;
+
 			
 		}
 		
