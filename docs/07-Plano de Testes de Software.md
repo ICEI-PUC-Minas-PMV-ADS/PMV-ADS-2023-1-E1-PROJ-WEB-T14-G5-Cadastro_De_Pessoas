@@ -192,6 +192,47 @@ Os requisitos para realização dos testes de software são:
         
     
 
+### CT-11 - Pessoas - Inclusão
+ 
+### CT-12 - Pessoas - Edição
+
+### CT-13 - Pessoas - Excluir
+
+### CT-14 - Busca de pessoas por campos genéricos ou categorias
+- Requisitos associados:
+    RF-14
+
+- Objetivos:
+    Garantir que o sistema vai permitir buscar por pessoas através da busca de categorias ou campos genéricos
+
+- Passos:
+    1) Realizar o login no sistema
+    2) Clicar no menu sanduíche
+    3) Clicar no botão "Pessoas"
+    4) Na listagem de pessoas, informar no campo de busca o nome de uma categoria já vinculada a uma pessoa ou valor preenchido do campo genérico.
+
+- Critério de êxito:     
+    O sistema deverá exibir as pessoas vinculadas à categoria digitada ou valor do campo genérico.
+ 
+### CT-15 - Exportação para excel
+- Requisitos associados:
+    RF-9
+
+- Objetivos:
+    Garantir que o sistema vai gerar um documento compatível com excel ou libreoffice, formato csv, contendo alguns dados as pessoas cadastradas e filtradas na listagem.
+
+- Passos:
+    1) Realizar o login no sistema
+    2) Clicar no menu sanduíche
+    3) Clicar no botão "Pessoas"
+    4) Na listagem de pessoas, informar uma busca, seja por nome, categoria ou valor de campo genérico.
+    5) Clicar no botão de exportação para Excel.
+
+- Critério de êxito:     
+    O navegador de internet irá apresentar o download com o CSV contendo os dados das pessoas filtradas.
+ 
+
+
 
 
 Se for fazer em tabela......
