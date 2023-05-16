@@ -158,7 +158,7 @@ A tabela a seguir apresenta os requisitos funcionais do projeto e sua prioridade
 | Código | Descrição | Prioridade |
 | --- | --- | --- |
 | RF-1 | O sistema deverá cadastrar pessoas físicas ou jurídicas, contendo todos os dados como nome completo, CPF ou CNPJ, telefones e endereço. | Alta |
-| RF-2 | O sistema deverá inserir categorias para serem vinculadas às pessoas, podendo uma pessoa estar vinculada a mais de uma categoria. | Alta |
+| RF-2 | O sistema deverá inserir categorias para serem vinculadas às pessoas | Alta |
 | RF-3 | O sistema deverá registrar o histórico de contatos realizados com as pessoas, informando por qual meio (e-mail, telefone, etc). | Baixa |
 | RF-4 | O sistema não poderá funcionar sem autenticação. | Alta|
 | RF-5 | O sistema deverá permitir que os usuários recuperam sua senha. | Alta | 
