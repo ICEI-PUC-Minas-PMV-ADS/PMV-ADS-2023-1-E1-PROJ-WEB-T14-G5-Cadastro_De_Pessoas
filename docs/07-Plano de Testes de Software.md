@@ -1,6 +1,6 @@
 # Plano de Testes de Software
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
+Os cenários de testes apresentados demonstram os requisitos sendo satisfeitos.
 
 ## Requisitos para realização dos testes
 
