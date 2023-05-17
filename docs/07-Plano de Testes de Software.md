@@ -23,7 +23,7 @@ Os requisitos para realização dos testes de software são:
     1) Abrir o sistema 
     2) Clicar no botão entrar
 
-- Critério de êxito:     
+- Critério de êxito: (resultado esperado)     
     O sistema deverá mostrar uma mensagem dizendo que o usuário 00000000000 foi criado, com senha em branco
     
 
