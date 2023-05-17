@@ -45,6 +45,13 @@
 			<TD><B>Usuários</B><BR>Permite editar os usuários</TD>
 		</TR>
 	</TABLE>	
+		
+	<TABLE onClick="javascript:gotoURL('/Sobre.php')" class='botao_opcao'>
+		<TR>
+			<TD><img src='/Imagens/Opcoes.png'></TD>
+			<TD><B>Sobre o sistema</B><BR>Conheça as motivações para o desenvolvimento deste software e a equipe de desenvolvimento</TD>
+		</TR>
+	</TABLE>			
 	
 	<TABLE onClick="javascript:sair()" class='botao_opcao'>
 		<TR>
