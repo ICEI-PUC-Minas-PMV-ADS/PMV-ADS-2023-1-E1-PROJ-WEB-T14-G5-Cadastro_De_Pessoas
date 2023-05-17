@@ -24,17 +24,8 @@
 				return false;
 			}
 			
-			if(p.CPFCNPJEstaCadastrado(valor('cpfcnpj'))){
-				alerta('O CPF/CNPJ informado já está sendo utilizado por outra pessoa.');
-				return false;   
-			}
 		}
 	
-		if(p.nomeEstaCadastrado(valor('nome'))){
-		   	alerta('O nome informado já está sendo utilizado em outro registro.');
-			return false;   
-		}
-		
 		
 		return true;
 	}
