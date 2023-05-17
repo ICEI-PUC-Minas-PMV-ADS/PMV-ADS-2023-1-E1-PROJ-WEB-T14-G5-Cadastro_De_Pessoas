@@ -232,6 +232,25 @@ Os requisitos para realização dos testes de software são:
     O navegador de internet irá apresentar o download com o CSV contendo os dados das pessoas filtradas.
  
 
+### CT-16 - Entrada de Dados com caracteres especiais
+- Requisitos associados:
+    RNF-1
+
+- Objetivos:
+    Garantir que o sistema vai permitir a inclusão de dados com aspas e caracteres especiais.
+
+- Passos:
+    1) Realizar o login no sistema
+    2) Clicar no menu sanduíche
+    3) Clicar no botão "Pessoas"
+    4) Na listagem de pessoas, clicar no botão de adicionar
+    5) Informar um nome com aspas
+    6) Clicar em salvar
+
+- Critério de êxito:     
+    O navegador de internet irá apresentar a mensagem que o nome foi salvo com sucesso, e o nome deverá persistir na íntegra da forma digitada.
+ 
+
 
 
 
