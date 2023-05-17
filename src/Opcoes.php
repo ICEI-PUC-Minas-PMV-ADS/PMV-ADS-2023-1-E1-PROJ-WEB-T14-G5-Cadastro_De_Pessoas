@@ -49,7 +49,7 @@
 	<TABLE onClick="javascript:gotoURL('/Sobre.php')" class='botao_opcao'>
 		<TR>
 			<TD><img src='/Imagens/Opcoes.png'></TD>
-			<TD><B>Sobre o sistema</B><BR>Conheça as motivações para o desenvolvimento deste software e a equipe de desenvolvimento</TD>
+			<TD><B>Sobre o sistema</B><BR>Conheça as motivações para o desenvolvimento deste software e sua equipe</TD>
 		</TR>
 	</TABLE>			
 	
