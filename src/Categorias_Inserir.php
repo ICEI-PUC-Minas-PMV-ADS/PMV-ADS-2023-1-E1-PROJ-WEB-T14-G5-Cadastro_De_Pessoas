@@ -16,7 +16,26 @@
 		
 	}
 	
+	function validar(){
+		
+		var c = new Categoria();
+		
+		if(c.nomeEstaCadastrado(valor('nome'))){
+			alerta("O nome informado já está cadastrado em outra categoria.");
+			return false;
+		}
+		
+		return true;
+		
+		
+	}
+	
 	function salvar(){
+		
+		
+		if(!validar()){
+			return;
+		}
 		
 		var bdd = new Banco_De_Dados();
 		var categoria = {nome: valor('nome')};

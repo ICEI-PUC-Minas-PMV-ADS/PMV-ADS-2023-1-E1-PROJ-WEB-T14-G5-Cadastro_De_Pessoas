@@ -25,6 +25,11 @@
 			}
 			
 		}
+		
+		if(valor('nome') == ""){
+			alerta("Você precisa informar um nome para esta pessoa.");
+			return false;
+		}
 	
 		
 		return true;

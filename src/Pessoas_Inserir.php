@@ -22,6 +22,12 @@
 	*/
 	function validar(){
 		
+		
+		if(valor('nome') == ""){
+			alerta("Você precisa informar um nome para esta pessoa.");
+			return false;
+		}		
+		
 		var p = new Pessoa();		
 		
 		if(valor('cpfcnpj') != ""){

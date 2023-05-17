@@ -13,6 +13,7 @@
 		<script type="text/javascript" src="/js/Usuario.js"></script>		
 		<script type="text/javascript" src="/js/Pergunta.js"></script>		
 		<script type="text/javascript" src="/js/Pessoa.js"></script>		
+		<script type="text/javascript" src="/js/Categoria.js"></script>	
 		
 		
 		<!-- Carrega a folha de estilos -->

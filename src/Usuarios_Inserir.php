@@ -13,14 +13,31 @@
 		gotoURL("Usuarios_Editar.php?cpf=" + cpf);
 		
 	}
+
+	function validar(){
+
+		if(valor('senha') != valor('senha2')){
+			alerta('As senhas devem ser iguais.');
+			return false;
+		}
+		
+		var u = new Usuario();
+		if(u.verificarSeCPFExiste(valor('cpf'))){
+			alerta("Um usuário com este CPF já se encontra cadastrado no sistema.");
+			return false;
+		}		
+		
+		return true;
+
+	}
+
 	
 	function salvar(){
 		
-		// Validacoes
-		if(valor('senha') != valor('senha2')){
-			alerta('As senhas devem ser iguais.');
+		if(!validar()){
 			return;
 		}
+		
 		
 		var bdd = new Banco_De_Dados();
 		var usuario = {nome: valor('nome'), cpf: valor('cpf'), senha: valor('senha')};
