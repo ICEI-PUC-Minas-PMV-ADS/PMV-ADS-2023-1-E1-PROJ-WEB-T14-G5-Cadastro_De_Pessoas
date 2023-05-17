@@ -4,7 +4,11 @@ Para cada caso de teste definido no Plano de Testes do Software foi realizado um
 
 
 ### CT-13 – Fazer o login com sucesso.
-Link pro video
+    
+- Resultado obtido:
+    Pegou erro ou n
+    
+Link pro video ou captura de tela
 
 ### CT-14 – Falhar ao fazer login com e-mail inválido.
 Link pro video
