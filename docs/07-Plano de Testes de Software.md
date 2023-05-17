@@ -26,6 +26,10 @@ Os requisitos para realização dos testes de software são:
 - Critério de êxito: (resultado esperado)     
     O sistema deverá mostrar uma mensagem dizendo que o usuário 00000000000 foi criado, com senha em branco
     
+- Resultado obtido:
+    Pegou erro ou n
+    Print da tela
+   
 
 ### CT-2 - Recuperação de senha de um usuário cadastrado anteriormente
 
