@@ -28,7 +28,7 @@ Os requisitos para realização dos testes de software são:
     
 - Resultado obtido:
     Pegou erro ou n
-    Print da tela
+
    
 
 ### CT-2 - Recuperação de senha de um usuário cadastrado anteriormente
