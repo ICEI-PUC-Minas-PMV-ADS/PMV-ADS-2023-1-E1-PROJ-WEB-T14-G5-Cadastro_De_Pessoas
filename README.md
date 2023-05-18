@@ -38,9 +38,7 @@ Ainda não está disponível
 <li><a href="docs/06-Templates e Programação de Funcionalidades.md"> Templates e Programação de Funcionalidades</a></li>
 <li><a href="docs/07-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
 <li><a href="docs/08-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
-<li><a href="docs/09-Plano de Testes de Usabilidade.md"> Plano de Testes de Usabilidade (PRECISA DISSO?)</a></li>
-<li><a href="docs/10-Registro de Testes de Usabilidade.md"> Registro de Testes de Usabilidade (PRECISA DISSO?)</a></li>
-<li><a href="docs/11-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
-<li><a href="docs/12-Referências.md"> Referências Bibliográficas</a></li>
+<li><a href="docs/09-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
+<li><a href="docs/10-Referências.md"> Referências Bibliográficas</a></li>
 
 </ol>
