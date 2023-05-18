@@ -132,7 +132,7 @@ Os cenários de testes apresentados demonstram se os requisitos foram satisfeito
 <img src='img/Testes_Realizados/CT16.png'><BR>
 </p>
 
-## CT-17 - Pessoas com nome repetido na tela de edição
+## CT-17 - Pessoas com cpf/cnpj repetido na tela de edição
 - Resultado obtido: Não passou no teste
 - Testado por: Leonardo Ferreira
 
