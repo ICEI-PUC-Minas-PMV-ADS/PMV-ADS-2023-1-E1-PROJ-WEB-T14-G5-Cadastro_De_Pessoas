@@ -12,7 +12,7 @@ Os cenários de testes apresentados demonstram se os requisitos foram satisfeito
 
 ## CT-2 - Recuperação de senha de um usuário cadastrado anteriormente
 - Resultado obtido: Passou no teste
-- Testado por: Bárbara
+- Testado por: Andrey
 
 <p align='center'>
 <img src='img/Testes_Realizados/CT2.png'><BR>
@@ -20,7 +20,7 @@ Os cenários de testes apresentados demonstram se os requisitos foram satisfeito
 
 ## CT-3 - Usuários não cadastrados não podem se autenticar no sistema
 - Resultado obtido: Passou no teste
-- Testado por: Bárbara
+- Testado por: Leonardo Santos
 
 <p align='center'>
 <img src='img/Testes_Realizados/CT3.png'><BR>
@@ -28,7 +28,7 @@ Os cenários de testes apresentados demonstram se os requisitos foram satisfeito
     
 ## CT-4 - Apenas usuários cadastrados podem se autenticar no sistema
 - Resultado obtido: Passou no teste
-- Testado por: Bárbara
+- Testado por: Leonardo Ferreira
 
 <p align='center'>
 <img src='img/Testes_Realizados/CT4.1.png'><BR>
@@ -37,7 +37,7 @@ Os cenários de testes apresentados demonstram se os requisitos foram satisfeito
 
 ## CT-5 - Cadastro de categorias - Inclusão
 - Resultado obtido: Passou no teste
-- Testado por: Bárbara
+- Testado por: Evellyn
 
 <p align='center'>
 <img src='img/Testes_Realizados/CT5.png'><BR>
@@ -45,7 +45,7 @@ Os cenários de testes apresentados demonstram se os requisitos foram satisfeito
 
 ## CT-6 - Cadastro de categorias - Edição
 - Resultado obtido: Passou no teste
-- Testado por: Bárbara
+- Testado por: Andrey
 
 <p align='center'>
 <img src='img/Testes_Realizados/CT6.png'><BR>
@@ -61,7 +61,7 @@ Os cenários de testes apresentados demonstram se os requisitos foram satisfeito
 
 ## CT-8 - Campos adicionais - Inclusão
 - Resultado obtido: Passou no teste
-- Testado por: Bárbara
+- Testado por: Thiago
 
 <p align='center'>
 <img src='img/Testes_Realizados/CT8.png'><BR>
@@ -69,7 +69,7 @@ Os cenários de testes apresentados demonstram se os requisitos foram satisfeito
     
 ## CT-9 - Campos adicionais - Edição
 - Resultado obtido: Passou no teste
-- Testado por: Bárbara
+- Testado por: Leonardo Santos
 
 <p align='center'>
 <img src='img/Testes_Realizados/CT9.png'><BR>
@@ -77,7 +77,7 @@ Os cenários de testes apresentados demonstram se os requisitos foram satisfeito
 
 ## CT-10 - Campos adicionais - Exclusão
 - Resultado obtido: Passou no teste
-- Testado por: Bárbara     
+- Testado por: Leonardo Ferreira     
 
 <p align='center'>
 <img src='img/Testes_Realizados/CT10.png'><BR>
@@ -85,7 +85,7 @@ Os cenários de testes apresentados demonstram se os requisitos foram satisfeito
 
 ## CT-11 - Pessoas - Inclusão
 - Resultado obtido: Passou no teste
-- Testado por: Bárbara
+- Testado por: Evellyn
 
 <p align='center'>
 <img src='img/Testes_Realizados/CT11.png'><BR>
@@ -93,7 +93,7 @@ Os cenários de testes apresentados demonstram se os requisitos foram satisfeito
  
 ## CT-12 - Pessoas - Edição
 - Resultado obtido: Passou no teste
-- Testado por: Bárbara
+- Testado por: Andrey
 
 <p align='center'>
 <img src='img/Testes_Realizados/CT12.png'><BR>
@@ -101,7 +101,7 @@ Os cenários de testes apresentados demonstram se os requisitos foram satisfeito
 
 ## CT-13 - Pessoas - Excluir
 - Resultado obtido: Passou no teste
-- Testado por: Bárbara
+- Testado por: Thiago
 
 <p align='center'>
 <img src='img/Testes_Realizados/CT13.png'><BR>
@@ -117,7 +117,7 @@ Os cenários de testes apresentados demonstram se os requisitos foram satisfeito
 
 ## CT-15 - Exportação para excel
 - Resultado obtido: Passou no teste
-- Testado por: Bárbara
+- Testado por: Evellyn
 
 <p align='center'>
 <img src='img/Testes_Realizados/CT15.png'><BR>
@@ -126,15 +126,15 @@ Os cenários de testes apresentados demonstram se os requisitos foram satisfeito
 
 ## CT-16 - Entrada de Dados com caracteres especiais
 - Resultado obtido: Passou no teste
-- Testado por: Bárbara
+- Testado por: Evellyn
 
 <p align='center'>
 <img src='img/Testes_Realizados/CT16.png'><BR>
 </p>
 
 ## CT-17 - Pessoas com nome repetido na tela de edição
-- Resultado obtido: Passou no teste
-- Testado por: Bárbara
+- Resultado obtido: Não passou no teste
+- Testado por: Leonardo Ferreira
 
 <p align='center'>
 <img src='img/Testes_Realizados/CT17.1.png'><BR>
