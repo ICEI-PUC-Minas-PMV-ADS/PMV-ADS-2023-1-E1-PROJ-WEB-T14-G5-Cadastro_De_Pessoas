@@ -1,12 +1,13 @@
-# Plano de Testes de Software
+# 7. Plano de Testes de Software
 
-Os cenários de testes apresentados demonstram os requisitos sendo satisfeitos.
+O plano de teste aqui apresentado apresenta a relação de casos de testes a serem realizados.
 
 ## Requisitos para realização dos testes
 
 Os requisitos para realização dos testes de software são:
-    - Computador ou smartphone com acesso a um navegador de internet.    
-    - Conectividade de Internet para acesso ao sistema
+
+- Computador ou smartphone com acesso a um navegador de internet.    
+- Conectividade de Internet para acesso ao sistema
     
 ## Casos de teste
 
@@ -46,7 +47,7 @@ Os requisitos para realização dos testes de software são:
 ### CT-3 - Usuários não cadastrados não podem se autenticar no sistema
 
 - Requisitos associados:
-    RF-4
+  - RF-4
 
 - Objetivos:
     Garantir que apenas usuários cadastrados podem entrar no sistema

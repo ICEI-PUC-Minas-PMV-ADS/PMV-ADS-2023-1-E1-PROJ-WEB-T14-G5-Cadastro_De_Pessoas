@@ -103,6 +103,7 @@
 				s += "<DIV id='itemListaBusca'>";												
 					s += "<DIV>Código: " + resposta[i].codigo + "</DIV>";
 					s += "<DIV>Nome: "    + resposta[i].nome + "</DIV>";
+					s += "<DIV>CPF/CNPJ: "    + resposta[i].cpfcnpj + "</DIV>";
 					s += "<DIV>Apelido: " + resposta[i].apelido + "</DIV>";
 				
 				//Excel
