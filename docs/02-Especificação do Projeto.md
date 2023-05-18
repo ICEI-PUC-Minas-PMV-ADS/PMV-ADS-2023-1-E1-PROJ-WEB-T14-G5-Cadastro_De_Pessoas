@@ -196,7 +196,7 @@ A tabela a seguir apresenta os requisitos de negócios que o projeto deverá ate
 | --- | --- | --- | 
 | RN-1 | Todos os usuários autenticados no sistema podem criar campos genéricos. | Alta |
 | RN-2 | Os campos adicionais criados pelos usuários não podem ter os nomes repetidos. | Baixa |
-| RN-3 | Não se pode cadastrar mais de uma pessoa com o mesmo nome completo repetidamente. | Média |
+| RN-3 | Não se pode cadastrar mais de uma pessoa com o mesmo cpf ou cnpj repetidamente. | Média |
 | RN-4 | O nome da pessoa deve ser obrigatório. | Alta |
 | RN-5 | Todos os CPFs e CNPJs das pessoas cadastradas devem ser validados.| Alta |
 | RN-6 | Cada pessoa deverá ter um código incremental único. | Alta | 

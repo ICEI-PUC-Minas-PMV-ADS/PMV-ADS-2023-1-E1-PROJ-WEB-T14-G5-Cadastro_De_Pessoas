@@ -297,7 +297,7 @@ Os requisitos para realização dos testes de software são:
 - Resultado esperado:      
     O navegador de internet irá apresentar a mensagem que o nome foi salvo com sucesso, e o nome deverá persistir na íntegra da forma digitada.
  
-### CT-17 - Pessoas com nome repetido
+### CT-17 - Pessoas com CPF/CNPJ repetido
 - Requisitos associados:
     RN-3
 
