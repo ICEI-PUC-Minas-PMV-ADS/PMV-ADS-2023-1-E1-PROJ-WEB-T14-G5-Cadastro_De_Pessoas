@@ -33,6 +33,10 @@
 		
 	}
 	
+	
+	function adicionar(){
+		gotoURL("/Pessoa_Inserir_Contato.php?codigoPessoa=" + codigoPessoa);
+	}	
 
 	function excluir(){
 		var bdd = new Banco_De_Dados();
@@ -107,6 +111,7 @@
 
 <DIV id='rodape'>
 	<a href='javascript:voltarParaLista()'><img src='/Imagens/VoltarParaListagem.png'></a>
+	<a href='javascript:adicionar()'><img src='/Imagens/Adicionar.png'></a>
 	<a href='javascript:salvar()'><img src='/Imagens/Salvar.png'></a>
 	<a href='javascript:excluir()'><img src='/Imagens/Excluir.png'></a>	
 </DIV>

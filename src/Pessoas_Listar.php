@@ -33,10 +33,14 @@
 		var bdd = new Banco_De_Dados();
 
 		var todosRegistros = localStorage.getItem("PESSOA");
+		
+		if(todosRegistros === null){
+			return "[]";
+		}
 
 		var v = JSON.parse(todosRegistros);
 
-		for(var i = 0; i <= v.length; i++){
+		for(var i = 0; i < v.length; i++){
 
 			if(v[i] != null){
 				
