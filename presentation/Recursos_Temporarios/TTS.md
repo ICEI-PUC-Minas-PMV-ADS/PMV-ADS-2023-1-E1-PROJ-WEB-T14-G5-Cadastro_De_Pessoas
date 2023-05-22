@@ -1,7 +1,7 @@
 Curso de Análise e Desenvolvimento de Sistemas 2023.
 Eixo 1, Turma 14, Grupo 2.
 
-Cadastro de Pessoas.
+O nosso projeto é o sistema de Cadastro de Pessoas, que tem como objetivo permitir cadastrar os contatos da sua empresa de forma moderna e organizada.
 
 Na tela de loguín você pode entrar no sistema com o usuário e senha já definido.
 
