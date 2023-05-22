@@ -3,7 +3,7 @@ Eixo 1, Turma 14, Grupo 2.
 
 Cadastro de Pessoas.
 
-Na tela de loguín você pode entrar no sistema com o usuário e senha já definido.
+Na tela de entrada do sistema, você pode entrar no sistema com o usuário e senha já definido.
 
 O sistema irá criar um usuário automaticamente caso nenhum já tenha sido cadastrado. Você também poderá recuperar sua senha em caso de peêrda, clicando no link "Esqueci minha senha".
 
