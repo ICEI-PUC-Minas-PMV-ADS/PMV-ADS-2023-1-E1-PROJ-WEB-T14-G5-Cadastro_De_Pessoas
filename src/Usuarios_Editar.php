@@ -38,7 +38,7 @@
 		var bdd = new Banco_De_Dados();
 		var usuario = {cpf: <?php echo $cpf; ?>};
 		
-		bdd.deleteTabela("USUARIO", usuario, "codigo");		
+		bdd.deleteTabela("USUARIO", usuario, "cpf");		
 		
 		var p = new Pergunta();
 		p.setarTitulo("Usuário excluído com sucesso.");		
