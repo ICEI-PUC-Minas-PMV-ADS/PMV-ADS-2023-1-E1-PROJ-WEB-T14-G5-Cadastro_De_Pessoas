@@ -135,7 +135,7 @@ Figura 61 - Resultado do teste CT-14
 - Testado por: Evellyn
 
 <p align='center'>
-<img src='img/Testes_Realizados/CT15.png'><BR>
+<img src='img/Testes_Realizados/CT15.1.png'><BR>
 Figura 62 - Resultado do teste CT-15.1<BR>  
 <img src='img/Testes_Realizados/CT15.2.png'><BR>
     Figura 63 - Resultado do teste CT-15.2
