@@ -1,0 +1,126 @@
+<script src="https://code.jquery.com/jquery-1.11.3.js"></script>
+
+
+<TABLE id='tabela'>
+	
+	<TR>
+		<TD id='q1'></TD>
+		<TD id='q2'></TD>
+		<TD id='q3'></TD>
+	</TR>
+	<TR>
+		<TD id='q4'></TD>
+		<TD id='q5'></TD>
+		<TD id='q6'></TD>
+	</TR>
+	
+</TABLE>	
+
+
+<img src='2.png' id='i2'>
+<img src='3.png' id='i3'>
+<img src='4.png' id='i4'>
+<img src='5.png' id='i5'>
+<img src='6.png' id='i6'>
+<img src='1.png' id='i1'>
+<img src='Logotipo.png' id='logotipo'>
+
+<div id='cdp'>Cadastro de Pessoas</div>
+
+<STYLE>
+	
+	#i1, #i2, #i3, #i4, #i5, #i6{	
+		position: absolute;	 
+		top: 120px;
+		left: 270px;
+		width:250px;
+		opacity: .2;
+	}
+	
+	#q1, #q2, #q3, #q4, #q5, #q6{
+		border: 0px solid #000;
+	}
+	
+	
+	#logotipo{
+		position: absolute;
+		top: 10px;
+		height: 10px;
+		width: 760px;
+		height: 500px;
+		opacity: 0;
+	}
+	
+	#cdp{
+		position: absolute;
+		left:160;
+		top: 390;
+		font-size: 50px;
+		opacity: 0;
+		font-weight: bold;
+	}
+	
+	#tabela{
+		
+	}	
+		
+</STYLE>
+
+
+
+<SCRIPT>
+
+	// Tamanho da tabela
+	for(var i = 1; i <= 6; i++){
+		$("#q" + i).css("height", $("#i" + i).css("height") );
+		$("#q" + i).css("width", $("#i" + i).css("width") );
+	}
+	
+	//
+	
+
+	// Animação	
+	window.setTimeout(function(){
+		
+		for(var i = 1; i <= 6; i++){
+			$("#i" + i).animate({});
+		}
+		
+	
+		for(var i = 1; i <= 6; i++){
+			
+			var p = $("#q" + i).position();
+							
+			$("#i" + i).animate({top: p.top, left: p.left, opacity: 1}, (i * 200) + 200);
+			
+			
+		
+		}		
+		
+		$("#tabela").css("display", "none");
+		
+	}, 300)
+	
+	
+	window.setTimeout(function(){
+									
+		for(var i = 1; i <= 6; i++){
+			$("#i" + i).animate({opacity: 0}, 1000)
+		}			
+			
+		$("#logotipo").animate({opacity: 100}, 6000)
+			
+		
+									
+	}, 3000);
+	
+
+	window.setTimeout(function(){
+		$("#logotipo").stop();
+		$("#logotipo").animate({width: 600, height: 373, left:100}, 1000)
+		$("#cdp").delay(700).animate({opacity:1}, 700)
+			
+	}, 3700);		
+
+	
+</SCRIPT>	
