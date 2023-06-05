@@ -1,0 +1,14 @@
+# Referências Bibliográficas
+
+W3Schools. HTML5 Web Storage. Disponível em: https://www.w3schools.com/html/html5_webstorage.asp. Acesso em: 5 jun. 2023.
+
+OpenShot. OpenShot Video Editor. Disponível em: https://www.openshot.org/pt/. Acesso em: 5 jun. 2023.
+
+GIMP. The Free & Open Source Image Editor. Disponível em: https://www.gimp.org/. Acesso em: 5 jun. 2023.
+
+PHP. PHP: Hypertext Preprocessor. Disponível em: https://www.php.net/. Acesso em: 5 jun. 2023.
+
+ABNT - Associação Brasileira de Normas Técnicas. Disponível em: https://www.abnt.org.br/. Acesso em: 5 jun. 2023.
+
+Locaweb. VPS Locaweb - Servidor Virtual Cloud. Disponível em: https://www.locaweb.com.br/cloud/vps-locaweb/. Acesso em: 5 jun. 2023.
+
