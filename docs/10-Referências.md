@@ -4,6 +4,8 @@ GIMP. The Free & Open Source Image Editor. Disponível em: https://www.gimp.org/
 
 Inkscape. Software Livre de Editoração Eletrônica. Disponível em: https://inkscape.org/pt-br/. Acesso em: 5 jun. 2023.
 
+LibreOffice. LibreOffice Draw. Disponível em: https://pt-br.libreoffice.org/descubra/draw/. Acesso em: 5 jun. 2023.
+
 Marvel App. Disponível em: https://marvelapp.com/. Acesso em: 5 jun. 2023.
 
 W3Schools. HTML5 Web Storage. Disponível em: https://www.w3schools.com/html/html5_webstorage.asp. Acesso em: 5 jun. 2023.
