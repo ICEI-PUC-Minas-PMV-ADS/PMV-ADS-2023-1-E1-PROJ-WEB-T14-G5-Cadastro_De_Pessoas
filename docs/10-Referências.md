@@ -20,3 +20,4 @@ OpenShot. OpenShot Video Editor. Disponível em: https://www.openshot.org/pt/. A
 
 ABNT - Associação Brasileira de Normas Técnicas. Disponível em: https://www.abnt.org.br/. Acesso em: 5 jun. 2023.
 
+WIKIPÉDIA. UML. In: WIKIPÉDIA: a enciclopédia livre. São Paulo: Wikimedia Foundation, 2021. Disponível em: https://pt.wikipedia.org/wiki/UML. Acesso em: 5 jun. 2023.
