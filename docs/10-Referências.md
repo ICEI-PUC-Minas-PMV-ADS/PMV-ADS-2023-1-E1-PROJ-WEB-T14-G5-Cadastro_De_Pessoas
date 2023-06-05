@@ -1,4 +1,4 @@
-# Referências Bibliográficas
+# 11. Referências Bibliográficas
 
 GIMP. The Free & Open Source Image Editor. Disponível em: https://www.gimp.org/. Acesso em: 5 jun. 2023.
 
