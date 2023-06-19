@@ -4,5 +4,5 @@ PDF:
   <a href='../presentation/Pres.pdf'>Apresentação em PDF</a>
 
 Vídeo:
-  <a href='../presentation/PUC.mp4' target='_blank'>Apresentação em PDF</a>
+  <a href='../presentation/PUC.mp4'>Apresentação em PDF</a>
 
