@@ -1,4 +1,4 @@
-# 9. APRESENTAÇÃO DO PROJETOI
+# 9. APRESENTAÇÃO DO PROJETO
 
 PDF:
   <a href='../presentation/Pres.pdf'>Apresentação em PDF</a>
