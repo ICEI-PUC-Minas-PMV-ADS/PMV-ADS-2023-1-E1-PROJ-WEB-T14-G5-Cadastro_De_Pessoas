@@ -31,6 +31,7 @@ Centro auto: Proprietários e marcas que possuem.
 Ah Andrey: Eu tenho Loja de sapato: Cliente e número do calçado.
 
 
-
+Interface:
+Tela de login, com recuperação e criação automática de login: LocalStorage nao tem usuario.
 
 
