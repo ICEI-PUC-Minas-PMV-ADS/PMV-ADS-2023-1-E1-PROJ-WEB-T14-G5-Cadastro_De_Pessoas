@@ -28,7 +28,7 @@ Por exemplo:
 Hotel: Clientes,
 Clinica médica: Pacientes
 Centro auto: Proprietários e marcas que possuem.
-Loja de sapato: Cliente e número do calçado.
+Ah Andrey: Eu tenho Loja de sapato: Cliente e número do calçado.
 
 
 
