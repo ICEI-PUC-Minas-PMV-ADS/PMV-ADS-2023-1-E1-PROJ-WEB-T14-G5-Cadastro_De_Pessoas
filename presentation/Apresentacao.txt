@@ -4,10 +4,10 @@ Eu sou o Andrey e nosso projeto é o sistema de cadastro de pessoas, que tem com
 Nós fizemos algumas entrevistas, e alguns problemas que algumas empresas nos passaram que nos levou ao desenvolvimento deste sistema foram:
 
 - Dificuldades no gerenciamento de dados de pessoas...
-   Os sistemas atuais simplesmente agregam informação sem classificação
+   Os sistemas atuais simplesmente agregam informação sem classificação. Procura um pedreiro aí na sua lista. Realmente todo mundo que está ai vc conhece?
 
 - Prejuízos financeiros...
-   Um SMS 9 centavos x 1000 = 90 reais
+   Um SMS 9 centavos x 1000 = 90 reais, WHATSAPP, EMAIL, impressos
    
 - Perda de oportunidade de negocios...
    A empresa precisa focar seu funil de vendas em clientes que realmente interessam. Se eu tenho empresa de casamento, pra que oferecer serviço pra ex cliente?
