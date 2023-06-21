@@ -19,7 +19,7 @@ Alguns problemas que algumas empresas nos passaram e nos levou ao desenvolviment
    Se o pessoal invade até o pentágono, vc acha que nao vao te invadir? Um volume exagerado pode levar a vazamento de dados e problemas com a LGPD
 
 - Impacto na reputação
-  Mandar email ou ligação inconveniente para quem nao é mais cliente
+  Mandar email ou ligação inconveniente para quem nao é mais cliente, vai pro reclame aqui.
 
 SOLUCAO
 - Criar um sistema com abordagem seletiva, moderna e organizada
