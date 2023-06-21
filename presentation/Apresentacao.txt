@@ -24,7 +24,8 @@ Nós fizemos algumas entrevistas, e alguns problemas que algumas empresas nos pa
 SOLUCAO
 - Criar um sistema com abordagem seletiva, moderna e organizada, onde voce consiga uma Classificação e Categorização dos contatos conforme demanda, sem ser engessado
 
-Por exemplo: Hotel: Clientes,
+Por exemplo: 
+Hotel: Clientes,
 Clinica médica: Pacientes
 Centro auto: Proprietários e marcas que possuem.
 Loja de sapato: Cliente e número do calçado.
