@@ -1,0 +1,35 @@
+Boa noite
+Eu sou o Andrey e nosso projeto é o sistema de cadastro de pessoas, que tem como objetivo permitir cadastrar os contatos da sua empresa de forma moderna e organizada. 
+
+Alguns problemas que algumas empresas nos passaram e nos levou ao desenvolvimento são:
+
+- Dificuldades...
+   Os sistemas atuais simplesmente agregam informação sem classificação
+
+- Prejuízos...
+   Um SMS 9 centavos
+   
+- Perda de oportunidade
+   A empresa precisa focar seu funil de vendas em clientes que realmente interessam
+
+- Problemas de comunicação
+   Beatriz, Bia, farmaceutica? Fornecedora? Cliente? Qual é essa?
+
+- Riscos de segurança
+   Um volume exagerado pode levar a vazamento de dados e problemas com a LGPD
+
+- Impacto
+  Mandar email ou ligação inconveniente para quem nao é mais cliente
+
+SOLUCAO
+- Criar um sistema com abordagem seletiva, moderna e organizada
+
+- Classificação e Categorização dos contatos conforme demanda
+
+- Hotel: Clientes, Clinica médica: Pacientes, Centro auto: Proprietários e marcas
+
+
+
+
+
+
