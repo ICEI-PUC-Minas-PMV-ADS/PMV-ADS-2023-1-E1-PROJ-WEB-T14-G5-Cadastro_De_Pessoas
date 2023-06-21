@@ -1,7 +1,7 @@
 Boa noite (DEVAGAR)
 Eu sou o Andrey e nosso projeto é o sistema de cadastro de pessoas, que tem como objetivo permitir cadastrar os contatos da sua empresa de forma moderna e organizada. 
 
-Nós fizemos algumas entrevistas, e alguns problemas que algumas empresas nos passaram e nos levou ao desenvolvimento são:
+Nós fizemos algumas entrevistas, e alguns problemas que algumas empresas nos passaram que nos levou ao desenvolvimento deste sistema foram:
 
 - Dificuldades no gerenciamento de dados de pessoas...
    Os sistemas atuais simplesmente agregam informação sem classificação
