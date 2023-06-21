@@ -3,22 +3,22 @@ Eu sou o Andrey e nosso projeto é o sistema de cadastro de pessoas, que tem com
 
 Alguns problemas que algumas empresas nos passaram e nos levou ao desenvolvimento são:
 
-- Dificuldades...
+- Dificuldades no gerenciamento de dados de pessoas...
    Os sistemas atuais simplesmente agregam informação sem classificação
 
-- Prejuízos...
+- Prejuízos financeiros...
    Um SMS 9 centavos
    
-- Perda de oportunidade
+- Perda de oportunidade de negocios...
    A empresa precisa focar seu funil de vendas em clientes que realmente interessam
 
-- Problemas de comunicação
+- Problemas de comunicação...
    Beatriz, Bia, farmaceutica? Fornecedora? Cliente? Qual é essa?
 
-- Riscos de segurança
+- Riscos de segurança...
    Um volume exagerado pode levar a vazamento de dados e problemas com a LGPD
 
-- Impacto
+- Impacto na reputação
   Mandar email ou ligação inconveniente para quem nao é mais cliente
 
 SOLUCAO
