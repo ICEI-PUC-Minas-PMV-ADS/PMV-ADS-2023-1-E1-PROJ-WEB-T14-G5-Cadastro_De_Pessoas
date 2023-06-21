@@ -32,6 +32,7 @@ Ah Andrey: Eu tenho Loja de sapato: Cliente e número do calçado.
 
 
 Interface:
-Tela de login, com recuperação e criação automática de login: LocalStorage nao tem usuario.
-
-
+- Tela de login, com recuperação e criação automática de login: LocalStorage nao tem usuario.
+- Menu de opções onde vc acessa os cadastros
+- Listagens: Inteface padrão evitando a sobrecarga cognitiva
+- Exemplo de cadastro de pessoa
