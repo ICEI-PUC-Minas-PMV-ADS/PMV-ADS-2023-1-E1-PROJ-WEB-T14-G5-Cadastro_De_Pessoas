@@ -22820,665 +22820,6 @@
     ]
    },
    "display": 0,
-   "duration": 3600.0,
-   "effects": [],
-   "end": 29.099999999999994,
-   "gravity": 4,
-   "has_audio": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": -1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "has_video": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": -1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "id": "S048TW4F3X",
-   "layer": 5250000,
-   "location_x": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": 0.07999999821186066
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     },
-     {
-      "co": {
-       "X": -1401,
-       "Y": 0.09320129652490186
-      },
-      "interpolation": 0
-     },
-     {
-      "co": {
-       "X": 45,
-       "Y": 0.08995023369789124
-      },
-      "interpolation": 0
-     }
-    ]
-   },
-   "location_y": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": 0.41999998688697815
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     },
-     {
-      "co": {
-       "X": -1401,
-       "Y": 0.41999998688697815
-      },
-      "interpolation": 0
-     },
-     {
-      "co": {
-       "X": 45,
-       "Y": 0.41999998688697815
-      },
-      "interpolation": 0
-     }
-    ]
-   },
-   "mixing": 0,
-   "origin_x": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": 0.5
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "origin_y": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": 0.5
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "parentObjectId": "",
-   "perspective_c1_x": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": -1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "perspective_c1_y": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": -1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "perspective_c2_x": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": -1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "perspective_c2_y": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": -1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "perspective_c3_x": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": -1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "perspective_c3_y": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": -1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "perspective_c4_x": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": -1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "perspective_c4_y": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": -1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "position": 46.9,
-   "reader": {
-    "acodec": "",
-    "audio_bit_rate": 0,
-    "audio_stream_index": -1,
-    "audio_timebase": {
-     "den": 1,
-     "num": 1
-    },
-    "channel_layout": 4,
-    "channels": 0,
-    "display_ratio": {
-     "den": 91,
-     "num": 1406
-    },
-    "duration": 3600.0,
-    "file_size": "511784",
-    "fps": {
-     "den": 1,
-     "num": 30
-    },
-    "has_audio": false,
-    "has_single_image": true,
-    "has_video": true,
-    "height": 91,
-    "interlaced_frame": false,
-    "metadata": {},
-    "path": "Recursos_Temporarios/Rodape_Padrao_Noticia2.png",
-    "pixel_format": -1,
-    "pixel_ratio": {
-     "den": 1,
-     "num": 1
-    },
-    "sample_rate": 0,
-    "top_field_first": true,
-    "type": "QtImageReader",
-    "vcodec": "",
-    "video_bit_rate": 0,
-    "video_length": "108000",
-    "video_stream_index": -1,
-    "video_timebase": {
-     "den": 30,
-     "num": 1
-    },
-    "width": 1406,
-    "media_type": "image",
-    "id": "37J8D8EMLX",
-    "image": "thumbnail/37J8D8EMLX.png",
-    "name": "Rodape_Padrao_Noticia2.png",
-    "tags": ""
-   },
-   "rotation": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": 0.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "scale": 1,
-   "scale_x": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": 1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "scale_y": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": 1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "shear_x": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": 0.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "shear_y": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": 0.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "start": 0,
-   "time": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": 1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "volume": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": 1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "wave_color": {
-    "alpha": {
-     "Points": [
-      {
-       "co": {
-        "X": 1.0,
-        "Y": 255.0
-       },
-       "handle_left": {
-        "X": 0.5,
-        "Y": 1.0
-       },
-       "handle_right": {
-        "X": 0.5,
-        "Y": 0.0
-       },
-       "handle_type": 0,
-       "interpolation": 0
-      }
-     ]
-    },
-    "blue": {
-     "Points": [
-      {
-       "co": {
-        "X": 1.0,
-        "Y": 255.0
-       },
-       "handle_left": {
-        "X": 0.5,
-        "Y": 1.0
-       },
-       "handle_right": {
-        "X": 0.5,
-        "Y": 0.0
-       },
-       "handle_type": 0,
-       "interpolation": 0
-      }
-     ]
-    },
-    "green": {
-     "Points": [
-      {
-       "co": {
-        "X": 1.0,
-        "Y": 123.0
-       },
-       "handle_left": {
-        "X": 0.5,
-        "Y": 1.0
-       },
-       "handle_right": {
-        "X": 0.5,
-        "Y": 0.0
-       },
-       "handle_type": 0,
-       "interpolation": 0
-      }
-     ]
-    },
-    "red": {
-     "Points": [
-      {
-       "co": {
-        "X": 1.0,
-        "Y": 0.0
-       },
-       "handle_left": {
-        "X": 0.5,
-        "Y": 1.0
-       },
-       "handle_right": {
-        "X": 0.5,
-        "Y": 0.0
-       },
-       "handle_type": 0,
-       "interpolation": 0
-      }
-     ]
-    }
-   },
-   "waveform": false,
-   "file_id": "37J8D8EMLX",
-   "title": "Rodape_Padrao_Noticia2.png",
-   "image": "thumbnail/37J8D8EMLX.png"
-  },
-  {
-   "alpha": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": 1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "anchor": 0,
-   "channel_filter": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": -1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "channel_mapping": {
-    "Points": [
-     {
-      "co": {
-       "X": 1.0,
-       "Y": -1.0
-      },
-      "handle_left": {
-       "X": 0.5,
-       "Y": 1.0
-      },
-      "handle_right": {
-       "X": 0.5,
-       "Y": 0.0
-      },
-      "handle_type": 0,
-      "interpolation": 0
-     }
-    ]
-   },
-   "display": 0,
    "duration": 2.986666679382324,
    "effects": [],
    "end": 2.986666679382324,
@@ -24048,6 +23389,637 @@
    "file_id": "UWG6HO0IN6",
    "title": "WhatsApp Video 2023-06-05 at 19.13.43.mp4",
    "image": "thumbnail/UWG6HO0IN6.png"
+  },
+  {
+   "alpha": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "anchor": 0,
+   "channel_filter": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "channel_mapping": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "display": 0,
+   "duration": 3600.0,
+   "effects": [],
+   "end": 29.099999999999994,
+   "gravity": 4,
+   "has_audio": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "has_video": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "id": "S048TW4F3X",
+   "layer": 5250000,
+   "location_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 0.09
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "location_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 0.42
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "mixing": 0,
+   "origin_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 0.5
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "origin_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 0.5
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "parentObjectId": "",
+   "perspective_c1_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "perspective_c1_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "perspective_c2_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "perspective_c2_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "perspective_c3_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "perspective_c3_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "perspective_c4_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "perspective_c4_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "position": 46.9,
+   "reader": {
+    "acodec": "",
+    "audio_bit_rate": 0,
+    "audio_stream_index": -1,
+    "audio_timebase": {
+     "den": 1,
+     "num": 1
+    },
+    "channel_layout": 4,
+    "channels": 0,
+    "display_ratio": {
+     "den": 91,
+     "num": 1406
+    },
+    "duration": 3600.0,
+    "file_size": "511784",
+    "fps": {
+     "den": 1,
+     "num": 30
+    },
+    "has_audio": false,
+    "has_single_image": true,
+    "has_video": true,
+    "height": 91,
+    "interlaced_frame": false,
+    "metadata": {},
+    "path": "Recursos_Temporarios/Rodape_Padrao_Noticia2.png",
+    "pixel_format": -1,
+    "pixel_ratio": {
+     "den": 1,
+     "num": 1
+    },
+    "sample_rate": 0,
+    "top_field_first": true,
+    "type": "QtImageReader",
+    "vcodec": "",
+    "video_bit_rate": 0,
+    "video_length": "108000",
+    "video_stream_index": -1,
+    "video_timebase": {
+     "den": 30,
+     "num": 1
+    },
+    "width": 1406,
+    "media_type": "image",
+    "id": "37J8D8EMLX",
+    "image": "thumbnail/37J8D8EMLX.png",
+    "name": "Rodape_Padrao_Noticia2.png",
+    "tags": ""
+   },
+   "rotation": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 0.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "scale": 1,
+   "scale_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "scale_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "shear_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 0.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "shear_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 0.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "start": 0,
+   "time": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "volume": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 1.0
+      },
+      "handle_left": {
+       "X": 0.5,
+       "Y": 1.0
+      },
+      "handle_right": {
+       "X": 0.5,
+       "Y": 0.0
+      },
+      "handle_type": 0,
+      "interpolation": 0
+     }
+    ]
+   },
+   "wave_color": {
+    "alpha": {
+     "Points": [
+      {
+       "co": {
+        "X": 1.0,
+        "Y": 255.0
+       },
+       "handle_left": {
+        "X": 0.5,
+        "Y": 1.0
+       },
+       "handle_right": {
+        "X": 0.5,
+        "Y": 0.0
+       },
+       "handle_type": 0,
+       "interpolation": 0
+      }
+     ]
+    },
+    "blue": {
+     "Points": [
+      {
+       "co": {
+        "X": 1.0,
+        "Y": 255.0
+       },
+       "handle_left": {
+        "X": 0.5,
+        "Y": 1.0
+       },
+       "handle_right": {
+        "X": 0.5,
+        "Y": 0.0
+       },
+       "handle_type": 0,
+       "interpolation": 0
+      }
+     ]
+    },
+    "green": {
+     "Points": [
+      {
+       "co": {
+        "X": 1.0,
+        "Y": 123.0
+       },
+       "handle_left": {
+        "X": 0.5,
+        "Y": 1.0
+       },
+       "handle_right": {
+        "X": 0.5,
+        "Y": 0.0
+       },
+       "handle_type": 0,
+       "interpolation": 0
+      }
+     ]
+    },
+    "red": {
+     "Points": [
+      {
+       "co": {
+        "X": 1.0,
+        "Y": 0.0
+       },
+       "handle_left": {
+        "X": 0.5,
+        "Y": 1.0
+       },
+       "handle_right": {
+        "X": 0.5,
+        "Y": 0.0
+       },
+       "handle_type": 0,
+       "interpolation": 0
+      }
+     ]
+    }
+   },
+   "waveform": false,
+   "file_id": "37J8D8EMLX",
+   "title": "Rodape_Padrao_Noticia2.png",
+   "image": "thumbnail/37J8D8EMLX.png"
   }
  ],
  "effects": [
@@ -30027,7 +29999,7 @@
   }
  ],
  "duration": 300.0,
- "scale": 9.0,
+ "scale": 4.0,
  "tick_pixels": 100,
  "playhead_position": 0,
  "profile": "HD 720p 30 fps",
@@ -30761,7 +30733,7 @@
      "title": "Rodape_Padrao_Noticia.png",
      "image": "thumbnail/WOTZHRS38W.png"
     },
-    "transaction": "51b4fa8a-bb24-467f-b405-6763f4910260"
+    "transaction": "f7d23806-7239-4a81-8c9a-585e5d44f284"
    },
    {
     "type": "update",
@@ -31431,7 +31403,7 @@
      "title": "Rodape_Padrao_Noticia.png",
      "image": "thumbnail/WOTZHRS38W.png"
     },
-    "transaction": "92d341d1-ee33-4319-8fdc-4a2488e96842"
+    "transaction": "38f04995-ebe7-47a2-83c8-966ef306a440"
    },
    {
     "type": "update",
@@ -32101,7 +32073,7 @@
      "title": "Rodape_Padrao_Noticia2.png",
      "image": "thumbnail/37J8D8EMLX.png"
     },
-    "transaction": "5f0fb6f5-761e-46cf-b9b2-ad396aadf6fd"
+    "transaction": "cbac74a7-ba67-42aa-b323-b59a79defda4"
    },
    {
     "type": "update",
@@ -32785,7 +32757,7 @@
      "title": "Rodape_Padrao_Noticia2.png",
      "image": "thumbnail/37J8D8EMLX.png"
     },
-    "transaction": "ed04decb-4ee4-4ac2-bafd-625b733393e0"
+    "transaction": "b2a3b199-a7af-47db-af97-062e67f42680"
    },
    {
     "type": "update",
@@ -33469,7 +33441,7 @@
      "title": "Rodape_Padrao_Noticia2.png",
      "image": "thumbnail/37J8D8EMLX.png"
     },
-    "transaction": "6d279765-2420-4f04-b0eb-d92b84ca81c9"
+    "transaction": "bf565ce7-3048-4588-8e5a-7c2259859903"
    },
    {
     "type": "update",
@@ -34153,7 +34125,7 @@
      "title": "Rodape_Padrao_Noticia2.png",
      "image": "thumbnail/37J8D8EMLX.png"
     },
-    "transaction": "47e52bb6-b6d6-43fc-aa17-4651fb155dfe"
+    "transaction": "92c24b26-5ce1-4d59-946b-a84ea5cacfd6"
    },
    {
     "type": "update",
@@ -34837,7 +34809,7 @@
      "title": "Rodape_Padrao_Noticia2.png",
      "image": "thumbnail/37J8D8EMLX.png"
     },
-    "transaction": "aca09c78-e5d7-4a42-bb6d-dd99746799ef"
+    "transaction": "8a2d7ed4-a6a4-4ed8-8bd9-58fda29d007a"
    },
    {
     "type": "update",
@@ -35521,7 +35493,7 @@
      "title": "Rodape_Padrao_Noticia2.png",
      "image": "thumbnail/37J8D8EMLX.png"
     },
-    "transaction": "ad316a71-7ee3-43bd-924f-75b4cae98a71"
+    "transaction": "2e1b1a93-ddd2-4307-8bd9-c1b4ef915e90"
    },
    {
     "type": "update",
@@ -36183,7 +36155,7 @@
      "title": "Rodape_Padrao_Noticia.png",
      "image": "thumbnail/WOTZHRS38W.png"
     },
-    "transaction": "b05e76cb-1ea3-400a-b41b-8866eefa2dca"
+    "transaction": "44b37172-94b6-4d41-8a46-a45f148db318"
    },
    {
     "type": "update",
@@ -36845,7 +36817,7 @@
      "title": "Rodape_Padrao_Noticia2.png",
      "image": "thumbnail/37J8D8EMLX.png"
     },
-    "transaction": "b9170747-a8c8-4e2a-8524-06e4faa71d25"
+    "transaction": "968232bd-e153-4c32-a761-a52d48349269"
    },
    {
     "type": "update",
@@ -36856,11 +36828,585 @@
      }
     ],
     "value": {
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "anchor": 0,
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "display": 0,
+     "duration": 3600.0,
+     "effects": [],
+     "end": 29.099999999999994,
+     "gravity": 4,
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
      "id": "S048TW4F3X",
      "layer": 5250000,
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "mixing": 0,
+     "origin_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.5
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "origin_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.5
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "parentObjectId": "",
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
      "position": 46.9,
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "scale": 1,
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
      "start": 0,
-     "end": 29.099999999999994
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "wave_color": {
+      "alpha": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      }
+     },
+     "waveform": false,
+     "file_id": "37J8D8EMLX",
+     "title": "Rodape_Padrao_Noticia2.png",
+     "image": "thumbnail/37J8D8EMLX.png"
     },
     "old_values": {
      "alpha": {
@@ -37507,653 +38053,7 @@
      "title": "Rodape_Padrao_Noticia2.png",
      "image": "thumbnail/37J8D8EMLX.png"
     },
-    "transaction": "7f267e2f-999a-40ca-9fe4-ac4804bd7de1"
-   },
-   {
-    "type": "update",
-    "key": [
-     "clips",
-     {
-      "id": "V3OZZQEF0B"
-     }
-    ],
-    "value": {
-     "id": "V3OZZQEF0B",
-     "layer": 5000000,
-     "position": 0,
-     "start": 0,
-     "end": 22.09999999999999
-    },
-    "old_values": {
-     "alpha": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": 1.0
-        },
-        "handle_left": {
-         "X": 0.5,
-         "Y": 1.0
-        },
-        "handle_right": {
-         "X": 0.5,
-         "Y": 0.0
-        },
-        "handle_type": 0,
-        "interpolation": 0
-       }
-      ]
-     },
-     "anchor": 0,
-     "channel_filter": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": -1.0
-        },
-        "handle_left": {
-         "X": 0.5,
-         "Y": 1.0
-        },
-        "handle_right": {
-         "X": 0.5,
-         "Y": 0.0
-        },
-        "handle_type": 0,
-        "interpolation": 0
-       }
-      ]
-     },
-     "channel_mapping": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": -1.0
-        },
-        "handle_left": {
-         "X": 0.5,
-         "Y": 1.0
-        },
-        "handle_right": {
-         "X": 0.5,
-         "Y": 0.0
-        },
-        "handle_type": 0,
-        "interpolation": 0
-       }
-      ]
-     },
-     "display": 0,
-     "duration": 3600.0,
-     "effects": [],
-     "end": 22.09999999999999,
-     "gravity": 4,
-     "has_audio": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": -1.0
-        },
-        "handle_left": {
-         "X": 0.5,
-         "Y": 1.0
-        },
-        "handle_right": {
-         "X": 0.5,
-         "Y": 0.0
-        },
-        "handle_type": 0,
-        "interpolation": 0
-       }
-      ]
-     },
-     "has_video": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": -1.0
-        },
-        "handle_left": {
-         "X": 0.5,
-         "Y": 1.0
-        },
-        "handle_right": {
-         "X": 0.5,
-         "Y": 0.0
-        },
-        "handle_type": 0,
-        "interpolation": 0
-       }
-      ]
-     },
-     "id": "V3OZZQEF0B",
-     "layer": 5000000,
-     "location_x": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": 0.0
-        },
-        "handle_left": {
-         "X": 0.5,
-         "Y": 1.0
-        },
-        "handle_right": {
-         "X": 0.5,
-         "Y": 0.0
-        },
-        "handle_type": 0,
-        "interpolation": 0
-       }
-      ]
-     },
-     "location_y": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": 0.0
-        },
-        "handle_left": {
-         "X": 0.5,
-         "Y": 1.0
-        },
-        "handle_right": {
-         "X": 0.5,
-         "Y": 0.0
-        },
-        "handle_type": 0,
-        "interpolation": 0
-       }
-      ]
-     },
-     "mixing": 0,
-     "origin_x": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": 0.5
-        },
-        "handle_left": {
-         "X": 0.5,
-         "Y": 1.0
-        },
-        "handle_right": {
-         "X": 0.5,
-         "Y": 0.0
-        },
-        "handle_type": 0,
-        "interpolation": 0
-       }
-      ]
-     },
-     "origin_y": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": 0.5
-        },
-        "handle_left": {
-         "X": 0.5,
-         "Y": 1.0
-        },
-        "handle_right": {
-         "X": 0.5,
-         "Y": 0.0
-        },
-        "handle_type": 0,
-        "interpolation": 0
-       }
-      ]
-     },
-     "parentObjectId": "",
-     "perspective_c1_x": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": -1.0
-        },
-        "handle_left": {
-         "X": 0.5,
-         "Y": 1.0
-        },
-        "handle_right": {
-         "X": 0.5,
-         "Y": 0.0
-        },
-        "handle_type": 0,
-        "interpolation": 0
-       }
-      ]
-     },
-     "perspective_c1_y": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": -1.0
-        },
-        "handle_left": {
-         "X": 0.5,
-         "Y": 1.0
-        },
-        "handle_right": {
-         "X": 0.5,
-         "Y": 0.0
-        },
-        "handle_type": 0,
-        "interpolation": 0
-       }
-      ]
-     },
-     "perspective_c2_x": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": -1.0
-        },
-        "handle_left": {
-         "X": 0.5,
-         "Y": 1.0
-        },
-        "handle_right": {
-         "X": 0.5,
-         "Y": 0.0
-        },
-        "handle_type": 0,
-        "interpolation": 0
-       }
-      ]
-     },
-     "perspective_c2_y": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": -1.0
-        },
-        "handle_left": {
-         "X": 0.5,
-         "Y": 1.0
-        },
-        "handle_right": {
-         "X": 0.5,
-         "Y": 0.0
-        },
-        "handle_type": 0,
-        "interpolation": 0
-       }
-      ]
-     },
-     "perspective_c3_x": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": -1.0
-        },
-        "handle_left": {
-         "X": 0.5,
-         "Y": 1.0
-        },
-        "handle_right": {
-         "X": 0.5,
-         "Y": 0.0
-        },
-        "handle_type": 0,
-        "interpolation": 0
-       }
-      ]
-     },
-     "perspective_c3_y": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": -1.0
-        },
-        "handle_left": {
-         "X": 0.5,
-         "Y": 1.0
-        },
-        "handle_right": {
-         "X": 0.5,
-         "Y": 0.0
-        },
-        "handle_type": 0,
-        "interpolation": 0
-       }
-      ]
-     },
-     "perspective_c4_x": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": -1.0
-        },
-        "handle_left": {
-         "X": 0.5,
-         "Y": 1.0
-        },
-        "handle_right": {
-         "X": 0.5,
-         "Y": 0.0
-        },
-        "handle_type": 0,
-        "interpolation": 0
-       }
-      ]
-     },
-     "perspective_c4_y": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": -1.0
-        },
-        "handle_left": {
-         "X": 0.5,
-         "Y": 1.0
-        },
-        "handle_right": {
-         "X": 0.5,
-         "Y": 0.0
-        },
-        "handle_type": 0,
-        "interpolation": 0
-       }
-      ]
-     },
-     "position": 0,
-     "reader": {
-      "acodec": "",
-      "audio_bit_rate": 0,
-      "audio_stream_index": -1,
-      "audio_timebase": {
-       "den": 1,
-       "num": 1
-      },
-      "channel_layout": 4,
-      "channels": 0,
-      "display_ratio": {
-       "den": 747,
-       "num": 1027
-      },
-      "duration": 3600.0,
-      "file_size": "3068676",
-      "fps": {
-       "den": 1,
-       "num": 30
-      },
-      "has_audio": false,
-      "has_single_image": true,
-      "has_video": true,
-      "height": 747,
-      "interlaced_frame": false,
-      "metadata": {},
-      "path": "Recursos_Temporarios/Intro.png",
-      "pixel_format": -1,
-      "pixel_ratio": {
-       "den": 1,
-       "num": 1
-      },
-      "sample_rate": 0,
-      "top_field_first": true,
-      "type": "QtImageReader",
-      "vcodec": "",
-      "video_bit_rate": 0,
-      "video_length": "108000",
-      "video_stream_index": -1,
-      "video_timebase": {
-       "den": 30,
-       "num": 1
-      },
-      "width": 1027,
-      "media_type": "image",
-      "name": "Intro.png",
-      "tags": ""
-     },
-     "rotation": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": 0.0
-        },
-        "handle_left": {
-         "X": 0.5,
-         "Y": 1.0
-        },
-        "handle_right": {
-         "X": 0.5,
-         "Y": 0.0
-        },
-        "handle_type": 0,
-        "interpolation": 0
-       }
-      ]
-     },
-     "scale": 1,
-     "scale_x": {
-      "Points": [
-       {
-        "co": {
-         "X": 1,
-         "Y": 1.0504201650619507
-        },
-        "handle_left": {
-         "X": 0.5,
-         "Y": 1.0
-        },
-        "handle_right": {
-         "X": 0.5,
-         "Y": 0.0
-        },
-        "handle_type": 0,
-        "interpolation": 0
-       }
-      ]
-     },
-     "scale_y": {
-      "Points": [
-       {
-        "co": {
-         "X": 1,
-         "Y": 1.0
-        },
-        "handle_left": {
-         "X": 0.5,
-         "Y": 1.0
-        },
-        "handle_right": {
-         "X": 0.5,
-         "Y": 0.0
-        },
-        "handle_type": 0,
-        "interpolation": 0
-       }
-      ]
-     },
-     "shear_x": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": 0.0
-        },
-        "handle_left": {
-         "X": 0.5,
-         "Y": 1.0
-        },
-        "handle_right": {
-         "X": 0.5,
-         "Y": 0.0
-        },
-        "handle_type": 0,
-        "interpolation": 0
-       }
-      ]
-     },
-     "shear_y": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": 0.0
-        },
-        "handle_left": {
-         "X": 0.5,
-         "Y": 1.0
-        },
-        "handle_right": {
-         "X": 0.5,
-         "Y": 0.0
-        },
-        "handle_type": 0,
-        "interpolation": 0
-       }
-      ]
-     },
-     "start": 0,
-     "time": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": 1.0
-        },
-        "handle_left": {
-         "X": 0.5,
-         "Y": 1.0
-        },
-        "handle_right": {
-         "X": 0.5,
-         "Y": 0.0
-        },
-        "handle_type": 0,
-        "interpolation": 0
-       }
-      ]
-     },
-     "volume": {
-      "Points": [
-       {
-        "co": {
-         "X": 1.0,
-         "Y": 1.0
-        },
-        "handle_left": {
-         "X": 0.5,
-         "Y": 1.0
-        },
-        "handle_right": {
-         "X": 0.5,
-         "Y": 0.0
-        },
-        "handle_type": 0,
-        "interpolation": 0
-       }
-      ]
-     },
-     "wave_color": {
-      "alpha": {
-       "Points": [
-        {
-         "co": {
-          "X": 1.0,
-          "Y": 255.0
-         },
-         "handle_left": {
-          "X": 0.5,
-          "Y": 1.0
-         },
-         "handle_right": {
-          "X": 0.5,
-          "Y": 0.0
-         },
-         "handle_type": 0,
-         "interpolation": 0
-        }
-       ]
-      },
-      "blue": {
-       "Points": [
-        {
-         "co": {
-          "X": 1.0,
-          "Y": 255.0
-         },
-         "handle_left": {
-          "X": 0.5,
-          "Y": 1.0
-         },
-         "handle_right": {
-          "X": 0.5,
-          "Y": 0.0
-         },
-         "handle_type": 0,
-         "interpolation": 0
-        }
-       ]
-      },
-      "green": {
-       "Points": [
-        {
-         "co": {
-          "X": 1.0,
-          "Y": 123.0
-         },
-         "handle_left": {
-          "X": 0.5,
-          "Y": 1.0
-         },
-         "handle_right": {
-          "X": 0.5,
-          "Y": 0.0
-         },
-         "handle_type": 0,
-         "interpolation": 0
-        }
-       ]
-      },
-      "red": {
-       "Points": [
-        {
-         "co": {
-          "X": 1.0,
-          "Y": 0.0
-         },
-         "handle_left": {
-          "X": 0.5,
-          "Y": 1.0
-         },
-         "handle_right": {
-          "X": 0.5,
-          "Y": 0.0
-         },
-         "handle_type": 0,
-         "interpolation": 0
-        }
-       ]
-      }
-     },
-     "waveform": false,
-     "file_id": "6OAHNNGWOQ",
-     "title": "Intro.png",
-     "image": "thumbnail/6OAHNNGWOQ.png"
-    },
-    "transaction": "760eecc0-2aff-4456-9900-2f1340843a8f"
+    "transaction": "8f3ddc7e-5d7c-4313-bf2f-5370b8e2e627"
    },
    {
     "type": "update",
@@ -38164,12 +38064,12 @@
      }
     ],
     "value": {
-     "location_y": {
+     "location_x": {
       "Points": [
        {
         "co": {
          "X": 1.0,
-         "Y": 0.41999998688697815
+         "Y": 0.09000000357627869
         },
         "handle_left": {
          "X": 0.5,
@@ -38180,20 +38080,6 @@
          "Y": 0.0
         },
         "handle_type": 0,
-        "interpolation": 0
-       },
-       {
-        "co": {
-         "X": -1401,
-         "Y": 0.41999998688697815
-        },
-        "interpolation": 0
-       },
-       {
-        "co": {
-         "X": 45,
-         "Y": 0.41999998688697815
-        },
         "interpolation": 0
        }
       ]
@@ -38313,7 +38199,7 @@
        {
         "co": {
          "X": 1.0,
-         "Y": 0.07999999821186066
+         "Y": 0.0
         },
         "handle_left": {
          "X": 0.5,
@@ -38324,13 +38210,6 @@
          "Y": 0.0
         },
         "handle_type": 0,
-        "interpolation": 0
-       },
-       {
-        "co": {
-         "X": -1401,
-         "Y": 0.09320129652490186
-        },
         "interpolation": 0
        }
       ]
@@ -38340,7 +38219,7 @@
        {
         "co": {
          "X": 1.0,
-         "Y": 0.41999998688697815
+         "Y": 0.0
         },
         "handle_left": {
          "X": 0.5,
@@ -38351,13 +38230,6 @@
          "Y": 0.0
         },
         "handle_type": 0,
-        "interpolation": 0
-       },
-       {
-        "co": {
-         "X": -1401,
-         "Y": 0.41999998688697815
-        },
         "interpolation": 0
        }
       ]
@@ -38844,7 +38716,7 @@
      "title": "Rodape_Padrao_Noticia2.png",
      "image": "thumbnail/37J8D8EMLX.png"
     },
-    "transaction": "73b4fe94-bb0f-4054-8616-e131566e11fd"
+    "transaction": "1973e74b-38ad-496b-b080-37ac8267f4ca"
    },
    {
     "type": "update",
@@ -38871,20 +38743,6 @@
          "Y": 0.0
         },
         "handle_type": 0,
-        "interpolation": 0
-       },
-       {
-        "co": {
-         "X": -1401,
-         "Y": 0.41999998688697815
-        },
-        "interpolation": 0
-       },
-       {
-        "co": {
-         "X": 45,
-         "Y": 0.41999998688697815
-        },
         "interpolation": 0
        }
       ]
@@ -39004,7 +38862,7 @@
        {
         "co": {
          "X": 1.0,
-         "Y": 0.07999999821186066
+         "Y": 0.09000000357627869
         },
         "handle_left": {
          "X": 0.5,
@@ -39015,20 +38873,6 @@
          "Y": 0.0
         },
         "handle_type": 0,
-        "interpolation": 0
-       },
-       {
-        "co": {
-         "X": -1401,
-         "Y": 0.09320129652490186
-        },
-        "interpolation": 0
-       },
-       {
-        "co": {
-         "X": 45,
-         "Y": 0.08829186111688614
-        },
         "interpolation": 0
        }
       ]
@@ -39038,7 +38882,7 @@
        {
         "co": {
          "X": 1.0,
-         "Y": 0.41999998688697815
+         "Y": 0.0
         },
         "handle_left": {
          "X": 0.5,
@@ -39049,20 +38893,6 @@
          "Y": 0.0
         },
         "handle_type": 0,
-        "interpolation": 0
-       },
-       {
-        "co": {
-         "X": -1401,
-         "Y": 0.41999998688697815
-        },
-        "interpolation": 0
-       },
-       {
-        "co": {
-         "X": 45,
-         "Y": 0.41999998688697815
-        },
         "interpolation": 0
        }
       ]
@@ -39549,7 +39379,7 @@
      "title": "Rodape_Padrao_Noticia2.png",
      "image": "thumbnail/37J8D8EMLX.png"
     },
-    "transaction": "8b0b9dec-b32b-4712-93df-afd4e0e181e9"
+    "transaction": "c9810a08-a08d-401e-bc7b-08ad64b579e4"
    },
    {
     "type": "update",
@@ -39560,12 +39390,12 @@
      }
     ],
     "value": {
-     "location_y": {
+     "location_x": {
       "Points": [
        {
         "co": {
          "X": 1.0,
-         "Y": 0.41999998688697815
+         "Y": 0.09
         },
         "handle_left": {
          "X": 0.5,
@@ -39576,20 +39406,6 @@
          "Y": 0.0
         },
         "handle_type": 0,
-        "interpolation": 0
-       },
-       {
-        "co": {
-         "X": -1401,
-         "Y": 0.41999998688697815
-        },
-        "interpolation": 0
-       },
-       {
-        "co": {
-         "X": 45,
-         "Y": 0.41999998688697815
-        },
         "interpolation": 0
        }
       ]
@@ -39709,7 +39525,7 @@
        {
         "co": {
          "X": 1.0,
-         "Y": 0.07999999821186066
+         "Y": 0.09000000357627869
         },
         "handle_left": {
          "X": 0.5,
@@ -39720,20 +39536,6 @@
          "Y": 0.0
         },
         "handle_type": 0,
-        "interpolation": 0
-       },
-       {
-        "co": {
-         "X": -1401,
-         "Y": 0.09320129652490186
-        },
-        "interpolation": 0
-       },
-       {
-        "co": {
-         "X": 45,
-         "Y": 0.09160860849059439
-        },
         "interpolation": 0
        }
       ]
@@ -39754,20 +39556,6 @@
          "Y": 0.0
         },
         "handle_type": 0,
-        "interpolation": 0
-       },
-       {
-        "co": {
-         "X": -1401,
-         "Y": 0.41999998688697815
-        },
-        "interpolation": 0
-       },
-       {
-        "co": {
-         "X": 45,
-         "Y": 0.41999998688697815
-        },
         "interpolation": 0
        }
       ]
@@ -40254,7 +40042,670 @@
      "title": "Rodape_Padrao_Noticia2.png",
      "image": "thumbnail/37J8D8EMLX.png"
     },
-    "transaction": "f56e335c-01eb-4ed7-b4b0-7e2bb313535f"
+    "transaction": "b3aaa980-aa33-4de8-aee7-4f4569179189"
+   },
+   {
+    "type": "update",
+    "key": [
+     "clips",
+     {
+      "id": "S048TW4F3X"
+     }
+    ],
+    "value": {
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.42
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     }
+    },
+    "old_values": {
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "anchor": 0,
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "display": 0,
+     "duration": 3600.0,
+     "effects": [],
+     "end": 29.099999999999994,
+     "gravity": 4,
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "id": "S048TW4F3X",
+     "layer": 5250000,
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.09
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.41999998688697815
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "mixing": 0,
+     "origin_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.5
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "origin_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.5
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "parentObjectId": "",
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "position": 46.9,
+     "reader": {
+      "acodec": "",
+      "audio_bit_rate": 0,
+      "audio_stream_index": -1,
+      "audio_timebase": {
+       "den": 1,
+       "num": 1
+      },
+      "channel_layout": 4,
+      "channels": 0,
+      "display_ratio": {
+       "den": 91,
+       "num": 1406
+      },
+      "duration": 3600.0,
+      "file_size": "511784",
+      "fps": {
+       "den": 1,
+       "num": 30
+      },
+      "has_audio": false,
+      "has_single_image": true,
+      "has_video": true,
+      "height": 91,
+      "interlaced_frame": false,
+      "metadata": {},
+      "path": "Recursos_Temporarios/Rodape_Padrao_Noticia2.png",
+      "pixel_format": -1,
+      "pixel_ratio": {
+       "den": 1,
+       "num": 1
+      },
+      "sample_rate": 0,
+      "top_field_first": true,
+      "type": "QtImageReader",
+      "vcodec": "",
+      "video_bit_rate": 0,
+      "video_length": "108000",
+      "video_stream_index": -1,
+      "video_timebase": {
+       "den": 30,
+       "num": 1
+      },
+      "width": 1406,
+      "media_type": "image",
+      "id": "37J8D8EMLX",
+      "image": "thumbnail/37J8D8EMLX.png",
+      "name": "Rodape_Padrao_Noticia2.png",
+      "tags": ""
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "scale": 1,
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "start": 0,
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "handle_left": {
+         "X": 0.5,
+         "Y": 1.0
+        },
+        "handle_right": {
+         "X": 0.5,
+         "Y": 0.0
+        },
+        "handle_type": 0,
+        "interpolation": 0
+       }
+      ]
+     },
+     "wave_color": {
+      "alpha": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         },
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "interpolation": 0
+        }
+       ]
+      }
+     },
+     "waveform": false,
+     "file_id": "37J8D8EMLX",
+     "title": "Rodape_Padrao_Noticia2.png",
+     "image": "thumbnail/37J8D8EMLX.png"
+    },
+    "transaction": "ab44c04b-3836-49d3-a063-c10568bfb5df"
    }
   ],
   "redo": []
